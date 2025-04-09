@@ -1,4 +1,6 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, Request
+
+from model.gpt import chain
 
 router = APIRouter(prefix="/rag", tags=['RAG'])
 
@@ -7,7 +9,13 @@ def greet():
     return "RAG api"
 
 @router.post('/')
-def reply():
+async def reply(req: Request):
+    body = await req.json()
+    user_query = body.get("query")
+
+    if not user_query:
+        return {"error": "Missing 'query' in request body"}
+
     return {
-        "reply": "Reply from rag server"
+        "reply": chain.invoke(user_query)
     }
