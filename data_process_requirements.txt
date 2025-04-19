@@ -1,0 +1,8 @@
+beautifulsoup4
+requests
+tqdm
+selenium webdriver-manager
+newsapi-python
+stocknews
+openai
+transformers
