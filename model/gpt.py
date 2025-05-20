@@ -21,7 +21,7 @@ template_ticker = (
     "1. If the question contains a 1–5 character uppercase English ticker pattern (A–Z), output that ticker only.\n"
     "2. If it includes financial keywords like “stock price”, “earnings”, or “dividend” but no ticker pattern, output `False` only.\n"
     "3. If multiple tickers appear, output the one most relevant to the question’s intent.\n"
-    "4. Output exactly one token—either the ticker (e.g., `AAPL`) or `False`—with no additional text or whitespace.\n\n"
+    "4. Output exactly one token—either the ticker (e.g., `AAPL`) or `False` with no additional text or whitespace.\n\n"
     "Output:"
 )
 
