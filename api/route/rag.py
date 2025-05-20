@@ -41,7 +41,7 @@ async def reply(req: QueryRequest):
         title = None
     
     res = QueryResponse(
-        title= title,
+        title=title,
         reply=reply,
         ticker=ticker
     )
