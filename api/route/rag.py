@@ -1,6 +1,8 @@
-from fastapi import APIRouter, Request
+from fastapi import APIRouter
 
 import asyncio
+
+from schemas.query import QueryRequest, QueryResponse
 
 from model.gpt import chain, chain_title
 
@@ -11,10 +13,9 @@ def greet():
     return "RAG api"
 
 
-@router.post('/')
-async def reply(req: Request):
-    body = await req.json()
-    user_query = body.get("query")
+@router.post('/', response_model=QueryResponse)
+async def reply(req: QueryRequest):
+    user_query = req.query
 
     if not user_query:
         return {"error": "Missing 'query' in request body"}
@@ -24,9 +25,10 @@ async def reply(req: Request):
     reply_task = chain.ainvoke(user_query)
 
     # Execute each tasks
-    title, answer = await asyncio.gather(title_task, reply_task)
+    title, reply = await asyncio.gather(title_task, reply_task)
 
-    return {
-        "title": title,
-        "reply": answer
-    }
+    res = QueryResponse(
+        title= title,
+        reply=reply
+    )
+    return res
