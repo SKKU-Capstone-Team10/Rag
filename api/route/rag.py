@@ -1,12 +1,15 @@
 from fastapi import APIRouter, Request
 
-from model.gpt import chain
+import asyncio
+
+from model.gpt import chain, chain_title
 
 router = APIRouter(prefix="/rag", tags=['RAG'])
 
 @router.get('/')
 def greet():
     return "RAG api"
+
 
 @router.post('/')
 async def reply(req: Request):
@@ -16,6 +19,14 @@ async def reply(req: Request):
     if not user_query:
         return {"error": "Missing 'query' in request body"}
 
+    # Create LLM Tasks
+    title_task = chain_title.ainvoke(user_query)
+    reply_task = chain.ainvoke(user_query)
+
+    # Execute each tasks
+    title, answer = await asyncio.gather(title_task, reply_task)
+
     return {
-        "reply": chain.invoke(user_query)
+        "title": title,
+        "reply": answer
     }
