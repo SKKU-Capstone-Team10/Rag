@@ -8,3 +8,4 @@ class QueryRequest(BaseModel):
 class QueryResponse(BaseModel):
     title: str
     reply: str
+    ticker: str
