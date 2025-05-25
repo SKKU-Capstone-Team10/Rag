@@ -2,6 +2,7 @@ from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
     OPENAI_API_KEY: str
+    APIFY_API_KEY: str
     
     # Load contents of .env file
     model_config = SettingsConfigDict(
