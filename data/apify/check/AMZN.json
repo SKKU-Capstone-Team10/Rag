@@ -1,0 +1,881 @@
+[
+  {
+    "id": "tradingview:f3cfad635cde2:0",
+    "title": "Amazon Executives Sell Shares in May 2025",
+    "provider": "tradingview",
+    "sourceLogoId": "tradingview",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/tradingview--theme-light.svg",
+    "published": 1748040600000,
+    "source": "TradingView",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/tradingview:f3cfad635cde2:0-amazon-executives-sell-shares-in-may-2025/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table-header",
+              "children": [
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Reporter Name"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Relationship"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Type"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Amount"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "SEC Filing"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table-body",
+              "children": [
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Reynolds Shelley"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Vice President"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$541,128"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1397333/000101872425000052/xslF345X05/wk-form4_1748034472.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Olsavsky Brian T"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Senior Vice President and CFO"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$3,577,867"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1639902/000101872425000054/xslF345X05/wk-form4_1748036106.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Zapolsky David"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Senior Vice President"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$4,175,441"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1557979/000101872425000056/xslF345X05/wk-form4_1748036629.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Garman Matthew S"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "CEO Amazon Web Services"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$4,211,790"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/2024813/000101872425000058/xslF345X05/wk-form4_1748037135.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Jassy Andrew R"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "President and CEO"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$4,000,319"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1374545/000101872425000060/xslF345X05/wk-form4_1748037543.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Herrington Douglas J"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "CEO Worldwide Amazon Stores"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$1,373,851"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1936006/000101872425000062/xslF345X05/wk-form4_1748040001.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Several Amazon executives have reported selling shares of the company's common stock in May 2025, according to recent SEC Form 4 filings. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Vice President Shelley Reynolds sold 2,695 shares at weighted average prices of $200.7346 and $201.48, totaling $541,128. Following the sale, Reynolds directly owns 119,780 shares and indirectly owns 2,655 shares through an Amazon.com 401(k) plan account."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Senior Vice President and CFO, Brian T. Olsavsky, sold 17,750 shares at a price of $201.57 per share, totaling $3,577,867. Post-transaction, Olsavsky directly owns 49,000 shares and indirectly owns 1,591 shares through the Amazon.com 401(k) plan account."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Senior Vice President David Zapolsky sold 20,670 shares across five transactions on May 21 and May 22, with prices ranging from $200.7542 to $203.4179, totaling $4,175,441. Zapolsky directly owns 47,030 shares following these transactions."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "AWS CEO Garman Matthew S sold 20,923 shares at weighted average prices ranging from $200.746 to $203.2133, totaling $4,211,790. Following the sale, Garman no longer directly owns Amazon common stock but retains indirect ownership of 887 shares through the Amazon.com 401(k) Plan Account."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Amazon's President and CEO, Andrew R. Jassy, sold 19,872 shares at weighted average prices of $200.7453, $201.5689, and $202.8104, totaling $4,000,319. Jassy directly owns 2,148,694 shares and indirectly owns 75,408 shares through trusts and 401(k) plan accounts post-transaction."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "CEO Worldwide Amazon Stores, Douglas J. Herrington, sold 6,843 shares at weighted average prices of $200.7586 and $201.36, totaling $1,373,851. Following these sales, Herrington directly owns 519,550 shares and indirectly owns 6,591 shares through an Amazon.com 401(k) plan account."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Several Amazon executives have reported selling shares of the company's common stock in May 2025, according to recent SEC Form 4 filings. Vice President Shelley Reynolds sold 2,695 shares at weighted average prices of $200.7346 and $201.48, totaling $541,128. Following the sale, Reynolds directly owns 119,780 shares and indirectly owns 2,655 shares through an Amazon.com 401(k) plan account.Senior Vice President and CFO, Brian T. Olsavsky, sold 17,750 shares at a price of $201.57 per share, totaling $3,577,867. Post-transaction, Olsavsky directly owns 49,000 shares and indirectly owns 1,591 shares through the Amazon.com 401(k) plan account.Senior Vice President David Zapolsky sold 20,670 shares across five transactions on May 21 and May 22, with prices ranging from $200.7542 to $203.4179, totaling $4,175,441. Zapolsky directly owns 47,030 shares following these transactions.AWS CEO Garman Matthew S sold 20,923 shares at weighted average prices ranging from $200.746 to $203.2133, totaling $4,211,790. Following the sale, Garman no longer directly owns Amazon common stock but retains indirect ownership of 887 shares through the Amazon.com 401(k) Plan Account.Amazon's President and CEO, Andrew R. Jassy, sold 19,872 shares at weighted average prices of $200.7453, $201.5689, and $202.8104, totaling $4,000,319. Jassy directly owns 2,148,694 shares and indirectly owns 75,408 shares through trusts and 401(k) plan accounts post-transaction.CEO Worldwide Amazon Stores, Douglas J. Herrington, sold 6,843 shares at weighted average prices of $200.7586 and $201.36, totaling $1,373,851. Following these sales, Herrington directly owns 519,550 shares and indirectly owns 6,591 shares through an Amazon.com 401(k) plan account.",
+    "shortDescription": "Several Amazon executives have reported selling shares of the company's common stock in May 2025, according to recent SEC Form 4 filings. Vice President Shelley Reynolds sold 2,695 shares at weighted average prices of $200.7346 and $201.48, totaling $541,128. Following the sale, Reynolds directly o\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:360202c0e094b:0",
+    "title": "Taking Stock of the Earnings Picture ",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748040480000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NYSE:CRM",
+        "logoid": "salesforce",
+        "logourl": "https://s3-symbol-logo.tradingview.com/salesforce.svg"
+      },
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:COST",
+        "logoid": "costco-wholesale",
+        "logourl": "https://s3-symbol-logo.tradingview.com/costco-wholesale.svg"
+      },
+      {
+        "symbol": "NASDAQ:ULTA",
+        "logoid": "ulta-beauty",
+        "logourl": "https://s3-symbol-logo.tradingview.com/ulta-beauty.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:360202c0e094b:0-taking-stock-of-the-earnings-picture/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "The earnings release from Nvidia NVDA is the true highlight of this week\u2019s earnings docket, though there are a few other bellwethers on deck to report results as well, including Costco COST, Salesforce.com CRM, and Ulta Beauty ULTA. We have close to 100 companies reporting results this week, including 14 S&P 500 members."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "It is no exaggeration to say that Nvidia has emerged as a leader of the broader artificial intelligence (AI) ecosystem, with its chips running the models. The stock has struggled this year, as sentiment on the AI space soured in the aftermath of the DeepSeek announcement in January. There had already been some angst in the market about the ever-rising AI-focused spending by Mag 7 players like Alphabet, Amazon, and Microsoft, with the issue becoming front and center following the DeepSeek announcement."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The chart below shows the year-to-date performance of Nvidia shares relative to the S&P 500 index and the Mag 7 group."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia is expected to bring in 85 cents in EPS on $42.6 billion in revenues, representing year-over-year changes of +39.3% and +63.7%, respectively. Estimates have been under pressure, with the current 85 cents estimate down from 87 cents a week ago and 93 cents two months back."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "A big contributing factor to the pressure on estimates has been worries among analysts that Nvidia\u2019s near-term margins may face some squeeze as it transitions to the new Blackwell GPU from the Hopper unit. There had been some concern over the last couple of quarters about Nvidia\u2019s ability to ramp up Blackwell production efficiently, but all indications are that the ramp-up is proceeding smoothly and the demand for the unit is significantly above what had been experienced in the comparable period the year before for Hopper."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Jensen Huang, the Nvidia CEO, noted at a recent industry conference that Blackwell demand from the four largest hyperscalers was running three times as much as was the case from the same customers for Hopper at the comparable period in 2024. The company has outlined a Blackwell Ultra version to follow the full Blackwell ramp-up."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "While hyperscaler demand over the near-to-medium-term is expected to remain robust, it will eventually taper off. But the recent announcements of major datacenter deals with sovereign wealth funds in the UAE and Saudi Arabia suggest that Nvidia likely has a big runway ahead of it."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In terms of valuation, Nvidia shares aren\u2019t cheap, but they are hardly the nose-bleed valuation of a couple of years back, as the chart below shows."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "With Nvidia as the only Mag 7 member that has yet to report Q1 results, earnings for the group are on track to +27.2% from the same period last year on +12.2% higher revenues."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            " A Closer Look At Retail Earnings"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "The earnings release from Nvidia NVDA is the true highlight of this week\u2019s earnings docket, though there are a few other bellwethers on deck to report results as well, including Costco COST, Salesforce.com CRM, and Ulta Beauty ULTA. We have close to 100 companies reporting results this week, including 14 S&P 500 members.It is no exaggeration to say that Nvidia has emerged as a leader of the broader artificial intelligence (AI) ecosystem, with its chips running the models. The stock has struggled this year, as sentiment on the AI space soured in the aftermath of the DeepSeek announcement in January. There had already been some angst in the market about the ever-rising AI-focused spending by Mag 7 players like Alphabet, Amazon, and Microsoft, with the issue becoming front and center following the DeepSeek announcement.The chart below shows the year-to-date performance of Nvidia shares relative to the S&P 500 index and the Mag 7 group.Nvidia is expected to bring in 85 cents in EPS on $42.6 billion in revenues, representing year-over-year changes of +39.3% and +63.7%, respectively. Estimates have been under pressure, with the current 85 cents estimate down from 87 cents a week ago and 93 cents two months back.A big contributing factor to the pressure on estimates has been worries among analysts that Nvidia\u2019s near-term margins may face some squeeze as it transitions to the new Blackwell GPU from the Hopper unit. There had been some concern over the last couple of quarters about Nvidia\u2019s ability to ramp up Blackwell production efficiently, but all indications are that the ramp-up is proceeding smoothly and the demand for the unit is significantly above what had been experienced in the comparable period the year before for Hopper.Jensen Huang, the Nvidia CEO, noted at a recent industry conference that Blackwell demand from the four largest hyperscalers was running three times as much as was the case from the same customers for Hopper at the comparable period in 2024. The company has outlined a Blackwell Ultra version to follow the full Blackwell ramp-up.While hyperscaler demand over the near-to-medium-term is expected to remain robust, it will eventually taper off. But the recent announcements of major datacenter deals with sovereign wealth funds in the UAE and Saudi Arabia suggest that Nvidia likely has a big runway ahead of it.In terms of valuation, Nvidia shares aren\u2019t cheap, but they are hardly the nose-bleed valuation of a couple of years back, as the chart below shows.With Nvidia as the only Mag 7 member that has yet to report Q1 results, earnings for the group are on track to +27.2% from the same period last year on +12.2% higher revenues. A Closer Look At Retail EarningsThis article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "The earnings release from Nvidia NVDA is the true highlight of this week\u2019s earnings docket, though there are a few other bellwethers on deck to report results as well, including Costco COST, Salesforce.com CRM, and Ulta Beauty ULTA. We have close to 100 companies reporting results this week, includ\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "urn:newsml:mtnewswires.com:20250523:A3385034:0",
+    "title": "Amazon Insider Sold Shares Worth $4,000,320, According to a Recent SEC Filing",
+    "provider": "mt-newswires",
+    "sourceLogoId": "mtnewswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/mtnewswires--theme-light.svg",
+    "published": 1748037735000,
+    "source": "MT Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/mtnewswires.com:20250523:A3385034:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Andrew R Jassy, Director, President and CEO, on May 21, 2025, sold 19,872 shares in Amazon ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:AMZN",
+                "text": "NASDAQ:AMZN"
+              }
+            },
+            " for $4,000,320. Following the Form 4 filing with the SEC, Jassy has control over a total of 2,224,102 common shares of the company, with 2,148,694 shares held directly and 75,408 controlled indirectly. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "SEC Filing:"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "url",
+              "params": {
+                "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000060/xslF345X05/wk-form4_1748037543.xml",
+                "linkText": "www.sec.gov/Archives/edgar/data/1018724/000101872425000060/xslF345X05/wk-form4_1748037543.xml"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Andrew R Jassy, Director, President and CEO, on May 21, 2025, sold 19,872 shares in Amazon NASDAQ:AMZN for $4,000,320. Following the Form 4 filing with the SEC, Jassy has control over a total of 2,224,102 common shares of the company, with 2,148,694 shares held directly and 75,408 controlled indirectly. SEC Filing:www.sec.gov/Archives/edgar/data/1018724/000101872425000060/xslF345X05/wk-form4_1748037543.xml",
+    "shortDescription": "Andrew R Jassy, Director, President and CEO, on May 21, 2025, sold 19,872 shares in Amazon NASDAQ:AMZN for $4,000,320. Following the Form 4 filing with the SEC, Jassy has control over a total of 2,224,102 common shares of the company, with 2,148,694 shares held directly and 75,408 controlled indire\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "urn:newsml:mtnewswires.com:20250523:A3385031:0",
+    "title": "Amazon Insider Sold Shares Worth $4,211,791, According to a Recent SEC Filing",
+    "provider": "mt-newswires",
+    "sourceLogoId": "mtnewswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/mtnewswires--theme-light.svg",
+    "published": 1748037430000,
+    "source": "MT Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/mtnewswires.com:20250523:A3385031:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Matthew S Garman, CEO, Amazon Web Services, on May 21, 2025, sold 20,923 shares in Amazon ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:AMZN",
+                "text": "NASDAQ:AMZN"
+              }
+            },
+            " for $4,211,791. Following the Form 4 filing with the SEC, Garman has control over a total of 888 common shares of the company, with 888 controlled indirectly. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "SEC Filing:"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "url",
+              "params": {
+                "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872425000058/xslF345X05/wk-form4_1748037135.xml",
+                "linkText": "www.sec.gov/Archives/edgar/data/1018724/000101872425000058/xslF345X05/wk-form4_1748037135.xml"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Matthew S Garman, CEO, Amazon Web Services, on May 21, 2025, sold 20,923 shares in Amazon NASDAQ:AMZN for $4,211,791. Following the Form 4 filing with the SEC, Garman has control over a total of 888 common shares of the company, with 888 controlled indirectly. SEC Filing:www.sec.gov/Archives/edgar/data/1018724/000101872425000058/xslF345X05/wk-form4_1748037135.xml",
+    "shortDescription": "Matthew S Garman, CEO, Amazon Web Services, on May 21, 2025, sold 20,923 shares in Amazon NASDAQ:AMZN for $4,211,791. Following the Form 4 filing with the SEC, Garman has control over a total of 888 common shares of the company, with 888 controlled indirectly. SEC Filing:www.sec.gov/Archives/edgar\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:1c74f2903094b:0",
+    "title": "Will Nvidia Stock Keep Rebounding as Q1 Earnings Approach?",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748036940000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:MSFT",
+        "logoid": "microsoft",
+        "logourl": "https://s3-symbol-logo.tradingview.com/microsoft.svg"
+      },
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      },
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:META",
+        "logoid": "meta-platforms",
+        "logourl": "https://s3-symbol-logo.tradingview.com/meta-platforms.svg"
+      },
+      {
+        "symbol": "NASDAQ:CRWV",
+        "logourl": null
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:1c74f2903094b:0-will-nvidia-stock-keep-rebounding-as-q1-earnings-approach/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s AI Expansion & Spending "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s Q1 Growth Expectations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Based on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "NVDA Technical Analysis "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Monitoring Nvidia\u2019s P/E Valuation "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Bottom Line "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone.That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28.\u00a0Nvidia\u2019s AI Expansion & Spending Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs.Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain.\u00a0Nvidia\u2019s Q1 Growth ExpectationsBased on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4.\u00a0NVDA Technical Analysis Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125.Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. \u00a0Monitoring Nvidia\u2019s P/E Valuation At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. \u00a0Bottom Line Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade.This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily i\u2026",
+    "summaryText": null
+  }
+]

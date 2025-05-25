@@ -1,0 +1,854 @@
+[
+  {
+    "id": "tag:reuters.com,2025:newsml_L2N3RW01X:0",
+    "title": "Musk says he'll resume working '24/7' at his companies, X outage mostly restored",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1748103474000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L2N3RW01X:0-musk-says-he-ll-resume-working-24-7-at-his-companies-x-outage-mostly-restored/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "    Elon Musk's social media platform X was largely restored for most users after an outage that impacted tens of thousands of users in the United States on Saturday, according to outage tracking website Downdetector.com, following which he said that he is \"back to spending 24/7\" at his companies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "At its peak around 8:51 a.m. ET (1251 GMT), there were more than 25,800 incidents of people reporting issues with the social media platform, according to Downdetector, which tracks outages by collating status reports from a number of sources including users. The number of outages has since gone below 650, as of 12:09 p.m. ET."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"Back to spending 24/7 at work and sleeping in conference/server/factory rooms. I must be super focused on X/xAI and Tesla ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:TSLA",
+                "text": "NASDAQ:TSLA"
+              }
+            },
+            " (plus Starship launch next week), as we have critical technologies rolling out,\" Musk said in an X post. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Thousands of users in other countries, such as Germany, Spain, France, India, Canada, Australia, and Britain, also experienced issues with accessing the social media platform at the height of the outage, according to Downdetector data."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "X did not immediately respond to a Reuters request for comment on the outage."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Musk, who spent nearly $300 million to back U.S. President Donald Trump's presidential campaign and other Republicans last year, said on Tuesday he will cut his political spending substantially, signalling that he is shifting his attention back to his business empire amid growing investor concerns."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "He led the so-called Department of Government Efficiency, which sought to eliminate tens of thousands of jobs and cancel billions of dollars in contracts and grants."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "However, his political views triggered waves of protests against Tesla in the U.S. and Europe, leading to a slump in sales, with the automaker reporting its first drop in annual deliveries last year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The amount of time Musk has spent at Tesla has concerned some investors. Looking to ease those worries, Musk told investors last month he would reduce his time with DOGE to a day or two a week from May."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Elon Musk's social media platform X was largely restored for most users after an outage that impacted tens of thousands of users in the United States on Saturday, according to outage tracking website Downdetector.com, following which he said that he is \"back to spending 24/7\" at his companies.At its peak around 8:51 a.m. ET (1251 GMT), there were more than 25,800 incidents of people reporting issues with the social media platform, according to Downdetector, which tracks outages by collating status reports from a number of sources including users. The number of outages has since gone below 650, as of 12:09 p.m. ET.\"Back to spending 24/7 at work and sleeping in conference/server/factory rooms. I must be super focused on X/xAI and Tesla NASDAQ:TSLA (plus Starship launch next week), as we have critical technologies rolling out,\" Musk said in an X post. Thousands of users in other countries, such as Germany, Spain, France, India, Canada, Australia, and Britain, also experienced issues with accessing the social media platform at the height of the outage, according to Downdetector data.X did not immediately respond to a Reuters request for comment on the outage.Musk, who spent nearly $300 million to back U.S. President Donald Trump's presidential campaign and other Republicans last year, said on Tuesday he will cut his political spending substantially, signalling that he is shifting his attention back to his business empire amid growing investor concerns.He led the so-called Department of Government Efficiency, which sought to eliminate tens of thousands of jobs and cancel billions of dollars in contracts and grants.However, his political views triggered waves of protests against Tesla in the U.S. and Europe, leading to a slump in sales, with the automaker reporting its first drop in annual deliveries last year.The amount of time Musk has spent at Tesla has concerned some investors. Looking to ease those worries, Musk told investors last month he would reduce his time with DOGE to a day or two a week from May.",
+    "shortDescription": "Elon Musk's social media platform X was largely restored for most users after an outage that impacted tens of thousands of users in the United States on Saturday, according to outage tracking website Downdetector.com, following which he said that he is \"back to spending 24/7\" at his companies.At it\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250524001145:0",
+    "title": "Tim Higgins: Angry Elon Is Back. That's Good for Tesla. \u2014 WSJ",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748079000000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250524001145:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Tim Higgins"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Listening to Elon Musk these days is to hear a man who feels unfairly treated."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "And, as he skulks away from the White House with his tail between his legs, he is particularly thin skinned. Angry that he was cast as a Nazi. Angry that some used his politics as an excuse to attack Tesla. Angry that he's being scrutinized."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "We've seen this before. Musk has always had an incredibly large chip on his shoulder \u2014 one fueled by perceived slights and personal grievances, critics expressing disbelief and the chorus of social-media doubters."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But history has shown that it can unleash something fierce: Angry Elon. Like the Incredible Hulk busting out of his britches and turning green, Musk goes silent before exploding. These days, Musk again seems to be fuming, his eyes darting upward, his vision clouded red with anger."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "And Angry Elon could be a very good thing for Tesla investors. It can focus him on executing, on proving everyone wrong. A Musk that executes can go to outer space, can make electric cars mainstream."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But investors haven't seen Musk execute in a while."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Instead, they've seen promises of a cheap Tesla that would fuel 20 million annual vehicle sales seemingly abandoned. They've seen the Cybertruck flop. They've seen profitability shrink and sales fall for the first time in more than a decade."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Worrisome stuff to investors concerned Musk has been too distracted in Washington. Even board members appeared unnerved."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But fans remembering the power of Angry Elon drew hope from signs this past week that he might be back. First, via video link to a conference in Qatar, Musk on Tuesday delivered salty answer after salty answer to concerns about the state of his companies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Asked when he might be able to turn things around at Tesla, the chief executive replied, \"It's already turned around.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Musk's proof point? Essentially, the age-old retort by Tesla fans on social media: The stock price, bro!"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Since announcing on April 22 that he would pare back his time in the Trump administration, Tesla shares have risen 43%. This returned the automaker to the rarefied status of being valued at slightly more than $1 trillion. Overall, those shares are still down both 11% year-to-date and 29% from an all-time high."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Analysts estimate Tesla unit sales will finish the year down from 2024. This is a reversal from just a few months ago when they expected year-over-year gains."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Musk's vision for the future of Tesla isn't bothered by the boring part of selling electric vehicles. Instead, his future is all about ushering in a new era of robotics \u2014 driverless cars and humanoid robots."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For roughly a decade, he has said the day was near for Tesla's autonomous vehicles. Meanwhile, Alphabet's Waymo and Amazon.com's Zoox have put fully autonomous cars on public roads."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "On Tuesday, Musk doubled down in a second public appearance, this time on CNBC, reaffirming that Tesla is on track to begin offering driverless cars in Austin, Texas, by the end of June."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The plan, he said, is to begin with probably 10 vehicles on the road in the first week, then increase that figure by tens of vehicles each week and probably reach 1,000 within a few months. He added that there would probably be hundreds of thousands of autonomous Tesla vehicles by the end of next year, if not more than one million."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "It's the kind of ultra-ambitious targets he has promoted before. He just needs to execute."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "During the CNBC interview, his recent track record in Washington was questioned and he snapped again: \"Why are you attacking this, given that we've made so much progress?\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Even as he defended his DOGE efforts, Musk has begun  amplifying the idea that he is stepping back from politics after realizing the Republican-controlled Congress lacks the appetite to implement spending reductions. \"I have come to the perhaps obvious conclusion that accelerating GDP growth is essential,\" he  posted Friday. \" @DOGE has and will do great work to postpone the day of bankruptcy of America, but the profligacy of government means that only radical improvements in productivity can save our country.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "And robots are his  solution."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Seeing glimpses of Angry Elon excites supporters the same way Optimistic Elon did almost a year ago at the Tesla annual meeting. His enthusiasm \u2014 dancing around on stage \u2014 seemed to signal he was dialed in after more than a year of distractions from buying Twitter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "After shareholders re-approved his massive pay package, Musk stood on stage painting a bright Tesla future filled with humanoid robots and driverless cars. He suggested that could drive the company's valuation to more than $30 trillion."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Now, supporters are hoping Angry Elon is ready to finally deliver."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"War time Elon is activated,\" a popular X account called Autism Capital posted in response to Musk's Qatar appearance. Others crowed something similar. \"Elon is in WAR TIME CEO mode,\" a MAGA social-media account posted Wednesday. \"He is done playing around. Total laser focus on execution.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Tesla was founded on a rather unlikely idea of making EVs cool and mainstream. For much of its existence, Tesla has faced criticism that it couldn't succeed. And Musk was out there selling investors and customers on the idea that the vision was, in fact, possible."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "He just needed to execute. And once he did, it was a real game-changer. Tesla hit its stride in late 2019 and 2020, becoming consistently profitable and cementing Musk's image as one of the most successful entrepreneurs of a generation."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Of course, past success isn't a guarantee of future success."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Even Tesla's position as the global leader of electric vehicles is under threat from Chinese rivals, such as BYD. It outsold the U.S. EV maker in Europe for the first time last month."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Musk, who has long praised his Chinese competitors, claimed he wasn't following the sales race. \"I don't really think about competitors,\" Musk said on CNBC. \"I just think about making the products as perfect as possible.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "He just needs to execute."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Tim Higgins at tim.higgins@wsj.com"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Tim HigginsListening to Elon Musk these days is to hear a man who feels unfairly treated.And, as he skulks away from the White House with his tail between his legs, he is particularly thin skinned. Angry that he was cast as a Nazi. Angry that some used his politics as an excuse to attack Tesla. Angry that he's being scrutinized.We've seen this before. Musk has always had an incredibly large chip on his shoulder \u2014 one fueled by perceived slights and personal grievances, critics expressing disbelief and the chorus of social-media doubters.But history has shown that it can unleash something fierce: Angry Elon. Like the Incredible Hulk busting out of his britches and turning green, Musk goes silent before exploding. These days, Musk again seems to be fuming, his eyes darting upward, his vision clouded red with anger.And Angry Elon could be a very good thing for Tesla investors. It can focus him on executing, on proving everyone wrong. A Musk that executes can go to outer space, can make electric cars mainstream.But investors haven't seen Musk execute in a while.Instead, they've seen promises of a cheap Tesla that would fuel 20 million annual vehicle sales seemingly abandoned. They've seen the Cybertruck flop. They've seen profitability shrink and sales fall for the first time in more than a decade.Worrisome stuff to investors concerned Musk has been too distracted in Washington. Even board members appeared unnerved.But fans remembering the power of Angry Elon drew hope from signs this past week that he might be back. First, via video link to a conference in Qatar, Musk on Tuesday delivered salty answer after salty answer to concerns about the state of his companies.Asked when he might be able to turn things around at Tesla, the chief executive replied, \"It's already turned around.\"Musk's proof point? Essentially, the age-old retort by Tesla fans on social media: The stock price, bro!Since announcing on April 22 that he would pare back his time in the Trump administration, Tesla shares have risen 43%. This returned the automaker to the rarefied status of being valued at slightly more than $1 trillion. Overall, those shares are still down both 11% year-to-date and 29% from an all-time high.Analysts estimate Tesla unit sales will finish the year down from 2024. This is a reversal from just a few months ago when they expected year-over-year gains.Musk's vision for the future of Tesla isn't bothered by the boring part of selling electric vehicles. Instead, his future is all about ushering in a new era of robotics \u2014 driverless cars and humanoid robots.For roughly a decade, he has said the day was near for Tesla's autonomous vehicles. Meanwhile, Alphabet's Waymo and Amazon.com's Zoox have put fully autonomous cars on public roads.On Tuesday, Musk doubled down in a second public appearance, this time on CNBC, reaffirming that Tesla is on track to begin offering driverless cars in Austin, Texas, by the end of June.The plan, he said, is to begin with probably 10 vehicles on the road in the first week, then increase that figure by tens of vehicles each week and probably reach 1,000 within a few months. He added that there would probably be hundreds of thousands of autonomous Tesla vehicles by the end of next year, if not more than one million.It's the kind of ultra-ambitious targets he has promoted before. He just needs to execute.During the CNBC interview, his recent track record in Washington was questioned and he snapped again: \"Why are you attacking this, given that we've made so much progress?\"Even as he defended his DOGE efforts, Musk has begun amplifying the idea that he is stepping back from politics after realizing the Republican-controlled Congress lacks the appetite to implement spending reductions. \"I have come to the perhaps obvious conclusion that accelerating GDP growth is essential,\" he posted Friday. \" @DOGE has and will do great work to postpone the day of bankruptcy of America, but the profligacy of government means that only radical improvements in productivity can save our country.\"And robots are his solution.Seeing glimpses of Angry Elon excites supporters the same way Optimistic Elon did almost a year ago at the Tesla annual meeting. His enthusiasm \u2014 dancing around on stage \u2014 seemed to signal he was dialed in after more than a year of distractions from buying Twitter.After shareholders re-approved his massive pay package, Musk stood on stage painting a bright Tesla future filled with humanoid robots and driverless cars. He suggested that could drive the company's valuation to more than $30 trillion.Now, supporters are hoping Angry Elon is ready to finally deliver.\"War time Elon is activated,\" a popular X account called Autism Capital posted in response to Musk's Qatar appearance. Others crowed something similar. \"Elon is in WAR TIME CEO mode,\" a MAGA social-media account posted Wednesday. \"He is done playing around. Total laser focus on execution.\"Tesla was founded on a rather unlikely idea of making EVs cool and mainstream. For much of its existence, Tesla has faced criticism that it couldn't succeed. And Musk was out there selling investors and customers on the idea that the vision was, in fact, possible.He just needed to execute. And once he did, it was a real game-changer. Tesla hit its stride in late 2019 and 2020, becoming consistently profitable and cementing Musk's image as one of the most successful entrepreneurs of a generation.Of course, past success isn't a guarantee of future success.Even Tesla's position as the global leader of electric vehicles is under threat from Chinese rivals, such as BYD. It outsold the U.S. EV maker in Europe for the first time last month.Musk, who has long praised his Chinese competitors, claimed he wasn't following the sales race. \"I don't really think about competitors,\" Musk said on CNBC. \"I just think about making the products as perfect as possible.\"He just needs to execute.Write to Tim Higgins at tim.higgins@wsj.com",
+    "shortDescription": "By Tim HigginsListening to Elon Musk these days is to hear a man who feels unfairly treated.And, as he skulks away from the White House with his tail between his legs, he is particularly thin skinned. Angry that he was cast as a Nazi. Angry that some used his politics as an excuse to attack Tesla\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:1c74f2903094b:0",
+    "title": "Will Nvidia Stock Keep Rebounding as Q1 Earnings Approach?",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748036940000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:MSFT",
+        "logoid": "microsoft",
+        "logourl": "https://s3-symbol-logo.tradingview.com/microsoft.svg"
+      },
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      },
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:META",
+        "logoid": "meta-platforms",
+        "logourl": "https://s3-symbol-logo.tradingview.com/meta-platforms.svg"
+      },
+      {
+        "symbol": "NASDAQ:CRWV",
+        "logourl": null
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:1c74f2903094b:0-will-nvidia-stock-keep-rebounding-as-q1-earnings-approach/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s AI Expansion & Spending "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s Q1 Growth Expectations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Based on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "NVDA Technical Analysis "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Monitoring Nvidia\u2019s P/E Valuation "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Bottom Line "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone.That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28.\u00a0Nvidia\u2019s AI Expansion & Spending Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs.Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain.\u00a0Nvidia\u2019s Q1 Growth ExpectationsBased on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4.\u00a0NVDA Technical Analysis Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125.Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. \u00a0Monitoring Nvidia\u2019s P/E Valuation At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. \u00a0Bottom Line Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade.This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily i\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523002472:0",
+    "title": "Tesla Stock Drops as Trump Tariff Threats Take Focus Off Magical Thinking \u2014 Barrons.com",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748032020000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523002472:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Al Root and George Glover"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Tesla has had a tumultuous few days of trading, ending its four-week winning streak."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Tesla stock dropped 0.5% on Friday to $339.34, while the S&P 500 and Dow Jones Industrial Average fell 0.7% and 0.6%, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Shares ended the week down 3%. Tesla stock had had a four-week winning streak going, but this week didn't have the kind of news that could lift the stock further. The House passed President Donald Trump's \"One Big Beautiful Bill,\" which included provisions to end the EV purchase tax credit and charge EV owners a small annual fee for the Highway Trust Fund. The Senate also voted to take away California's right to regulate its air quality. If California loses that right, it jeopardizes hundreds of millions of dollars Tesla earns by selling zero-emission vehicle tax credits."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "GLJ Research analyst Gordon Johnson was surprised Tesla stock closed higher on Thursday after the Senate vote, calling it \"deeply negative for Tesla's fundamentals,\" in an email. Californian officials, however, said they will fight in court to keep state regulations in effect."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "There was some good news this week, too. CEO Elon Musk sat down with CNBC's David Faber and reiterated plans to launch a robotaxi service in Austin, Texas, in June. Investors have high hopes for the robotaxi business, but the rollout will go slow, according to Musk, and humans will be overseeing vehicle operations."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That warning didn't stop Wedbush analyst Dan Ives from trumpeting the robotaxi launch. He said in a research note published Friday that AI and autonomous driving should be worth at least $1 trillion for the electric car maker, adding that the Trump administration could help Tesla to avoid \"the federal regulatory spiderweb.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"The march to a $2 trillion valuation for TSLA over the next 12 to 18 months has now begun in our view with full self-driving and autonomous penetration of Tesla's installed base and the acceleration of Cybercab in the US representing the golden goose,\" Ives wrote, maintaining his Outperform rating and raising his price target to $500 from $350. That implies the stock could jump about 47% from its level as of Thursday's close."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Human intervention will make it difficult for Tesla to show investors it has fully solved autonomous driving, says Future Fund Active ETF cofounder Gary Black, adding that could prove disappointing."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Tesla investors, it appears, will deal with that after the robotaxi service launches."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But right now they have to deal with the return of Tariff Man. Friday morning, Trump said on Truth Social that he would put 25% tariffs on Apple's iPhones and 50% tariffs on Europe. The announcement sent Tesla stock from a premarket gain to a loss."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "If there's one thing Tesla investors can't push back against, it's a risk-off market."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Al Root at allen.root@dowjones.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Al Root and George GloverTesla has had a tumultuous few days of trading, ending its four-week winning streak.Tesla stock dropped 0.5% on Friday to $339.34, while the S&P 500 and Dow Jones Industrial Average fell 0.7% and 0.6%, respectively.Shares ended the week down 3%. Tesla stock had had a four-week winning streak going, but this week didn't have the kind of news that could lift the stock further. The House passed President Donald Trump's \"One Big Beautiful Bill,\" which included provisions to end the EV purchase tax credit and charge EV owners a small annual fee for the Highway Trust Fund. The Senate also voted to take away California's right to regulate its air quality. If California loses that right, it jeopardizes hundreds of millions of dollars Tesla earns by selling zero-emission vehicle tax credits.GLJ Research analyst Gordon Johnson was surprised Tesla stock closed higher on Thursday after the Senate vote, calling it \"deeply negative for Tesla's fundamentals,\" in an email. Californian officials, however, said they will fight in court to keep state regulations in effect.There was some good news this week, too. CEO Elon Musk sat down with CNBC's David Faber and reiterated plans to launch a robotaxi service in Austin, Texas, in June. Investors have high hopes for the robotaxi business, but the rollout will go slow, according to Musk, and humans will be overseeing vehicle operations.That warning didn't stop Wedbush analyst Dan Ives from trumpeting the robotaxi launch. He said in a research note published Friday that AI and autonomous driving should be worth at least $1 trillion for the electric car maker, adding that the Trump administration could help Tesla to avoid \"the federal regulatory spiderweb.\"\"The march to a $2 trillion valuation for TSLA over the next 12 to 18 months has now begun in our view with full self-driving and autonomous penetration of Tesla's installed base and the acceleration of Cybercab in the US representing the golden goose,\" Ives wrote, maintaining his Outperform rating and raising his price target to $500 from $350. That implies the stock could jump about 47% from its level as of Thursday's close.Human intervention will make it difficult for Tesla to show investors it has fully solved autonomous driving, says Future Fund Active ETF cofounder Gary Black, adding that could prove disappointing.Tesla investors, it appears, will deal with that after the robotaxi service launches.But right now they have to deal with the return of Tariff Man. Friday morning, Trump said on Truth Social that he would put 25% tariffs on Apple's iPhones and 50% tariffs on Europe. The announcement sent Tesla stock from a premarket gain to a loss.If there's one thing Tesla investors can't push back against, it's a risk-off market.Write to Al Root at allen.root@dowjones.comThis content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal.",
+    "shortDescription": "Al Root and George GloverTesla has had a tumultuous few days of trading, ending its four-week winning streak.Tesla stock dropped 0.5% on Friday to $339.34, while the S&P 500 and Dow Jones Industrial Average fell 0.7% and 0.6%, respectively.Shares ended the week down 3%. Tesla stock had had a four-w\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523002622:0",
+    "title": "These Stocks Moved the Most Today: Apple, Tesla, Intuit, Oklo, Deckers, Workday, Ross Stores, Booz Allen, and More \u2014 Barrons.com",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748031360000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NYSE:BAH",
+        "logoid": "booz-allen",
+        "logourl": "https://s3-symbol-logo.tradingview.com/booz-allen.svg"
+      },
+      {
+        "symbol": "NYSE:DECK",
+        "logoid": "deckers-outdoor",
+        "logourl": "https://s3-symbol-logo.tradingview.com/deckers-outdoor.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523002622:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Joe Woelfel, Mackenzie Tatananni, and Connor Smith"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Stocks dropped Friday and the S&P 500 fell for a fourth day in a row as President Donald Trump threatened fresh tariffs on iPhone maker Apple and the European Union."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "These stocks moved on Friday:"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apple declined 3% after Trump said Friday on his Truth Social website that the tech giant will have to pay a tariff of at least 25% for iPhones made outside the United States."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Tesla  fell 0.5% to $339.34. Shares of the electric-vehicle company closed up 1.9% on Thursday, even as the Trump tax-and-spending bill that was passed by the House of Representatives included measures that would require owners of electric and hybrid vehicles to pay annual fees, while the Republican-led Senate voted to revoke a California measure that banned the sale of new gasoline-powered cars by 2035. On Friday, Wedbush analysts maintained their Outperform rating on the stock and raised their price target to $500 from $350."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Intuit, the owner of TurboTax and Credit Karma, rose 8% after boosting its fiscal-year outlook following stronger-than-expected third-quarter earnings and revenue. The company expects fiscal-year revenue of $18.72 billion to $18.76 billion, an increase of 15% from a year earlier compared with previous guidance that called for a revenue jump of 12% to 13%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Workday reported first-quarter adjusted earnings that beat analysts' estimates as subscription revenue rose 13% to about $2.06 billion. The software company said it anticipates second-quarter subscription revenue of $2.16 billion \u2014 up nearly 14% from a year earlier, but slightly below forecasts. Shares fell 12.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nuclear energy stocks surged after President Donald Trump signed a flurry of executive orders that were meant to kickstart the production of nuclear power in the U.S., including a directive to speed up the construction of advanced reactors at federal sites. Centrus Energy soared 20%, Lightbridge skyrocketed 43%, and NuScale Power gained 19%. Oklo, the Sam Altman-backed nuclear start-up, rose 23%. Former Oklo board member Chris Wright was appointed Trump's energy secretary earlier this year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Copart, the platform for online car auctions, reported improved fiscal third-quarter earnings and revenue. The stock declined 12%, however, as revenue of $1.21 billion, up 7.5% from a year earlier, was below expectations of $1.21 billion."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Ross Stores tumbled 10% after the discount department store chain withdrew its fiscal-year guidance because of the uncertainty surrounding tariffs. The company said that while it directly imports \"only a small portion of our merchandise, more than half of the goods we sell originate from China. As such, we expect pressure on our profitability if tariffs remain at elevated levels.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Deckers Outdoor cratered 20% after the maker of Hoka running shoes and UGG boots issued fiscal first-quarter guidance that missed Wall Street expectations. Deckers said it expects earnings in the period of 62 cents to 67 cents a share, below consensus of 79 cents. The company also forecast first-quarter revenue that missed estimates. Deckers said it wouldn't be providing fiscal 2026 guidance because of \"macroeconomic uncertainty related to evolving global trade policies.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Hinge Health gained 7.3%. Shares of the digital physical therapy company, which makes a device that eases muscle and joint pain as well as software to treat musculoskeletal issues, opened for trading Thursday at $39.25, up 23% from its initial public offering price of $32, and finished the session at $37.56."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "MNTN rose 4% after wavering throughout the session. It made its debut on the New York Stock Exchange on Thursday, opening at $21 a share \u2014 well above its IPO price of $16 \u2014 and closed up 65% at $26.36. MNTN makes marketing software aimed at streaming services such as Netflix and Amazon.com."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Booz Allen Hamilton, the technology consulting company, sank 16% after fiscal fourth-quarter revenue missed estimates and current fiscal-year guidance disappointed, and said it would be cutting 2,500 jobs. Booz Allen executives said the company was seeing a slowdown in in the \"civil procurement and spending environment.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Joe Woelfel at joseph.woelfel@barrons.com and Mackenzie Tatananni at mackenzie.tatananni@barrons.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Joe Woelfel, Mackenzie Tatananni, and Connor SmithStocks dropped Friday and the S&P 500 fell for a fourth day in a row as President Donald Trump threatened fresh tariffs on iPhone maker Apple and the European Union.These stocks moved on Friday:Apple declined 3% after Trump said Friday on his Truth Social website that the tech giant will have to pay a tariff of at least 25% for iPhones made outside the United States.Tesla fell 0.5% to $339.34. Shares of the electric-vehicle company closed up 1.9% on Thursday, even as the Trump tax-and-spending bill that was passed by the House of Representatives included measures that would require owners of electric and hybrid vehicles to pay annual fees, while the Republican-led Senate voted to revoke a California measure that banned the sale of new gasoline-powered cars by 2035. On Friday, Wedbush analysts maintained their Outperform rating on the stock and raised their price target to $500 from $350.Intuit, the owner of TurboTax and Credit Karma, rose 8% after boosting its fiscal-year outlook following stronger-than-expected third-quarter earnings and revenue. The company expects fiscal-year revenue of $18.72 billion to $18.76 billion, an increase of 15% from a year earlier compared with previous guidance that called for a revenue jump of 12% to 13%.Workday reported first-quarter adjusted earnings that beat analysts' estimates as subscription revenue rose 13% to about $2.06 billion. The software company said it anticipates second-quarter subscription revenue of $2.16 billion \u2014 up nearly 14% from a year earlier, but slightly below forecasts. Shares fell 12.5%.Nuclear energy stocks surged after President Donald Trump signed a flurry of executive orders that were meant to kickstart the production of nuclear power in the U.S., including a directive to speed up the construction of advanced reactors at federal sites. Centrus Energy soared 20%, Lightbridge skyrocketed 43%, and NuScale Power gained 19%. Oklo, the Sam Altman-backed nuclear start-up, rose 23%. Former Oklo board member Chris Wright was appointed Trump's energy secretary earlier this year.Copart, the platform for online car auctions, reported improved fiscal third-quarter earnings and revenue. The stock declined 12%, however, as revenue of $1.21 billion, up 7.5% from a year earlier, was below expectations of $1.21 billion.Ross Stores tumbled 10% after the discount department store chain withdrew its fiscal-year guidance because of the uncertainty surrounding tariffs. The company said that while it directly imports \"only a small portion of our merchandise, more than half of the goods we sell originate from China. As such, we expect pressure on our profitability if tariffs remain at elevated levels.\"Deckers Outdoor cratered 20% after the maker of Hoka running shoes and UGG boots issued fiscal first-quarter guidance that missed Wall Street expectations. Deckers said it expects earnings in the period of 62 cents to 67 cents a share, below consensus of 79 cents. The company also forecast first-quarter revenue that missed estimates. Deckers said it wouldn't be providing fiscal 2026 guidance because of \"macroeconomic uncertainty related to evolving global trade policies.\"Hinge Health gained 7.3%. Shares of the digital physical therapy company, which makes a device that eases muscle and joint pain as well as software to treat musculoskeletal issues, opened for trading Thursday at $39.25, up 23% from its initial public offering price of $32, and finished the session at $37.56.MNTN rose 4% after wavering throughout the session. It made its debut on the New York Stock Exchange on Thursday, opening at $21 a share \u2014 well above its IPO price of $16 \u2014 and closed up 65% at $26.36. MNTN makes marketing software aimed at streaming services such as Netflix and Amazon.com.Booz Allen Hamilton, the technology consulting company, sank 16% after fiscal fourth-quarter revenue missed estimates and current fiscal-year guidance disappointed, and said it would be cutting 2,500 jobs. Booz Allen executives said the company was seeing a slowdown in in the \"civil procurement and spending environment.\"Write to Joe Woelfel at joseph.woelfel@barrons.com and Mackenzie Tatananni at mackenzie.tatananni@barrons.comThis content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal.",
+    "shortDescription": "By Joe Woelfel, Mackenzie Tatananni, and Connor SmithStocks dropped Friday and the S&P 500 fell for a fourth day in a row as President Donald Trump threatened fresh tariffs on iPhone maker Apple and the European Union.These stocks moved on Friday:Apple declined 3% after Trump said Friday on his Tru\u2026",
+    "summaryText": null
+  }
+]

@@ -1,0 +1,875 @@
+[
+  {
+    "id": "DJN_DN20250525000348:0",
+    "title": "Tech Stocks Had a Crazy Few Days. Another Big Week Is Ahead. \u2014 Barrons.com",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748156400000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:MSFT",
+        "logoid": "microsoft",
+        "logourl": "https://s3-symbol-logo.tradingview.com/microsoft.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NYSE:CRM",
+        "logoid": "salesforce",
+        "logourl": "https://s3-symbol-logo.tradingview.com/salesforce.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250525000348:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Angela Palumbo"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Moody's, rising treasury yields, major announcements from some of the largest tech companies, and trade updates from President Donald Trump."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The S&P 500 ended the week down 2.6% while the tech-heavy Nasdaq Composite dropped 2.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For tech investors, the highlight came from announcements by Microsoft at its Build conference and Alphabet at its Google I/O event. Microsoft investors were mostly focused on the company highlighting its artificial intelligence agents, while Google shareholders celebrated the introduction of AI Mode into search to compete with gen-AI chatbots."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Wall Street has also been closely watching Apple stock, which dropped 7.6% this week. Shares fell 2.3% on May 21 after ChatGPT-parent OpenAI said that it was buying a start-up owned by Jony Ive, Apple's former chief design officer, for $6.4 billion. OpenAI CEO Sam Altman said that the acquisition was based on the mission of figuring out how to create a family of devices that would allow people to use AI \"to create all sorts of wonderful things.\" For Apple investors, that brings new concerns about competition, though"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apple stock then declined 3% on Friday after Trump threatened to impose a 25% tariff on iPhones sold in the U.S. unless the devices are made in the states."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The coming week will bring earnings back to the forefront. Wall Street is anticipating first-quarter financial results and commentary from AI darling Nvidia on Wednesday. Investors will want updates on how chip demand is doing in an uncertain economic environment, and they'll want to hear how trade and regulatory decisions may be impacting the company."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Personal computer companies HP Inc. and Dell Technologies will also be reporting their latest financial results on Wednesday and Thursday, respectively. Electronic products are currently exempt from the Trump administration's so-called reciprocal tariffs, but that's not expected to last."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Software company Salesforce will report earnings on Wednesday. Software results have generally been strong this latest earnings season, with executive teams providing better-than-expected outlooks, as enterprises continue to spend on AI initiatives. Salesforce investors will also be looking for updates on the M&A front, following a report on Friday that Salesforce and Informatica were back in talks regarding a possible acquisition."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Angela Palumbo at angela.palumbo@dowjones.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Angela PalumboThe long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days.Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Moody's, rising treasury yields, major announcements from some of the largest tech companies, and trade updates from President Donald Trump.The S&P 500 ended the week down 2.6% while the tech-heavy Nasdaq Composite dropped 2.5%.For tech investors, the highlight came from announcements by Microsoft at its Build conference and Alphabet at its Google I/O event. Microsoft investors were mostly focused on the company highlighting its artificial intelligence agents, while Google shareholders celebrated the introduction of AI Mode into search to compete with gen-AI chatbots.Wall Street has also been closely watching Apple stock, which dropped 7.6% this week. Shares fell 2.3% on May 21 after ChatGPT-parent OpenAI said that it was buying a start-up owned by Jony Ive, Apple's former chief design officer, for $6.4 billion. OpenAI CEO Sam Altman said that the acquisition was based on the mission of figuring out how to create a family of devices that would allow people to use AI \"to create all sorts of wonderful things.\" For Apple investors, that brings new concerns about competition, thoughApple stock then declined 3% on Friday after Trump threatened to impose a 25% tariff on iPhones sold in the U.S. unless the devices are made in the states.The coming week will bring earnings back to the forefront. Wall Street is anticipating first-quarter financial results and commentary from AI darling Nvidia on Wednesday. Investors will want updates on how chip demand is doing in an uncertain economic environment, and they'll want to hear how trade and regulatory decisions may be impacting the company.Personal computer companies HP Inc. and Dell Technologies will also be reporting their latest financial results on Wednesday and Thursday, respectively. Electronic products are currently exempt from the Trump administration's so-called reciprocal tariffs, but that's not expected to last.Software company Salesforce will report earnings on Wednesday. Software results have generally been strong this latest earnings season, with executive teams providing better-than-expected outlooks, as enterprises continue to spend on AI initiatives. Salesforce investors will also be looking for updates on the M&A front, following a report on Friday that Salesforce and Informatica were back in talks regarding a possible acquisition.Write to Angela Palumbo at angela.palumbo@dowjones.comThis content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal.",
+    "shortDescription": "By Angela PalumboThe long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days.Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Mo\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523009742:0",
+    "title": "Review \u2014 Barron's",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748050200000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "SZSE:300750",
+        "logoid": "contemporary-amper",
+        "logourl": "https://s3-symbol-logo.tradingview.com/contemporary-amper.svg"
+      },
+      {
+        "symbol": "TSE:5401",
+        "logoid": "nippon-steel-and-sumitomo-metal",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nippon-steel-and-sumitomo-metal.svg"
+      },
+      {
+        "symbol": "OSL:EQNR",
+        "logoid": "equinor",
+        "logourl": "https://s3-symbol-logo.tradingview.com/equinor.svg"
+      },
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:CHTR",
+        "logoid": "charter",
+        "logourl": "https://s3-symbol-logo.tradingview.com/charter.svg"
+      },
+      {
+        "symbol": "OTC:FMCC",
+        "logoid": "freddie-mac",
+        "logourl": "https://s3-symbol-logo.tradingview.com/freddie-mac.svg"
+      },
+      {
+        "symbol": "OTC:FNMA",
+        "logoid": "fannie-mae",
+        "logourl": "https://s3-symbol-logo.tradingview.com/fannie-mae.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:REGN",
+        "logoid": "regeneron-pharmaceuticals",
+        "logourl": "https://s3-symbol-logo.tradingview.com/regeneron-pharmaceuticals.svg"
+      },
+      {
+        "symbol": "OTC:MEHCQ",
+        "logoid": "23andme-co",
+        "logourl": "https://s3-symbol-logo.tradingview.com/23andme-co.svg"
+      },
+      {
+        "symbol": "NYSE:X",
+        "logoid": "united-states-steel",
+        "logourl": "https://s3-symbol-logo.tradingview.com/united-states-steel.svg"
+      },
+      {
+        "symbol": "NYSE:UNH",
+        "logoid": "unitedhealth",
+        "logourl": "https://s3-symbol-logo.tradingview.com/unitedhealth.svg"
+      },
+      {
+        "symbol": "NYSE:WOLF",
+        "logoid": "wolfspeed",
+        "logourl": "https://s3-symbol-logo.tradingview.com/wolfspeed.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523009742:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Robert Teitelman"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Markets: On Monday, markets digested Moody's U.S. debt downgrade and the passage through a House committee of Republicans' tax and budget bill. Longer-dated Treasury yields climbed to 5% and the dollar fell. Stocks edged up slightly, then fell on Tuesday, ending a six-day win streak. A 20-year Treasury auction struggled on Wednesday. Early Thursday morning, the GOP House passed the bill, and long bonds sold off again. On Friday, President Donald Trump called for 50% tariffs on the European Union and 25% on smartphones made abroad; stocks fell. On the week, the Dow industrials shed 2.5%, the S&P 500 2.6%, and the Nasdaq Composite 2.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Companies: The United Kingdom and European Union signed a trade and security pact. China battery maker Contemporary Amperex Technology, or CATL, raised $4.6 billion in a Hong Kong listing, the year's largest. UnitedHealth Group stock rallied, then fell on more fraud allegations. The Interior Department pulled a stop-work order for New York's Empire Wind power project, allowing Equinor to resume construction. Nvidia CEO Jensen Huang called U.S. chip export controls on China \"a failure.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Deals: Regeneron Pharmaceuticals is buying 23andMe out of bankruptcy for $256 million...The Wall Street Journal reported chip component maker Wolfspeed will file for bankruptcy soon...Trump teased privatizing Fannie Mae and Freddie Mac and tweeted that U.S. Steel and Nippon Steel will form a \"partnership.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "To subscribe to Barron's, visit http://www.barrons.com/subscribe"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Robert TeitelmanMarkets: On Monday, markets digested Moody's U.S. debt downgrade and the passage through a House committee of Republicans' tax and budget bill. Longer-dated Treasury yields climbed to 5% and the dollar fell. Stocks edged up slightly, then fell on Tuesday, ending a six-day win streak. A 20-year Treasury auction struggled on Wednesday. Early Thursday morning, the GOP House passed the bill, and long bonds sold off again. On Friday, President Donald Trump called for 50% tariffs on the European Union and 25% on smartphones made abroad; stocks fell. On the week, the Dow industrials shed 2.5%, the S&P 500 2.6%, and the Nasdaq Composite 2.5%.Companies: The United Kingdom and European Union signed a trade and security pact. China battery maker Contemporary Amperex Technology, or CATL, raised $4.6 billion in a Hong Kong listing, the year's largest. UnitedHealth Group stock rallied, then fell on more fraud allegations. The Interior Department pulled a stop-work order for New York's Empire Wind power project, allowing Equinor to resume construction. Nvidia CEO Jensen Huang called U.S. chip export controls on China \"a failure.\"Deals: Regeneron Pharmaceuticals is buying 23andMe out of bankruptcy for $256 million...The Wall Street Journal reported chip component maker Wolfspeed will file for bankruptcy soon...Trump teased privatizing Fannie Mae and Freddie Mac and tweeted that U.S. Steel and Nippon Steel will form a \"partnership.\"To subscribe to Barron's, visit http://www.barrons.com/subscribe",
+    "shortDescription": "By Robert TeitelmanMarkets: On Monday, markets digested Moody's U.S. debt downgrade and the passage through a House committee of Republicans' tax and budget bill. Longer-dated Treasury yields climbed to 5% and the dollar fell. Stocks edged up slightly, then fell on Tuesday, ending a six-day win str\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523006572:0",
+    "title": "Tech Trader: Google Struck Gold With Search. Now It's Time to Move On. \u2014 Barron's",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748050200000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523006572:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Tae Kim"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The rapid progress in artificial intelligence means many large technology companies are currently facing their first big challenge since the dawn of the internet."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "And Google is in the crosshairs like no other. The biggest debate on Wall Street right now is whether Alphabet's Google search is being disrupted by AI-driven chatbots \u2014 and whether the company is up to the task of pushing back."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This week, Google offered its most significant response with the introduction of a major change to its search engine. The technology looks generally impressive, but it still isn't enough."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Google is facing the classic \"innovator's dilemma\": It is difficult for a business to move quickly to the next paradigm because the new model threatens to cannibalize the profit of the current business. And perhaps no one has ever had a business like Google Search. Last year, Alphabet generated $100 billion in net profit with the vast majority coming from its search engine, analysts say."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But things are changing quickly. I'm now doing most of my information-related searches on AI apps like ChatGPT, Grok, Gemini, and Perplexity, not Google. Alphabet investors have been skittish. Despite a 2% rise this week, the company's stock is down 10% this year. Among the Big Tech platforms, that decline is second to Apple's 22% slide, another company dealing with AI worries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "At its I/O developers conference this past week, Google announced impressive new technology, but it was buried inside confusing product launches and conflicting business goals. The presentation was a case study in the innovator's dilemma."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company unveiled a new AI video-generation model called Veo 3, which impressed experts, along with coming features and capabilities such as data visualization, better personalization, and AI agent capabilities that can book a restaurant or sporting event for users."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "More significantly, Google introduced \"AI Mode\" for its core search engine. CEO Sundar Pichai said that AI Mode is \"a total reimagining of search,\" allowing users to ask more complex queries in a conversational chatbot interface similar to ChatGPT and Google's own Gemini, where follow-up questions can be asked."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Google has been territorial about google.com ever since its 1998 launch, avoiding advertisements and clutter. So, any change to the page is significant. But given the stakes, AI Mode isn't significant enough. It's strangely hidden to users, so as not to actually encourage its use."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "To find AI Mode, Google users have to click on a small icon in the search bar or in a new tab on top of the site or app. Most users won't make the extra effort \u2014 and apparently that's OK with Google."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company is also putting many of its best AI features behind a new $250 a month subscription."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Even the rollout of AI Mode feels symptomatic of Google's AI ambivalence. \"I'm excited to share that AI Mode is coming to everyone in the U.S. starting today,\" Pichai said live from the Google I/O stage on Tuesday. Wall Street analysts and reporters took Pichai at his word, assuming AI Mode would be available to everyone imminently. But that hasn't been the case. When Barron's reached out to Google asking why AI Mode wasn't available a day after Google I/O, a company spokesperson pointed to a blog post that said the rollout would happen \"over the coming weeks.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In his book The Innovator's Dilemma, author Clayton Christensen explained how difficult it is for successful companies to maintain their relevance over time. History is littered with examples of incumbents moving too slowly when the next big technology shift arrives. Christensen wrote about how IBM dominated mainframes but then missed the emergence of minicomputers. No major mainframe company was able to become a leader in the minicomputer business."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The same thing happened to minicomputer companies like Digital Equipment when the world moved to PCs."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Here's the pattern: A start-up enters a niche market with a new paradigm and innovation. Large companies ignore the new area, given its small profit pool relative to current business. But as the start-up gains more customers, it can iterate new features and capabilities faster than weighed-down incumbents. Eventually, it displaces the more established company and the cycle begins anew."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "It's hard not to see the same pattern in play today as AI threatens search and Google takes tentative steps into the arena."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "It should make AI Mode the default option in its search engine and open its best features and models to all users."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "To be sure, the move would hit Google's results and its rich stream of search advertising. And that would hurt the stock \u2014 investors' short-term focus plays a significant role in the innovator's dilemma."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "But the longer Alphabet waits to lean in to AI, the worse off the company will be in the long run."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Google should beat the innovator's dilemma by pretending it doesn't have an incumbent business to protect. If it maintains the No. 1 position in the future AI-driven search world, monetization will come."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "On Wednesday, the company said it was already testing ads for AI Mode. It's a promising first step."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "There's plenty more to do. Pichai said on a recent podcast that he had never read The Innovator's Dilemma. The Google CEO should start there."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Tae Kim at tae.kim@barrons.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "To subscribe to Barron's, visit http://www.barrons.com/subscribe"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Tae KimThe rapid progress in artificial intelligence means many large technology companies are currently facing their first big challenge since the dawn of the internet.And Google is in the crosshairs like no other. The biggest debate on Wall Street right now is whether Alphabet's Google search is being disrupted by AI-driven chatbots \u2014 and whether the company is up to the task of pushing back.This week, Google offered its most significant response with the introduction of a major change to its search engine. The technology looks generally impressive, but it still isn't enough.Google is facing the classic \"innovator's dilemma\": It is difficult for a business to move quickly to the next paradigm because the new model threatens to cannibalize the profit of the current business. And perhaps no one has ever had a business like Google Search. Last year, Alphabet generated $100 billion in net profit with the vast majority coming from its search engine, analysts say.But things are changing quickly. I'm now doing most of my information-related searches on AI apps like ChatGPT, Grok, Gemini, and Perplexity, not Google. Alphabet investors have been skittish. Despite a 2% rise this week, the company's stock is down 10% this year. Among the Big Tech platforms, that decline is second to Apple's 22% slide, another company dealing with AI worries.At its I/O developers conference this past week, Google announced impressive new technology, but it was buried inside confusing product launches and conflicting business goals. The presentation was a case study in the innovator's dilemma.The company unveiled a new AI video-generation model called Veo 3, which impressed experts, along with coming features and capabilities such as data visualization, better personalization, and AI agent capabilities that can book a restaurant or sporting event for users.More significantly, Google introduced \"AI Mode\" for its core search engine. CEO Sundar Pichai said that AI Mode is \"a total reimagining of search,\" allowing users to ask more complex queries in a conversational chatbot interface similar to ChatGPT and Google's own Gemini, where follow-up questions can be asked.Google has been territorial about google.com ever since its 1998 launch, avoiding advertisements and clutter. So, any change to the page is significant. But given the stakes, AI Mode isn't significant enough. It's strangely hidden to users, so as not to actually encourage its use.To find AI Mode, Google users have to click on a small icon in the search bar or in a new tab on top of the site or app. Most users won't make the extra effort \u2014 and apparently that's OK with Google.The company is also putting many of its best AI features behind a new $250 a month subscription.Even the rollout of AI Mode feels symptomatic of Google's AI ambivalence. \"I'm excited to share that AI Mode is coming to everyone in the U.S. starting today,\" Pichai said live from the Google I/O stage on Tuesday. Wall Street analysts and reporters took Pichai at his word, assuming AI Mode would be available to everyone imminently. But that hasn't been the case. When Barron's reached out to Google asking why AI Mode wasn't available a day after Google I/O, a company spokesperson pointed to a blog post that said the rollout would happen \"over the coming weeks.\"In his book The Innovator's Dilemma, author Clayton Christensen explained how difficult it is for successful companies to maintain their relevance over time. History is littered with examples of incumbents moving too slowly when the next big technology shift arrives. Christensen wrote about how IBM dominated mainframes but then missed the emergence of minicomputers. No major mainframe company was able to become a leader in the minicomputer business.The same thing happened to minicomputer companies like Digital Equipment when the world moved to PCs.Here's the pattern: A start-up enters a niche market with a new paradigm and innovation. Large companies ignore the new area, given its small profit pool relative to current business. But as the start-up gains more customers, it can iterate new features and capabilities faster than weighed-down incumbents. Eventually, it displaces the more established company and the cycle begins anew.It's hard not to see the same pattern in play today as AI threatens search and Google takes tentative steps into the arena.It should make AI Mode the default option in its search engine and open its best features and models to all users.To be sure, the move would hit Google's results and its rich stream of search advertising. And that would hurt the stock \u2014 investors' short-term focus plays a significant role in the innovator's dilemma.But the longer Alphabet waits to lean in to AI, the worse off the company will be in the long run.Google should beat the innovator's dilemma by pretending it doesn't have an incumbent business to protect. If it maintains the No. 1 position in the future AI-driven search world, monetization will come.On Wednesday, the company said it was already testing ads for AI Mode. It's a promising first step.There's plenty more to do. Pichai said on a recent podcast that he had never read The Innovator's Dilemma. The Google CEO should start there.Write to Tae Kim at tae.kim@barrons.comTo subscribe to Barron's, visit http://www.barrons.com/subscribe",
+    "shortDescription": "By Tae KimThe rapid progress in artificial intelligence means many large technology companies are currently facing their first big challenge since the dawn of the internet.And Google is in the crosshairs like no other. The biggest debate on Wall Street right now is whether Alphabet's Google search\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:1c74f2903094b:0",
+    "title": "Will Nvidia Stock Keep Rebounding as Q1 Earnings Approach?",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748036940000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:AMZN",
+        "logoid": "amazon",
+        "logourl": "https://s3-symbol-logo.tradingview.com/amazon.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:MSFT",
+        "logoid": "microsoft",
+        "logourl": "https://s3-symbol-logo.tradingview.com/microsoft.svg"
+      },
+      {
+        "symbol": "NASDAQ:TSLA",
+        "logoid": "tesla",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tesla.svg"
+      },
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:META",
+        "logoid": "meta-platforms",
+        "logourl": "https://s3-symbol-logo.tradingview.com/meta-platforms.svg"
+      },
+      {
+        "symbol": "NASDAQ:CRWV",
+        "logourl": null
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:1c74f2903094b:0-will-nvidia-stock-keep-rebounding-as-q1-earnings-approach/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s AI Expansion & Spending "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Nvidia\u2019s Q1 Growth Expectations"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Based on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "NVDA Technical Analysis "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Monitoring Nvidia\u2019s P/E Valuation "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Bottom Line "
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily in AI, the combined spending of Amazon AMZN, Alphabet GOOGL, Microsoft MSFT, and Meta Platforms META\u00a0is slated to be over $300 billion in 2025, with total corporate investment on AI expected to be over $500 billion in the U.S. alone.That said, let\u2019s see if the rally in NVDA can continue with Nvidia set to release its Q1 report on Wednesday, May 28.\u00a0Nvidia\u2019s AI Expansion & Spending Enhancing productivity and efficiency, the AI boom has made it a very relevant time to consider big tech stocks as their ultra-growth prospects have a steroid-like catalyst. On the other hand, there are concerns that increased spending on AI could weigh down shareholder returns, especially if the wave fizzles out or an economic downturn occurs.Nvidia CEO Jensen Huang predicts the company\u2019s AI-related investments will grow by over 300% in the next three years as it focuses on ramping up its Blackwell GPU production, the most sought-after and highest-performing AI chips on the market. Coinciding with this, Nvidia\u2019s capital expenditures have spiked over 200% this year to more than $3 billion.\u00a0Nvidia also has a significant stake in cloud computing and AI infrastructure provider CoreWeave CRWV, owning 24.18 million CRWV shares in its latest 13F filing. At the same time, Nvidia has recently announced multi-billion-dollar agreements outside of the U.S. and China, as the chip supplier to Saudi Arabia\u2019s new AI venture, Humain.\u00a0Nvidia\u2019s Q1 Growth ExpectationsBased on Zacks' estimates, Nvidia\u2019s Q1 sales are thought to have increased 64% to $42.64 billion compared to $26.04 billion a year ago. On the bottom line, Q1 EPS is expected to rise 39% to $0.85 versus $0.61 a share in the prior period. Sequentially, Nvidia\u2019s Q1 sales would mark 8% growth but a 4% decline from earnings of $0.89 a share in Q4.\u00a0NVDA Technical Analysis Regarding Nvidia\u2019s latest rally, NVDA continued a bullish ascension after retaking its previous 50-day simple moving average (SMA) of $111 a share in early May and then surged past its former 200-day SMA of $125.Technical traders will be looking for NVDA to remain above its 200-day SMA, which is currently at $126 a share (Red Line). However, a post-earnings selloff that extends below the current 50-day SMA (Green Line) of $114 would signal a bearish downturn with NVDA soaring from a recent 52-week low of $86 a share in early April. \u00a0Monitoring Nvidia\u2019s P/E Valuation At current levels, Nvidia stock trades at 30.9X forward earnings, which is not an overly stretched premium to the benchmark S&P 500\u2019s 22.5X. Notably, NVDA is at the middle of the Mag 7 in terms of P/E valuation, offering a discount to Amazon, Microsoft, and Tesla TSLA\u00a0but being above Alphabet GOOGL, Apple AAPL, and Meta. Seeing as Nvidia stock has been in a league of its own in terms of market gains of over +1,300% in the last five years, it\u2019s noteworthy that NVDA trades well below its high of 122.1X forward earnings during this period and is nicely beneath its median of 55X. \u00a0Bottom Line Ahead of its Q1 report next week, Nvidia stock lands a Zacks Rank #3 (Hold). After such a sharp rally over the last month, there could be better buying opportunities ahead as investors will be closely assessing Nvidia\u2019s CapEx spend and guidance, with the chip giant\u2019s mind-boggling sequential growth starting to fade.This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "With Q1 results from Nvidia NVDA\u00a0less than a week away, the chip giant\u2019s stock has rebounded over +20% this month. The rebound has outperformed the broader indexes and led the Mag 7, with most of Nvidia\u2019s big tech peers utilizing the company\u2019s custom chips for their AI endeavors.Investing heavily i\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tradingview:571dfde58687a:0",
+    "title": "Alphabet Executives Conduct Significant Stock Transactions",
+    "provider": "tradingview",
+    "sourceLogoId": "tradingview",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/tradingview--theme-light.svg",
+    "published": 1748036401000,
+    "source": "TradingView",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/tradingview:571dfde58687a:0-alphabet-executives-conduct-significant-stock-transactions/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table-header",
+              "children": [
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Reporter Name"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Relationship"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Type"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "Amount"
+                      ]
+                    },
+                    {
+                      "type": "table-header-cell",
+                      "children": [
+                        "SEC Filing"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "table-body",
+              "children": [
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Shriram Kavitark Ram"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Director"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$3,412,500"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1652044/000095017025077118/xslF345X05/ownership.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Pichai Sundar"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Chief Executive Officer"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Sell"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$5,553,298"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1652044/000095017025077129/xslF345X05/ownership.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Alphabet Director Shriram Kavitark Ram and CEO Sundar Pichai have recently sold shares of the company's stock, according to SEC Form 4 filings. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Shriram Kavitark Ram sold 19,500 shares of Class A Common Stock on May 22, 2025, at a weighted average price of $175 per share, totaling $3,412,500. Following the sale, Ram directly owns 261,966 Class A Common Stock, 345,220 Class C Capital Stock, and 4,143 Class C Google Stock Units. Indirectly, Ram owns 1,608,708 Class A Common Stock and 2,611,454 Class C Capital Stock through various trusts and partnerships. These transactions were conducted under Rule 10b5-1 Trading Plans."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sundar Pichai sold 32,500 shares of Class C Capital Stock on May 21, 2025, with the transactions executed at weighted average prices ranging from $165.5848 to $173.9868, for a total sale amount of $5,553,298. Following these transactions, Pichai directly owns 2,620,196 Class C Capital Stock, 227,560 Class A Common Stock, and 224,169 Class C Google Stock Units. These sales were also conducted under a Rule 10b5-1 Trading Plan adopted on December 2, 2024."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Alphabet Director Shriram Kavitark Ram and CEO Sundar Pichai have recently sold shares of the company's stock, according to SEC Form 4 filings. Shriram Kavitark Ram sold 19,500 shares of Class A Common Stock on May 22, 2025, at a weighted average price of $175 per share, totaling $3,412,500. Following the sale, Ram directly owns 261,966 Class A Common Stock, 345,220 Class C Capital Stock, and 4,143 Class C Google Stock Units. Indirectly, Ram owns 1,608,708 Class A Common Stock and 2,611,454 Class C Capital Stock through various trusts and partnerships. These transactions were conducted under Rule 10b5-1 Trading Plans.Sundar Pichai sold 32,500 shares of Class C Capital Stock on May 21, 2025, with the transactions executed at weighted average prices ranging from $165.5848 to $173.9868, for a total sale amount of $5,553,298. Following these transactions, Pichai directly owns 2,620,196 Class C Capital Stock, 227,560 Class A Common Stock, and 224,169 Class C Google Stock Units. These sales were also conducted under a Rule 10b5-1 Trading Plan adopted on December 2, 2024.",
+    "shortDescription": "Alphabet Director Shriram Kavitark Ram and CEO Sundar Pichai have recently sold shares of the company's stock, according to SEC Form 4 filings. Shriram Kavitark Ram sold 19,500 shares of Class A Common Stock on May 22, 2025, at a weighted average price of $175 per share, totaling $3,412,500. Follow\u2026",
+    "summaryText": null
+  }
+]

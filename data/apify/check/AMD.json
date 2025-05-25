@@ -1,0 +1,794 @@
+[
+  {
+    "id": "zacks:516868c1a094b:0",
+    "title": "Micron Stock Soars 23% in a Month: Time to Hold or Book Profits?",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748004900000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      },
+      {
+        "symbol": "NASDAQ:MU",
+        "logoid": "micron-technology",
+        "logourl": "https://s3-symbol-logo.tradingview.com/micron-technology.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:516868c1a094b:0-micron-stock-soars-23-in-a-month-time-to-hold-or-book-profits/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Micron Technology, Inc."
+              ]
+            },
+            " MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "news-image",
+              "params": {
+                "image": {
+                  "id": "zacks:516868c1a094b-1d4bd1da9ba90fc7f84a88adc734b89e",
+                  "alt": "Zacks Investment Research",
+                  "source-width": 620,
+                  "source-height": 307,
+                  "bg-color": "#e8e8e8"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This outperformance raises the question: Should investors book profits and exit or continue holding the stock?"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Trade Truce Sparks Rally in Micron Shares"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s latest rally was fueled by optimism around improving U.S.-China trade relations. Since late April, investor sentiment has been lifted by reports of a temporary easing of tariffs between the world\u2019s two largest economies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Under the new deal, the United States agreed to lower tariffs on Chinese imports from 145% to 30%, while China will reduce duties on U.S. imports from 125% to 10%. These revised rates will remain in effect for 90 days, creating short-term certainty for global commerce."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The temporary trade truce revived hopes for smoother international trade and strengthened confidence in the economic outlook. As fears of escalating trade disruptions faded, equities, particularly in the tech and semiconductor sectors, rallied sharply."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apart from Micron, this broader market optimism also boosted share prices of other semiconductor players, including ",
+            {
+              "type": "b",
+              "children": [
+                "NVIDIA"
+              ]
+            },
+            " NVDA, ",
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            " AVGO and ",
+            {
+              "type": "b",
+              "children": [
+                "Advanced Micro Devices"
+              ]
+            },
+            " AMD. Over the past month, shares of NVIDIA, Broadcom and Advanced Micro Devices have soared 25%, 22.5% and 17.8%, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s long-term growth potential, along with invigorated investor optimism, makes the stock worth holding at the moment."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "AI and Data Centers Power Micron\u2019s Growth Engine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron sits at the heart of several transformative tech trends. Its exposure to artificial intelligence (AI), high-performance data centers, autonomous vehicles and industrial IoT uniquely positions the company for sustainable long-term growth."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "As AI adoption accelerates, the demand for advanced memory solutions like DRAM and NAND is soaring. Micron\u2019s investments in next-gen DRAM and 3D NAND ensure it remains competitive in delivering the performance needed for modern computing."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company\u2019s diversification strategy is also bearing fruit. By shifting its focus away from the more volatile consumer electronics market and toward resilient verticals such as automotive and enterprise IT, Micron has created a more stable revenue base. This balance enhances its ability to weather cyclical downturns, a critical trait in the semiconductor space."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron is also riding a strong wave in high-bandwidth memory (HBM) demand. Its HBM3E products are attracting significant interest for their superior energy efficiency and bandwidth, ideal for AI workloads. In January 2025, NVIDIA confirmed that Micron is a core HBM supplier for its GeForce RTX 50 Blackwell GPUs, signaling deep integration in the AI supply chain."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Additionally, Micron\u2019s newly announced HBM advanced packaging facility in Singapore, set to launch in 2026 with further expansion in 2027, underscores its commitment to scaling production for AI-driven markets."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Strong Forecasts Reinforce Micron\u2019s Financial Strength"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s financial outlook remains robust. The company\u2019s third-quarter fiscal 2025 targets suggest robust year-over-year revenue growth of 29% and a 153% jump in EPS. The Zacks Consensus Estimate for fiscal 2025 and 2026 revenues indicates year-over-year growth of 41% and 30%, respectively. The consensus mark for EPS suggests a robust year-over-year improvement of 433% for fiscal 2025 and 56% for fiscal 2026."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron also has a strong history of beating earnings estimates. The stock surpassed the Zacks Consensus Estimate for earnings in each of the trailing four quarters, the average surprise being 10.7%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Micron Technology, Inc. Price, Consensus and EPS Surprise"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "  "
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron Technology, Inc. price-consensus-eps-surprise-chart | Micron Technology, Inc. Quote"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "MU Valuation Still Looks Compelling Despite Recent Surge"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In terms of forward 12-month Price/Sales (P/S), MU shares are trading at 2.45X, significantly lower than the sector\u2019s 6.07X."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The stock\u2019s P/S ratio is also lower than major semiconductor players, including NVIDIA, Broadcom and Advanced Micro Devices. At present, Broadcom, NVIDIA and Advanced Micro Devices have forward 12-month P/S multiples of 15.59X, 15.96X and 5.31X, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Margin Pressures Cloud Micron\u2019s Near-Term Outlook"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "While Micron impressed with 38.3% year-over-year revenue growth in the second quarter of fiscal 2025, its profitability came under significant pressure. The company\u2019s non-GAAP gross margin declined to 37.9%, down from 39.5% in the previous quarter, marking a sharp sequential fall. This deterioration was driven by weaker NAND flash pricing and ongoing startup costs at its new DRAM production facility in Idaho."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "More concerning is the company\u2019s margin outlook. For the third quarter, Micron guided for a gross margin of 36.5% at the midpoint, signaling further compression. This weaker-than-expected outlook, despite record sales in its HBM segment, indicates that margin pressures are likely to persist."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Falling profitability, even amid strong AI-driven demand, raises questions about Micron\u2019s ability to capitalize on the booming AI market. If the company cannot maintain healthy margins, future earnings growth could be constrained."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Final Thoughts: Hold MU Stock for Now"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s fundamentals remain strong, and its position in the AI-driven memory market is well-established. The company offers compelling long-term growth potential, maintains a disciplined approach to innovation and trades at a discount relative to peers. However, ongoing margin compression warrants caution in the short term."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Given this balance of strengths and emerging risks, investors are advised to hold Micron stock for now. Currently, MU carries a Zacks Rank #3 (Hold). You can see ",
+            {
+              "type": "b",
+              "children": [
+                "the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Micron Technology, Inc. MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period.This outperformance raises the question: Should investors book profits and exit or continue holding the stock?Trade Truce Sparks Rally in Micron SharesMicron\u2019s latest rally was fueled by optimism around improving U.S.-China trade relations. Since late April, investor sentiment has been lifted by reports of a temporary easing of tariffs between the world\u2019s two largest economies.Under the new deal, the United States agreed to lower tariffs on Chinese imports from 145% to 30%, while China will reduce duties on U.S. imports from 125% to 10%. These revised rates will remain in effect for 90 days, creating short-term certainty for global commerce.The temporary trade truce revived hopes for smoother international trade and strengthened confidence in the economic outlook. As fears of escalating trade disruptions faded, equities, particularly in the tech and semiconductor sectors, rallied sharply.Apart from Micron, this broader market optimism also boosted share prices of other semiconductor players, including NVIDIA NVDA, Broadcom AVGO and Advanced Micro Devices AMD. Over the past month, shares of NVIDIA, Broadcom and Advanced Micro Devices have soared 25%, 22.5% and 17.8%, respectively.Micron\u2019s long-term growth potential, along with invigorated investor optimism, makes the stock worth holding at the moment.AI and Data Centers Power Micron\u2019s Growth EngineMicron sits at the heart of several transformative tech trends. Its exposure to artificial intelligence (AI), high-performance data centers, autonomous vehicles and industrial IoT uniquely positions the company for sustainable long-term growth.As AI adoption accelerates, the demand for advanced memory solutions like DRAM and NAND is soaring. Micron\u2019s investments in next-gen DRAM and 3D NAND ensure it remains competitive in delivering the performance needed for modern computing.The company\u2019s diversification strategy is also bearing fruit. By shifting its focus away from the more volatile consumer electronics market and toward resilient verticals such as automotive and enterprise IT, Micron has created a more stable revenue base. This balance enhances its ability to weather cyclical downturns, a critical trait in the semiconductor space.Micron is also riding a strong wave in high-bandwidth memory (HBM) demand. Its HBM3E products are attracting significant interest for their superior energy efficiency and bandwidth, ideal for AI workloads. In January 2025, NVIDIA confirmed that Micron is a core HBM supplier for its GeForce RTX 50 Blackwell GPUs, signaling deep integration in the AI supply chain.Additionally, Micron\u2019s newly announced HBM advanced packaging facility in Singapore, set to launch in 2026 with further expansion in 2027, underscores its commitment to scaling production for AI-driven markets.Strong Forecasts Reinforce Micron\u2019s Financial StrengthMicron\u2019s financial outlook remains robust. The company\u2019s third-quarter fiscal 2025 targets suggest robust year-over-year revenue growth of 29% and a 153% jump in EPS. The Zacks Consensus Estimate for fiscal 2025 and 2026 revenues indicates year-over-year growth of 41% and 30%, respectively. The consensus mark for EPS suggests a robust year-over-year improvement of 433% for fiscal 2025 and 56% for fiscal 2026.Micron also has a strong history of beating earnings estimates. The stock surpassed the Zacks Consensus Estimate for earnings in each of the trailing four quarters, the average surprise being 10.7%.Micron Technology, Inc. Price, Consensus and EPS Surprise Micron Technology, Inc. price-consensus-eps-surprise-chart | Micron Technology, Inc. QuoteMU Valuation Still Looks Compelling Despite Recent SurgeIn terms of forward 12-month Price/Sales (P/S), MU shares are trading at 2.45X, significantly lower than the sector\u2019s 6.07X.The stock\u2019s P/S ratio is also lower than major semiconductor players, including NVIDIA, Broadcom and Advanced Micro Devices. At present, Broadcom, NVIDIA and Advanced Micro Devices have forward 12-month P/S multiples of 15.59X, 15.96X and 5.31X, respectively.Margin Pressures Cloud Micron\u2019s Near-Term OutlookWhile Micron impressed with 38.3% year-over-year revenue growth in the second quarter of fiscal 2025, its profitability came under significant pressure. The company\u2019s non-GAAP gross margin declined to 37.9%, down from 39.5% in the previous quarter, marking a sharp sequential fall. This deterioration was driven by weaker NAND flash pricing and ongoing startup costs at its new DRAM production facility in Idaho.More concerning is the company\u2019s margin outlook. For the third quarter, Micron guided for a gross margin of 36.5% at the midpoint, signaling further compression. This weaker-than-expected outlook, despite record sales in its HBM segment, indicates that margin pressures are likely to persist.Falling profitability, even amid strong AI-driven demand, raises questions about Micron\u2019s ability to capitalize on the booming AI market. If the company cannot maintain healthy margins, future earnings growth could be constrained.Final Thoughts: Hold MU Stock for NowMicron\u2019s fundamentals remain strong, and its position in the AI-driven memory market is well-established. The company offers compelling long-term growth potential, maintains a disciplined approach to innovation and trades at a discount relative to peers. However, ongoing margin compression warrants caution in the short term.Given this balance of strengths and emerging risks, investors are advised to hold Micron stock for now. Currently, MU carries a Zacks Rank #3 (Hold). You can see the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here .This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "Micron Technology, Inc. MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period.This outperformance raises the question: Should investors book profits and exit o\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523002696:0",
+    "title": "What the Era of 'Sovereign AI' Means for Chip Makers \u2014 Heard on the Street \u2014 WSJ",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1747992600000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:MRVL",
+        "logoid": "marvell-tech",
+        "logourl": "https://s3-symbol-logo.tradingview.com/marvell-tech.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523002696:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Dan Gallagher"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the massive computing horsepower required for AI services. They are all recipients of the hundreds of billions of dollars that megacap tech companies based in the U.S. are investing to build those services."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Other countries want in on the action \u2014 in a big way. Saudi Arabia recently struck a deal to buy large amounts of Nvidia's AI chips for local infrastructure projects, and Nvidia has described India as a major customer. In addition, Nvidia was named Thursday as a key partner in an OpenAI-led data-center project in the United Arab Emirates."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"AI is going to be part of a national infrastructure the way telco is part of a national infrastructure,\" Nvidia Chief Executive Jensen Huang told a meeting of analysts in January. \"Every country has their own telcos.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The flip side is that AI chips are now a highly politicized business, figuring prominently in the U.S.-China trade war, and likely many future conflicts to come. For Nvidia and its competitors, that can be a blessing and a curse."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Trump administration has sharply restricted the ability of U.S. chip makers to sell their wares in China and some other countries. Future sales outside the U.S. could be linked closely to trade deals with individual countries. This new political reality for AI chip companies was highlighted as last week's deals were timed to coincide with President Trump's swing through the Middle East. Huang, the CEO who is now a global superstar, even ditched his trademark leather jacket and wore a suit for the occasion."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Huang has previously described the concept of countries' investing directly in artificial intelligence as \"sovereign AI\" \u2014 and it is an important element underpinning Nvidia's growth ambitions. Bank of America analyst Vivek Arya estimates that the sovereign AI market could reach $50 billion annually in the long term, or 10% to 15% of the \"global AI infrastructure opportunity.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia has more than doubled its annual revenue in each of the past two fiscal years, and it is expected by Wall Street to keep growing at a strong double-digit-percentage pace for the next three years. That would take the company's annual sales well past the $300 billion mark, a level no chip company has ever come close to achieving."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Hopes are high for Nvidia's AI competitors as well. Advanced Micro Devices, also known as AMD, is seen increasing annual revenue by double-digit percentages consecutively for the next five years, according to consensus estimates from Visible Alpha."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That would be a feat the 56-year-old chip maker hasn't managed since at least 1990, which is as far back as data measured by S&P Global Market Intelligence goes. AMD scored its own deal in the desert last week, landing a $10 billion agreement with Saudi Arabia to supply AI data-center components for the country's Humain venture."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sovereign AI projects can help chip companies including Nvidia and AMD reduce their reliance on the deep pockets of such companies as Microsoft, Amazon.com, Alphabet's Google and Meta Platforms. Capital spending by those companies has been on a tear as they race to build up AI capabilities, but historically such spending has been lumpy and volatile. It might depend, for instance, on the availability of real estate or electricity, as well as the near-term business trends of those companies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"Sovereign AI nicely complements commercial cloud investments,\" wrote BofA's Arya in a recent report. Stacy Rasgon of Bernstein was relatively blunt. \"For investors worried about AI capex sustainability, we now have another deep-pocketed customer willing and capable to spend large amounts of money on a clearly strategic push as Saudi Arabia attempts to position itself as a regional and global AI hub,\" he wrote."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investors like the idea. Nvidia and Broadcom have seen their stock prices jump by more than a third over the past month, while AMD's shares are up around 30%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sovereign AI projects will bring their own kind of turbulence. For one thing, project values announced at political events might prove to be exaggerated and won't always materialize as revenue. What is more, any foreign entity buying up advanced chips must make sure it doesn't run afoul of the U.S.'s efforts to keep AI components out of the hands of China and other adversaries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Trump administration scrapped the so-called AI diffusion rule, which would have placed limits on AI chips sales even to friendly countries. That was a notable victory for Nvidia and its peers, and it triggered a rally in their shares. But the administration is reportedly considering new steps that could link AI chip sales to trade deals with individual countries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "More broadly, the rise of sovereign AI exposes chip companies to levels of geopolitical intrigue normally associated with defense contractors. That could produce lots of unpredictability for Nvidia and its peers."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For instance, Nvidia's fiscal first-quarter report next week will include a $5.5 billion charge for chips it had designed for the Chinese market that were later banned for sale there by the U.S. government. Analysts are worried about how that will affect the company's outlook for the remainder of the fiscal year, even with overall demand for AI chips still running strong."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Regardless, Nvidia's market cap is back above $3 trillion, and now ahead of Apple's. Investors are betting big that this arms dealer can stay above the fray."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Dan Gallagher at dan.gallagher@wsj.com"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Dan GallagherNvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one.Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the massive computing horsepower required for AI services. They are all recipients of the hundreds of billions of dollars that megacap tech companies based in the U.S. are investing to build those services.Other countries want in on the action \u2014 in a big way. Saudi Arabia recently struck a deal to buy large amounts of Nvidia's AI chips for local infrastructure projects, and Nvidia has described India as a major customer. In addition, Nvidia was named Thursday as a key partner in an OpenAI-led data-center project in the United Arab Emirates.\"AI is going to be part of a national infrastructure the way telco is part of a national infrastructure,\" Nvidia Chief Executive Jensen Huang told a meeting of analysts in January. \"Every country has their own telcos.\"The flip side is that AI chips are now a highly politicized business, figuring prominently in the U.S.-China trade war, and likely many future conflicts to come. For Nvidia and its competitors, that can be a blessing and a curse.The Trump administration has sharply restricted the ability of U.S. chip makers to sell their wares in China and some other countries. Future sales outside the U.S. could be linked closely to trade deals with individual countries. This new political reality for AI chip companies was highlighted as last week's deals were timed to coincide with President Trump's swing through the Middle East. Huang, the CEO who is now a global superstar, even ditched his trademark leather jacket and wore a suit for the occasion.Huang has previously described the concept of countries' investing directly in artificial intelligence as \"sovereign AI\" \u2014 and it is an important element underpinning Nvidia's growth ambitions. Bank of America analyst Vivek Arya estimates that the sovereign AI market could reach $50 billion annually in the long term, or 10% to 15% of the \"global AI infrastructure opportunity.\"Nvidia has more than doubled its annual revenue in each of the past two fiscal years, and it is expected by Wall Street to keep growing at a strong double-digit-percentage pace for the next three years. That would take the company's annual sales well past the $300 billion mark, a level no chip company has ever come close to achieving.Hopes are high for Nvidia's AI competitors as well. Advanced Micro Devices, also known as AMD, is seen increasing annual revenue by double-digit percentages consecutively for the next five years, according to consensus estimates from Visible Alpha.That would be a feat the 56-year-old chip maker hasn't managed since at least 1990, which is as far back as data measured by S&P Global Market Intelligence goes. AMD scored its own deal in the desert last week, landing a $10 billion agreement with Saudi Arabia to supply AI data-center components for the country's Humain venture.Sovereign AI projects can help chip companies including Nvidia and AMD reduce their reliance on the deep pockets of such companies as Microsoft, Amazon.com, Alphabet's Google and Meta Platforms. Capital spending by those companies has been on a tear as they race to build up AI capabilities, but historically such spending has been lumpy and volatile. It might depend, for instance, on the availability of real estate or electricity, as well as the near-term business trends of those companies.\"Sovereign AI nicely complements commercial cloud investments,\" wrote BofA's Arya in a recent report. Stacy Rasgon of Bernstein was relatively blunt. \"For investors worried about AI capex sustainability, we now have another deep-pocketed customer willing and capable to spend large amounts of money on a clearly strategic push as Saudi Arabia attempts to position itself as a regional and global AI hub,\" he wrote.Investors like the idea. Nvidia and Broadcom have seen their stock prices jump by more than a third over the past month, while AMD's shares are up around 30%.Sovereign AI projects will bring their own kind of turbulence. For one thing, project values announced at political events might prove to be exaggerated and won't always materialize as revenue. What is more, any foreign entity buying up advanced chips must make sure it doesn't run afoul of the U.S.'s efforts to keep AI components out of the hands of China and other adversaries.The Trump administration scrapped the so-called AI diffusion rule, which would have placed limits on AI chips sales even to friendly countries. That was a notable victory for Nvidia and its peers, and it triggered a rally in their shares. But the administration is reportedly considering new steps that could link AI chip sales to trade deals with individual countries.More broadly, the rise of sovereign AI exposes chip companies to levels of geopolitical intrigue normally associated with defense contractors. That could produce lots of unpredictability for Nvidia and its peers.For instance, Nvidia's fiscal first-quarter report next week will include a $5.5 billion charge for chips it had designed for the Chinese market that were later banned for sale there by the U.S. government. Analysts are worried about how that will affect the company's outlook for the remainder of the fiscal year, even with overall demand for AI chips still running strong.Regardless, Nvidia's market cap is back above $3 trillion, and now ahead of Apple's. Investors are betting big that this arms dealer can stay above the fray.Write to Dan Gallagher at dan.gallagher@wsj.com",
+    "shortDescription": "By Dan GallagherNvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one.Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the ma\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tradingview:b206ff3c7f3fe:0",
+    "title": "AMD EVP & Chief Commercial Officer Acquires 8,800 Shares",
+    "provider": "tradingview",
+    "sourceLogoId": "tradingview",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/tradingview--theme-light.svg",
+    "published": 1747945204000,
+    "source": "TradingView",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/tradingview:b206ff3c7f3fe:0-amd-evp-chief-commercial-officer-acquires-8-800-shares/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "table",
+          "children": [
+            {
+              "type": "table-body",
+              "children": [
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Reporter Name"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Guido Philip"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Relationship"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "EVP & Chief Commercial Officer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Type"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Purchase"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "Amount"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "$999,328"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "table-row",
+                  "children": [
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        "SEC Filing"
+                      ]
+                    },
+                    {
+                      "type": "table-data-cell",
+                      "children": [
+                        {
+                          "type": "url",
+                          "params": {
+                            "url": "https://www.sec.gov/Archives/edgar/data/1985800/000000248825000082/xslF345X05/wk-form4_1747944836.xml",
+                            "linkText": "Form\u00a04"
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Philip Guido, EVP & Chief Commercial Officer at Advanced Micro Devices, purchased 8,800 shares of common stock on May 20, 2025. The shares were bought at a weighted average price of $113.56 per share, totaling $999,328. Following this transaction, Guido directly owns 42,322 shares of the company."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "SEC Filing: ",
+            {
+              "type": "url",
+              "params": {
+                "url": "https://www.sec.gov/Archives/edgar/data/1985800/000000248825000082/xslF345X05/wk-form4_1747944836.xml",
+                "linkText": "ADVANCED MICRO DEVICES INC [ AMD ] - Form 4 - May. 22, 2025"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Philip Guido, EVP & Chief Commercial Officer at Advanced Micro Devices, purchased 8,800 shares of common stock on May 20, 2025. The shares were bought at a weighted average price of $113.56 per share, totaling $999,328. Following this transaction, Guido directly owns 42,322 shares of the company.SEC Filing: ADVANCED MICRO DEVICES INC [ AMD ] - Form 4 - May. 22, 2025",
+    "shortDescription": "Philip Guido, EVP & Chief Commercial Officer at Advanced Micro Devices, purchased 8,800 shares of common stock on May 20, 2025. The shares were bought at a weighted average price of $113.56 per share, totaling $999,328. Following this transaction, Guido directly owns 42,322 shares of the company.SE\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "urn:newsml:mtnewswires.com:20250522:A3384067:0",
+    "title": "Advanced Micro Devices Insider Bought Shares Worth $999,328, According to a Recent SEC Filing",
+    "provider": "mt-newswires",
+    "sourceLogoId": "mtnewswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/mtnewswires--theme-light.svg",
+    "published": 1747945164000,
+    "source": "MT Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/mtnewswires.com:20250522:A3384067:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Philip Guido, Executive Vice President & Chief Commercial Officer, on May 20, 2025, executed a purchase for 8,800 shares in Advanced Micro Devices ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:AMD",
+                "text": "NASDAQ:AMD"
+              }
+            },
+            " for $999,328. Following the Form 4 filing with the SEC, Guido has control over a total of 42,322 common shares of the company, with 42,322 shares held directly. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "SEC Filing:"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "url",
+              "params": {
+                "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248825000082/xslF345X05/wk-form4_1747944836.xml",
+                "linkText": "www.sec.gov/Archives/edgar/data/2488/000000248825000082/xslF345X05/wk-form4_1747944836.xml"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Philip Guido, Executive Vice President & Chief Commercial Officer, on May 20, 2025, executed a purchase for 8,800 shares in Advanced Micro Devices NASDAQ:AMD for $999,328. Following the Form 4 filing with the SEC, Guido has control over a total of 42,322 common shares of the company, with 42,322 shares held directly. SEC Filing:www.sec.gov/Archives/edgar/data/2488/000000248825000082/xslF345X05/wk-form4_1747944836.xml",
+    "shortDescription": "Philip Guido, Executive Vice President & Chief Commercial Officer, on May 20, 2025, executed a purchase for 8,800 shares in Advanced Micro Devices NASDAQ:AMD for $999,328. Following the Form 4 filing with the SEC, Guido has control over a total of 42,322 common shares of the company, with 42,322 sh\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250522003221:0",
+    "title": "Nvidia Stock Rises. Why This Analyst's Shrugging Off China Chip Restrictions Impact. \u2014 Barrons.com",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1747923060000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:INTC",
+        "logoid": "intel",
+        "logourl": "https://s3-symbol-logo.tradingview.com/intel.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:QCOM",
+        "logoid": "qualcomm",
+        "logourl": "https://s3-symbol-logo.tradingview.com/qualcomm.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250522003221:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By George Glover"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia stock was rising on Thursday, with just a handful of sessions left until the chip maker reports earnings that should underline appetite for artificial intelligence demand."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Shares rose 1% to $133.15 in early trading. The benchmark S&P 500 was up 0.2%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia is set to report its first-quarter earnings after next Wednesday's closing bell. The company's results have become a must-see event in recent years, with sales of its graphics processing units tending to be a good barometer of broader AI demand."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Oppenheimer analyst Rick Schafer said in a research note published late Wednesday that he was expecting \"upside results and a roughly in-line July-quarter outlook, despite the loss of the loss of H20 sales to China following U.S. government restrictions.\" Nvidia CEO Jensen Huang has slammed Washington's chip curbs, designed to stop Beijing from getting its hands on the company's advanced AI chips, this week."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Schafer said the stock remained \"best-positioned in AI.\" He rates shares at Outperform, with a $175 price target that implies they have upside of 33%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Other chip maker stocks were also rising on Thursday. Advanced Micro Devices climbed 0.5%, Intel gained 0.9%, and Qualcomm added 0.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to George Glover at george.glover@dowjones.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By George GloverNvidia stock was rising on Thursday, with just a handful of sessions left until the chip maker reports earnings that should underline appetite for artificial intelligence demand.Shares rose 1% to $133.15 in early trading. The benchmark S&P 500 was up 0.2%.Nvidia is set to report its first-quarter earnings after next Wednesday's closing bell. The company's results have become a must-see event in recent years, with sales of its graphics processing units tending to be a good barometer of broader AI demand.Oppenheimer analyst Rick Schafer said in a research note published late Wednesday that he was expecting \"upside results and a roughly in-line July-quarter outlook, despite the loss of the loss of H20 sales to China following U.S. government restrictions.\" Nvidia CEO Jensen Huang has slammed Washington's chip curbs, designed to stop Beijing from getting its hands on the company's advanced AI chips, this week.Schafer said the stock remained \"best-positioned in AI.\" He rates shares at Outperform, with a $175 price target that implies they have upside of 33%.Other chip maker stocks were also rising on Thursday. Advanced Micro Devices climbed 0.5%, Intel gained 0.9%, and Qualcomm added 0.5%.Write to George Glover at george.glover@dowjones.comThis content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal.",
+    "shortDescription": "By George GloverNvidia stock was rising on Thursday, with just a handful of sessions left until the chip maker reports earnings that should underline appetite for artificial intelligence demand.Shares rose 1% to $133.15 in early trading. The benchmark S&P 500 was up 0.2%.Nvidia is set to report its\u2026",
+    "summaryText": null
+  }
+]

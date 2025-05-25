@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "zacks:516868c1a094b:0",
+    "title": "Micron Stock Soars 23% in a Month: Time to Hold or Book Profits?",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748004900000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      },
+      {
+        "symbol": "NASDAQ:MU",
+        "logoid": "micron-technology",
+        "logourl": "https://s3-symbol-logo.tradingview.com/micron-technology.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:516868c1a094b:0-micron-stock-soars-23-in-a-month-time-to-hold-or-book-profits/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Micron Technology, Inc."
+              ]
+            },
+            " MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "news-image",
+              "params": {
+                "image": {
+                  "id": "zacks:516868c1a094b-1d4bd1da9ba90fc7f84a88adc734b89e",
+                  "alt": "Zacks Investment Research",
+                  "source-width": 620,
+                  "source-height": 307,
+                  "bg-color": "#e8e8e8"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This outperformance raises the question: Should investors book profits and exit or continue holding the stock?"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Trade Truce Sparks Rally in Micron Shares"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s latest rally was fueled by optimism around improving U.S.-China trade relations. Since late April, investor sentiment has been lifted by reports of a temporary easing of tariffs between the world\u2019s two largest economies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Under the new deal, the United States agreed to lower tariffs on Chinese imports from 145% to 30%, while China will reduce duties on U.S. imports from 125% to 10%. These revised rates will remain in effect for 90 days, creating short-term certainty for global commerce."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The temporary trade truce revived hopes for smoother international trade and strengthened confidence in the economic outlook. As fears of escalating trade disruptions faded, equities, particularly in the tech and semiconductor sectors, rallied sharply."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apart from Micron, this broader market optimism also boosted share prices of other semiconductor players, including ",
+            {
+              "type": "b",
+              "children": [
+                "NVIDIA"
+              ]
+            },
+            " NVDA, ",
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            " AVGO and ",
+            {
+              "type": "b",
+              "children": [
+                "Advanced Micro Devices"
+              ]
+            },
+            " AMD. Over the past month, shares of NVIDIA, Broadcom and Advanced Micro Devices have soared 25%, 22.5% and 17.8%, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s long-term growth potential, along with invigorated investor optimism, makes the stock worth holding at the moment."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "AI and Data Centers Power Micron\u2019s Growth Engine"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron sits at the heart of several transformative tech trends. Its exposure to artificial intelligence (AI), high-performance data centers, autonomous vehicles and industrial IoT uniquely positions the company for sustainable long-term growth."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "As AI adoption accelerates, the demand for advanced memory solutions like DRAM and NAND is soaring. Micron\u2019s investments in next-gen DRAM and 3D NAND ensure it remains competitive in delivering the performance needed for modern computing."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company\u2019s diversification strategy is also bearing fruit. By shifting its focus away from the more volatile consumer electronics market and toward resilient verticals such as automotive and enterprise IT, Micron has created a more stable revenue base. This balance enhances its ability to weather cyclical downturns, a critical trait in the semiconductor space."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron is also riding a strong wave in high-bandwidth memory (HBM) demand. Its HBM3E products are attracting significant interest for their superior energy efficiency and bandwidth, ideal for AI workloads. In January 2025, NVIDIA confirmed that Micron is a core HBM supplier for its GeForce RTX 50 Blackwell GPUs, signaling deep integration in the AI supply chain."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Additionally, Micron\u2019s newly announced HBM advanced packaging facility in Singapore, set to launch in 2026 with further expansion in 2027, underscores its commitment to scaling production for AI-driven markets."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Strong Forecasts Reinforce Micron\u2019s Financial Strength"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s financial outlook remains robust. The company\u2019s third-quarter fiscal 2025 targets suggest robust year-over-year revenue growth of 29% and a 153% jump in EPS. The Zacks Consensus Estimate for fiscal 2025 and 2026 revenues indicates year-over-year growth of 41% and 30%, respectively. The consensus mark for EPS suggests a robust year-over-year improvement of 433% for fiscal 2025 and 56% for fiscal 2026."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron also has a strong history of beating earnings estimates. The stock surpassed the Zacks Consensus Estimate for earnings in each of the trailing four quarters, the average surprise being 10.7%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Micron Technology, Inc. Price, Consensus and EPS Surprise"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "  "
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron Technology, Inc. price-consensus-eps-surprise-chart | Micron Technology, Inc. Quote"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "MU Valuation Still Looks Compelling Despite Recent Surge"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In terms of forward 12-month Price/Sales (P/S), MU shares are trading at 2.45X, significantly lower than the sector\u2019s 6.07X."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The stock\u2019s P/S ratio is also lower than major semiconductor players, including NVIDIA, Broadcom and Advanced Micro Devices. At present, Broadcom, NVIDIA and Advanced Micro Devices have forward 12-month P/S multiples of 15.59X, 15.96X and 5.31X, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Margin Pressures Cloud Micron\u2019s Near-Term Outlook"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "While Micron impressed with 38.3% year-over-year revenue growth in the second quarter of fiscal 2025, its profitability came under significant pressure. The company\u2019s non-GAAP gross margin declined to 37.9%, down from 39.5% in the previous quarter, marking a sharp sequential fall. This deterioration was driven by weaker NAND flash pricing and ongoing startup costs at its new DRAM production facility in Idaho."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "More concerning is the company\u2019s margin outlook. For the third quarter, Micron guided for a gross margin of 36.5% at the midpoint, signaling further compression. This weaker-than-expected outlook, despite record sales in its HBM segment, indicates that margin pressures are likely to persist."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Falling profitability, even amid strong AI-driven demand, raises questions about Micron\u2019s ability to capitalize on the booming AI market. If the company cannot maintain healthy margins, future earnings growth could be constrained."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Final Thoughts: Hold MU Stock for Now"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Micron\u2019s fundamentals remain strong, and its position in the AI-driven memory market is well-established. The company offers compelling long-term growth potential, maintains a disciplined approach to innovation and trades at a discount relative to peers. However, ongoing margin compression warrants caution in the short term."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Given this balance of strengths and emerging risks, investors are advised to hold Micron stock for now. Currently, MU carries a Zacks Rank #3 (Hold). You can see ",
+            {
+              "type": "b",
+              "children": [
+                "the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Micron Technology, Inc. MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period.This outperformance raises the question: Should investors book profits and exit or continue holding the stock?Trade Truce Sparks Rally in Micron SharesMicron\u2019s latest rally was fueled by optimism around improving U.S.-China trade relations. Since late April, investor sentiment has been lifted by reports of a temporary easing of tariffs between the world\u2019s two largest economies.Under the new deal, the United States agreed to lower tariffs on Chinese imports from 145% to 30%, while China will reduce duties on U.S. imports from 125% to 10%. These revised rates will remain in effect for 90 days, creating short-term certainty for global commerce.The temporary trade truce revived hopes for smoother international trade and strengthened confidence in the economic outlook. As fears of escalating trade disruptions faded, equities, particularly in the tech and semiconductor sectors, rallied sharply.Apart from Micron, this broader market optimism also boosted share prices of other semiconductor players, including NVIDIA NVDA, Broadcom AVGO and Advanced Micro Devices AMD. Over the past month, shares of NVIDIA, Broadcom and Advanced Micro Devices have soared 25%, 22.5% and 17.8%, respectively.Micron\u2019s long-term growth potential, along with invigorated investor optimism, makes the stock worth holding at the moment.AI and Data Centers Power Micron\u2019s Growth EngineMicron sits at the heart of several transformative tech trends. Its exposure to artificial intelligence (AI), high-performance data centers, autonomous vehicles and industrial IoT uniquely positions the company for sustainable long-term growth.As AI adoption accelerates, the demand for advanced memory solutions like DRAM and NAND is soaring. Micron\u2019s investments in next-gen DRAM and 3D NAND ensure it remains competitive in delivering the performance needed for modern computing.The company\u2019s diversification strategy is also bearing fruit. By shifting its focus away from the more volatile consumer electronics market and toward resilient verticals such as automotive and enterprise IT, Micron has created a more stable revenue base. This balance enhances its ability to weather cyclical downturns, a critical trait in the semiconductor space.Micron is also riding a strong wave in high-bandwidth memory (HBM) demand. Its HBM3E products are attracting significant interest for their superior energy efficiency and bandwidth, ideal for AI workloads. In January 2025, NVIDIA confirmed that Micron is a core HBM supplier for its GeForce RTX 50 Blackwell GPUs, signaling deep integration in the AI supply chain.Additionally, Micron\u2019s newly announced HBM advanced packaging facility in Singapore, set to launch in 2026 with further expansion in 2027, underscores its commitment to scaling production for AI-driven markets.Strong Forecasts Reinforce Micron\u2019s Financial StrengthMicron\u2019s financial outlook remains robust. The company\u2019s third-quarter fiscal 2025 targets suggest robust year-over-year revenue growth of 29% and a 153% jump in EPS. The Zacks Consensus Estimate for fiscal 2025 and 2026 revenues indicates year-over-year growth of 41% and 30%, respectively. The consensus mark for EPS suggests a robust year-over-year improvement of 433% for fiscal 2025 and 56% for fiscal 2026.Micron also has a strong history of beating earnings estimates. The stock surpassed the Zacks Consensus Estimate for earnings in each of the trailing four quarters, the average surprise being 10.7%.Micron Technology, Inc. Price, Consensus and EPS Surprise Micron Technology, Inc. price-consensus-eps-surprise-chart | Micron Technology, Inc. QuoteMU Valuation Still Looks Compelling Despite Recent SurgeIn terms of forward 12-month Price/Sales (P/S), MU shares are trading at 2.45X, significantly lower than the sector\u2019s 6.07X.The stock\u2019s P/S ratio is also lower than major semiconductor players, including NVIDIA, Broadcom and Advanced Micro Devices. At present, Broadcom, NVIDIA and Advanced Micro Devices have forward 12-month P/S multiples of 15.59X, 15.96X and 5.31X, respectively.Margin Pressures Cloud Micron\u2019s Near-Term OutlookWhile Micron impressed with 38.3% year-over-year revenue growth in the second quarter of fiscal 2025, its profitability came under significant pressure. The company\u2019s non-GAAP gross margin declined to 37.9%, down from 39.5% in the previous quarter, marking a sharp sequential fall. This deterioration was driven by weaker NAND flash pricing and ongoing startup costs at its new DRAM production facility in Idaho.More concerning is the company\u2019s margin outlook. For the third quarter, Micron guided for a gross margin of 36.5% at the midpoint, signaling further compression. This weaker-than-expected outlook, despite record sales in its HBM segment, indicates that margin pressures are likely to persist.Falling profitability, even amid strong AI-driven demand, raises questions about Micron\u2019s ability to capitalize on the booming AI market. If the company cannot maintain healthy margins, future earnings growth could be constrained.Final Thoughts: Hold MU Stock for NowMicron\u2019s fundamentals remain strong, and its position in the AI-driven memory market is well-established. The company offers compelling long-term growth potential, maintains a disciplined approach to innovation and trades at a discount relative to peers. However, ongoing margin compression warrants caution in the short term.Given this balance of strengths and emerging risks, investors are advised to hold Micron stock for now. Currently, MU carries a Zacks Rank #3 (Hold). You can see the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here .This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "Micron Technology, Inc. MU has seen its share price soar 22.7% over the past month. This surge has significantly outperformed the broader Zacks Computer and Technology sector, which gained 10.7% during the same period.This outperformance raises the question: Should investors book profits and exit o\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:7f39f024d094b:0",
+    "title": "Zacks Industry Outlook Highlights Broadcom, Lam Research and Impinj",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748002620000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:LRCX",
+        "logoid": "lam-research",
+        "logourl": "https://s3-symbol-logo.tradingview.com/lam-research.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:PI",
+        "logoid": "impinj",
+        "logourl": "https://s3-symbol-logo.tradingview.com/impinj.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:7f39f024d094b:0-zacks-industry-outlook-highlights-broadcom-lam-research-and-impinj/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "For Immediate Release"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Chicago, IL \u2013 May 23, 2025 \u2013 Today, Zacks Equity Research discusses Broadcom AVGO, Lam Research LRCX and Impinj PI."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry: Semiconductors"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Link: https://www.zacks.com/commentary/2476268/3-stocks-to-buy-from-the-prospering-semiconductor-industry"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry is benefiting from the growing proliferation of Artificial Intelligence (AI), Generative AI (Gen AI), Internet of Things (IoT), Machine Learning (ML) and industrial revolution 4.0 (which focuses on interconnectivity and automation). These have turned out to be boons for industry players like ",
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            ", ",
+            {
+              "type": "b",
+              "children": [
+                "Lam Research "
+              ]
+            },
+            "and ",
+            {
+              "type": "b",
+              "children": [
+                "Impinj"
+              ]
+            },
+            ". Increasing demand for AI-supportive chips from hyperscalers is a major growth driver."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The growing demand for high-volume consumer electronic devices, including digital media players, smartphones, tablets, efficient packaging, machine vision solutions and robotics, should continue to drive the industry's growth. Nevertheless, industry players suffer from macroeconomic challenges, end-market volatility, broad-based inventory correction and growing geopolitical tensions. Tariffs on trade partners, including China, are expected to hurt the industry's prospects."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry Description"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics \u2013 Semiconductors industry comprises companies that provide a wide range of semiconductor technologies. Their offerings include packaging and test services, wafer cleaning, factory automation, face detection and image-recognition capabilities to develop smart and connected products."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The industry participants primarily cater to end markets that include consumer electronics, communications, computing, industrial and automotive. The companies are increasing their spending on research and development to stay afloat in an era of technological advancements and changing industry standards. The industry is experiencing solid demand for advanced electronic equipment, which is helping its participants increase their investments in cost-effective process technologies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "What's Shaping the Future of the Electronics - Semiconductors Industry?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "i",
+                  "children": [
+                    "AI Demand Driving Prospects"
+                  ]
+                }
+              ]
+            },
+            ": Industry participants are benefiting from growing demand for advanced manufacturing processes and energy-efficient computing power, both of which are needed to develop AI-supportive chips. AI is gaining popularity thanks to multimodal learning and growing context awareness."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The emergence of Gen AI and Agentic AI has further enhanced AI's capabilities, making it a key driver of efficiency, automation and innovation. Significant improvements in computing hardware (GPUs and TPUs) are allowing the development of more complex AI models. The growing number of high-speed data centers worldwide, which require ultra-fast Internet that 5G promises to deliver, is a tailwind. Increased connectivity and use of technology in consumer electronics through IoT, AI, robotics, AR/VR and others further set the momentum for 5G."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "i",
+                  "children": [
+                    "Smart Devices Aiding Computing Demand"
+                  ]
+                }
+              ]
+            },
+            ": Smart devices need computing and learning capabilities to perform functions like face detection, image recognition and video analytics capabilities. These require high levels of processing power, speed and memory and low power consumption, as well as better graphic processors and solutions, which bode well for the industry. Graphic solutions help increase the speed of rendering images and improve image resolution and color definition."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "i",
+                  "children": [
+                    "Prospects Around Advanced Packaging Robust"
+                  ]
+                }
+              ]
+            },
+            ": The increasing demand for miniaturization, greater functionality, lower power consumption, and improved thermal and electrical performance are driving the demand for semiconductor packaging and test technologies. The growing requirement for advanced packaging is gaining traction in the semiconductor industry, which is a key catalyst for industry participants."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "i",
+                  "children": [
+                    "Complex Process Drives Demand"
+                  ]
+                }
+              ]
+            },
+            ": The requirement for faster, more powerful and energy-efficient semiconductors is expected to increase rapidly with the robust adoption of cloud computing, IoT and AI. Semiconductor manufacturers are primarily looking to maximize manufacturing yields at lower costs, making semiconductor manufacturing processes more complex and driving the demand for solutions offered by industry participants. The rapid adoption of IoT-supported factory automation solutions is another contributing factor."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Zacks Industry Rank Indicates Bullish Prospects"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry is housed within the broader Zacks Computer and Technology sector. It currently carries a Zacks Industry Rank #85, which places it in the top 35% of more than 250 Zacks industries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The group's Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bullish near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than two to one."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The industry's positioning in the top 50% of the Zacks-ranked industries is a result of the positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group's earnings growth potential. Since Aug. 31, 2024, the industry's earnings estimates for the current year have moved up 3.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Given the bullish prospects, there are a number of stocks that you can consider for your portfolio. However, before we present the stocks, let us look at the industry's recent stock-market performance and valuation picture."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry Outperforms S&P 500 & Sector"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry has outperformed the Zacks S&P 500 composite and surpassed the broader Zacks Computer and Technology sector in the past year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The industry has appreciated 17.7% over this period compared with the Zacks Computer and Technology sector's return of 9.2% and the S&P 500's growth of 10.9%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry's Current Valuation"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "On the basis of the forward 12-month price-to-earnings ratio, which is a commonly used multiple for valuing electronics semiconductor stocks, the industry is currently trading at 28.75X versus the S&P 500 and the sector's 21.49X and 26.45X, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Over the past five years, the industry has traded as high as 33.35X and as low as 22.81X, with the median being 29.67X."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "3 Electronics Semiconductor Stocks to Buy"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Impinj"
+              ]
+            },
+            ": This Zacks Rank #1 (Strong Buy) company is benefiting from its strong position in the endpoint IC market, a pipeline of innovative product offerings and a targeted expansion into enterprise applications such as supply chain and logistics. You can see the complete list of today's Zacks #1 Rank stocks here."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The M800 series, built on Impinj's next-generation Gen2X technology, is gaining strong traction. The solution delivers enhanced performance and greater efficiency. The M800 series significantly expands Impinge's addressable market, particularly in enterprise applications. Gen2X technology is proving to be a transformative advancement for Impinj, increasing overhead reading solution area coverage by 44%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "PI shares have dropped 19.5% in the year-to-date (YTD) period. The Zacks Consensus Estimate for Impinj's 2025 earnings has increased 7.5% to $1.68 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            ": Strong demand for custom AI accelerators, AI networking solutions, Ethernet switching, optical lasers, thin dies, PCI Express switches and Network Interface Cards from hyperscale customers is driving Broadcom's top-line growth."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "AVGO's solutions are suitable for addressing the needs of an increasing AI workload and the growing need for fast networking in data centers. The acquisition of VMware has benefited Infrastructure software solutions. This Zacks Rank #2 (Buy) company's expanding clientele, which includes the likes of Alphabet and Meta Platforms, is noteworthy."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Broadcom stock has declined 1.3% YTD. The Zacks Consensus Estimate for AVGO's fiscal 2025 earnings has been steady at $6.62 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Lam Research"
+              ]
+            },
+            ": Another Zacks Rank #2 stock, Lam Research is riding on its strength across 3D DRAM and advanced packaging technologies. Growing etch and deposition intensity owing to increasing technology inflections in 3D architectures is a plus. A rebound in the System business, owing to improving memory spending, is a positive. Solid demand related to high-bandwidth memory is a plus for Lam Research."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "LRCX stock has appreciated 14.7% YTD. The Zacks Consensus Estimate for LRCX's fiscal 2026 earnings has increased 4.2% to $3.96 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Why Haven't You Looked at Zacks' Top Stocks?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Since 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of ",
+            {
+              "type": "b",
+              "children": [
+                "+48.4%, +50.2%"
+              ]
+            },
+            " and ",
+            {
+              "type": "b",
+              "children": [
+                "+56.7%"
+              ]
+            },
+            " per year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Today you can access their live picks without cost or obligation."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "See Stocks Free >>"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Join us on Facebook: https://www.facebook.com/ZacksInvestmentResearch/",
+            {
+              "type": "disclaimer",
+              "children": [
+                {
+                  "type": "p",
+                  "children": [
+                    "Zacks Investment Research is under common control with affiliated entities (including a broker-dealer and an investment adviser), which may engage in transactions involving the foregoing securities for the clients of such affiliates."
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "Media Contact"
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "Zacks Investment Research"
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "800-767-3771 ext. 9339"
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "support@zacks.com"
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "https://www.zacks.com"
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "Past performance is no guarantee of future results. Inherent in any investment is the potential for loss. This material is being provided for informational purposes only and nothing herein constitutes investment, legal, accounting or tax advice, or a recommendation to buy, sell or hold a security. No recommendation or advice is being given as to whether any investment is suitable for a particular investor. It should not be assumed\u00a0that any investments in securities, companies, sectors or markets identified and described were or will be profitable. All information is current as of the date of herein and\u00a0is subject to change without notice. Any views or opinions expressed may not reflect those of the firm as a whole. Zacks Investment Research does not engage in investment banking, market making or asset management activities of any securities. These returns are from hypothetical portfolios consisting of stocks with Zacks Rank = 1 that were rebalanced monthly with zero transaction costs. These are not the returns of actual portfolios of stocks. The S&P 500 is an unmanaged index. Visit https://www.zacks.com/performance for information about the performance numbers displayed in this press release."
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "This article originally published on Zacks Investment Research (zacks.com)."
+                  ]
+                },
+                {
+                  "type": "p",
+                  "children": [
+                    "Zacks Investment Research"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "For Immediate ReleaseChicago, IL \u2013 May 23, 2025 \u2013 Today, Zacks Equity Research discusses Broadcom AVGO, Lam Research LRCX and Impinj PI.Industry: SemiconductorsLink: https://www.zacks.com/commentary/2476268/3-stocks-to-buy-from-the-prospering-semiconductor-industryThe Zacks Electronics - Semiconductors industry is benefiting from the growing proliferation of Artificial Intelligence (AI), Generative AI (Gen AI), Internet of Things (IoT), Machine Learning (ML) and industrial revolution 4.0 (which focuses on interconnectivity and automation). These have turned out to be boons for industry players like Broadcom , Lam Research and Impinj . Increasing demand for AI-supportive chips from hyperscalers is a major growth driver.The growing demand for high-volume consumer electronic devices, including digital media players, smartphones, tablets, efficient packaging, machine vision solutions and robotics, should continue to drive the industry's growth. Nevertheless, industry players suffer from macroeconomic challenges, end-market volatility, broad-based inventory correction and growing geopolitical tensions. Tariffs on trade partners, including China, are expected to hurt the industry's prospects.Industry DescriptionThe Zacks Electronics \u2013 Semiconductors industry comprises companies that provide a wide range of semiconductor technologies. Their offerings include packaging and test services, wafer cleaning, factory automation, face detection and image-recognition capabilities to develop smart and connected products.The industry participants primarily cater to end markets that include consumer electronics, communications, computing, industrial and automotive. The companies are increasing their spending on research and development to stay afloat in an era of technological advancements and changing industry standards. The industry is experiencing solid demand for advanced electronic equipment, which is helping its participants increase their investments in cost-effective process technologies.What's Shaping the Future of the Electronics - Semiconductors Industry?AI Demand Driving Prospects : Industry participants are benefiting from growing demand for advanced manufacturing processes and energy-efficient computing power, both of which are needed to develop AI-supportive chips. AI is gaining popularity thanks to multimodal learning and growing context awareness.The emergence of Gen AI and Agentic AI has further enhanced AI's capabilities, making it a key driver of efficiency, automation and innovation. Significant improvements in computing hardware (GPUs and TPUs) are allowing the development of more complex AI models. The growing number of high-speed data centers worldwide, which require ultra-fast Internet that 5G promises to deliver, is a tailwind. Increased connectivity and use of technology in consumer electronics through IoT, AI, robotics, AR/VR and others further set the momentum for 5G.Smart Devices Aiding Computing Demand : Smart devices need computing and learning capabilities to perform functions like face detection, image recognition and video analytics capabilities. These require high levels of processing power, speed and memory and low power consumption, as well as better graphic processors and solutions, which bode well for the industry. Graphic solutions help increase the speed of rendering images and improve image resolution and color definition.Prospects Around Advanced Packaging Robust : The increasing demand for miniaturization, greater functionality, lower power consumption, and improved thermal and electrical performance are driving the demand for semiconductor packaging and test technologies. The growing requirement for advanced packaging is gaining traction in the semiconductor industry, which is a key catalyst for industry participants.Complex Process Drives Demand : The requirement for faster, more powerful and energy-efficient semiconductors is expected to increase rapidly with the robust adoption of cloud computing, IoT and AI. Semiconductor manufacturers are primarily looking to maximize manufacturing yields at lower costs, making semiconductor manufacturing processes more complex and driving the demand for solutions offered by industry participants. The rapid adoption of IoT-supported factory automation solutions is another contributing factor.Zacks Industry Rank Indicates Bullish ProspectsThe Zacks Electronics - Semiconductors industry is housed within the broader Zacks Computer and Technology sector. It currently carries a Zacks Industry Rank #85, which places it in the top 35% of more than 250 Zacks industries.The group's Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bullish near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than two to one.The industry's positioning in the top 50% of the Zacks-ranked industries is a result of the positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group's earnings growth potential. Since Aug. 31, 2024, the industry's earnings estimates for the current year have moved up 3.5%.Given the bullish prospects, there are a number of stocks that you can consider for your portfolio. However, before we present the stocks, let us look at the industry's recent stock-market performance and valuation picture.Industry Outperforms S&P 500 & SectorThe Zacks Electronics - Semiconductors industry has outperformed the Zacks S&P 500 composite and surpassed the broader Zacks Computer and Technology sector in the past year.The industry has appreciated 17.7% over this period compared with the Zacks Computer and Technology sector's return of 9.2% and the S&P 500's growth of 10.9%.Industry's Current ValuationOn the basis of the forward 12-month price-to-earnings ratio, which is a commonly used multiple for valuing electronics semiconductor stocks, the industry is currently trading at 28.75X versus the S&P 500 and the sector's 21.49X and 26.45X, respectively.Over the past five years, the industry has traded as high as 33.35X and as low as 22.81X, with the median being 29.67X.3 Electronics Semiconductor Stocks to BuyImpinj : This Zacks Rank #1 (Strong Buy) company is benefiting from its strong position in the endpoint IC market, a pipeline of innovative product offerings and a targeted expansion into enterprise applications such as supply chain and logistics. You can see the complete list of today's Zacks #1 Rank stocks here.The M800 series, built on Impinj's next-generation Gen2X technology, is gaining strong traction. The solution delivers enhanced performance and greater efficiency. The M800 series significantly expands Impinge's addressable market, particularly in enterprise applications. Gen2X technology is proving to be a transformative advancement for Impinj, increasing overhead reading solution area coverage by 44%.PI shares have dropped 19.5% in the year-to-date (YTD) period. The Zacks Consensus Estimate for Impinj's 2025 earnings has increased 7.5% to $1.68 per share over the past 30 days.Broadcom : Strong demand for custom AI accelerators, AI networking solutions, Ethernet switching, optical lasers, thin dies, PCI Express switches and Network Interface Cards from hyperscale customers is driving Broadcom's top-line growth.AVGO's solutions are suitable for addressing the needs of an increasing AI workload and the growing need for fast networking in data centers. The acquisition of VMware has benefited Infrastructure software solutions. This Zacks Rank #2 (Buy) company's expanding clientele, which includes the likes of Alphabet and Meta Platforms, is noteworthy.Broadcom stock has declined 1.3% YTD. The Zacks Consensus Estimate for AVGO's fiscal 2025 earnings has been steady at $6.62 per share over the past 30 days.Lam Research : Another Zacks Rank #2 stock, Lam Research is riding on its strength across 3D DRAM and advanced packaging technologies. Growing etch and deposition intensity owing to increasing technology inflections in 3D architectures is a plus. A rebound in the System business, owing to improving memory spending, is a positive. Solid demand related to high-bandwidth memory is a plus for Lam Research.LRCX stock has appreciated 14.7% YTD. The Zacks Consensus Estimate for LRCX's fiscal 2026 earnings has increased 4.2% to $3.96 per share over the past 30 days.Why Haven't You Looked at Zacks' Top Stocks?Since 2000, our top stock-picking strategies have blown away the S&P's +7.7% average gain per year. Amazingly, they soared with average gains of +48.4%, +50.2% and +56.7% per year.Today you can access their live picks without cost or obligation.See Stocks Free >>Join us on Facebook: https://www.facebook.com/ZacksInvestmentResearch/",
+    "shortDescription": "For Immediate ReleaseChicago, IL \u2013 May 23, 2025 \u2013 Today, Zacks Equity Research discusses Broadcom AVGO, Lam Research LRCX and Impinj PI.Industry: SemiconductorsLink: https://www.zacks.com/commentary/2476268/3-stocks-to-buy-from-the-prospering-semiconductor-industryThe Zacks Electronics - Semiconduc\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250523002696:0",
+    "title": "What the Era of 'Sovereign AI' Means for Chip Makers \u2014 Heard on the Street \u2014 WSJ",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1747992600000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AMD",
+        "logoid": "advanced-micro-devices",
+        "logourl": "https://s3-symbol-logo.tradingview.com/advanced-micro-devices.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:MRVL",
+        "logoid": "marvell-tech",
+        "logourl": "https://s3-symbol-logo.tradingview.com/marvell-tech.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250523002696:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Dan Gallagher"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the massive computing horsepower required for AI services. They are all recipients of the hundreds of billions of dollars that megacap tech companies based in the U.S. are investing to build those services."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Other countries want in on the action \u2014 in a big way. Saudi Arabia recently struck a deal to buy large amounts of Nvidia's AI chips for local infrastructure projects, and Nvidia has described India as a major customer. In addition, Nvidia was named Thursday as a key partner in an OpenAI-led data-center project in the United Arab Emirates."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"AI is going to be part of a national infrastructure the way telco is part of a national infrastructure,\" Nvidia Chief Executive Jensen Huang told a meeting of analysts in January. \"Every country has their own telcos.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The flip side is that AI chips are now a highly politicized business, figuring prominently in the U.S.-China trade war, and likely many future conflicts to come. For Nvidia and its competitors, that can be a blessing and a curse."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Trump administration has sharply restricted the ability of U.S. chip makers to sell their wares in China and some other countries. Future sales outside the U.S. could be linked closely to trade deals with individual countries. This new political reality for AI chip companies was highlighted as last week's deals were timed to coincide with President Trump's swing through the Middle East. Huang, the CEO who is now a global superstar, even ditched his trademark leather jacket and wore a suit for the occasion."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Huang has previously described the concept of countries' investing directly in artificial intelligence as \"sovereign AI\" \u2014 and it is an important element underpinning Nvidia's growth ambitions. Bank of America analyst Vivek Arya estimates that the sovereign AI market could reach $50 billion annually in the long term, or 10% to 15% of the \"global AI infrastructure opportunity.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia has more than doubled its annual revenue in each of the past two fiscal years, and it is expected by Wall Street to keep growing at a strong double-digit-percentage pace for the next three years. That would take the company's annual sales well past the $300 billion mark, a level no chip company has ever come close to achieving."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Hopes are high for Nvidia's AI competitors as well. Advanced Micro Devices, also known as AMD, is seen increasing annual revenue by double-digit percentages consecutively for the next five years, according to consensus estimates from Visible Alpha."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That would be a feat the 56-year-old chip maker hasn't managed since at least 1990, which is as far back as data measured by S&P Global Market Intelligence goes. AMD scored its own deal in the desert last week, landing a $10 billion agreement with Saudi Arabia to supply AI data-center components for the country's Humain venture."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sovereign AI projects can help chip companies including Nvidia and AMD reduce their reliance on the deep pockets of such companies as Microsoft, Amazon.com, Alphabet's Google and Meta Platforms. Capital spending by those companies has been on a tear as they race to build up AI capabilities, but historically such spending has been lumpy and volatile. It might depend, for instance, on the availability of real estate or electricity, as well as the near-term business trends of those companies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"Sovereign AI nicely complements commercial cloud investments,\" wrote BofA's Arya in a recent report. Stacy Rasgon of Bernstein was relatively blunt. \"For investors worried about AI capex sustainability, we now have another deep-pocketed customer willing and capable to spend large amounts of money on a clearly strategic push as Saudi Arabia attempts to position itself as a regional and global AI hub,\" he wrote."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investors like the idea. Nvidia and Broadcom have seen their stock prices jump by more than a third over the past month, while AMD's shares are up around 30%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sovereign AI projects will bring their own kind of turbulence. For one thing, project values announced at political events might prove to be exaggerated and won't always materialize as revenue. What is more, any foreign entity buying up advanced chips must make sure it doesn't run afoul of the U.S.'s efforts to keep AI components out of the hands of China and other adversaries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Trump administration scrapped the so-called AI diffusion rule, which would have placed limits on AI chips sales even to friendly countries. That was a notable victory for Nvidia and its peers, and it triggered a rally in their shares. But the administration is reportedly considering new steps that could link AI chip sales to trade deals with individual countries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "More broadly, the rise of sovereign AI exposes chip companies to levels of geopolitical intrigue normally associated with defense contractors. That could produce lots of unpredictability for Nvidia and its peers."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For instance, Nvidia's fiscal first-quarter report next week will include a $5.5 billion charge for chips it had designed for the Chinese market that were later banned for sale there by the U.S. government. Analysts are worried about how that will affect the company's outlook for the remainder of the fiscal year, even with overall demand for AI chips still running strong."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Regardless, Nvidia's market cap is back above $3 trillion, and now ahead of Apple's. Investors are betting big that this arms dealer can stay above the fray."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Dan Gallagher at dan.gallagher@wsj.com"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Dan GallagherNvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one.Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the massive computing horsepower required for AI services. They are all recipients of the hundreds of billions of dollars that megacap tech companies based in the U.S. are investing to build those services.Other countries want in on the action \u2014 in a big way. Saudi Arabia recently struck a deal to buy large amounts of Nvidia's AI chips for local infrastructure projects, and Nvidia has described India as a major customer. In addition, Nvidia was named Thursday as a key partner in an OpenAI-led data-center project in the United Arab Emirates.\"AI is going to be part of a national infrastructure the way telco is part of a national infrastructure,\" Nvidia Chief Executive Jensen Huang told a meeting of analysts in January. \"Every country has their own telcos.\"The flip side is that AI chips are now a highly politicized business, figuring prominently in the U.S.-China trade war, and likely many future conflicts to come. For Nvidia and its competitors, that can be a blessing and a curse.The Trump administration has sharply restricted the ability of U.S. chip makers to sell their wares in China and some other countries. Future sales outside the U.S. could be linked closely to trade deals with individual countries. This new political reality for AI chip companies was highlighted as last week's deals were timed to coincide with President Trump's swing through the Middle East. Huang, the CEO who is now a global superstar, even ditched his trademark leather jacket and wore a suit for the occasion.Huang has previously described the concept of countries' investing directly in artificial intelligence as \"sovereign AI\" \u2014 and it is an important element underpinning Nvidia's growth ambitions. Bank of America analyst Vivek Arya estimates that the sovereign AI market could reach $50 billion annually in the long term, or 10% to 15% of the \"global AI infrastructure opportunity.\"Nvidia has more than doubled its annual revenue in each of the past two fiscal years, and it is expected by Wall Street to keep growing at a strong double-digit-percentage pace for the next three years. That would take the company's annual sales well past the $300 billion mark, a level no chip company has ever come close to achieving.Hopes are high for Nvidia's AI competitors as well. Advanced Micro Devices, also known as AMD, is seen increasing annual revenue by double-digit percentages consecutively for the next five years, according to consensus estimates from Visible Alpha.That would be a feat the 56-year-old chip maker hasn't managed since at least 1990, which is as far back as data measured by S&P Global Market Intelligence goes. AMD scored its own deal in the desert last week, landing a $10 billion agreement with Saudi Arabia to supply AI data-center components for the country's Humain venture.Sovereign AI projects can help chip companies including Nvidia and AMD reduce their reliance on the deep pockets of such companies as Microsoft, Amazon.com, Alphabet's Google and Meta Platforms. Capital spending by those companies has been on a tear as they race to build up AI capabilities, but historically such spending has been lumpy and volatile. It might depend, for instance, on the availability of real estate or electricity, as well as the near-term business trends of those companies.\"Sovereign AI nicely complements commercial cloud investments,\" wrote BofA's Arya in a recent report. Stacy Rasgon of Bernstein was relatively blunt. \"For investors worried about AI capex sustainability, we now have another deep-pocketed customer willing and capable to spend large amounts of money on a clearly strategic push as Saudi Arabia attempts to position itself as a regional and global AI hub,\" he wrote.Investors like the idea. Nvidia and Broadcom have seen their stock prices jump by more than a third over the past month, while AMD's shares are up around 30%.Sovereign AI projects will bring their own kind of turbulence. For one thing, project values announced at political events might prove to be exaggerated and won't always materialize as revenue. What is more, any foreign entity buying up advanced chips must make sure it doesn't run afoul of the U.S.'s efforts to keep AI components out of the hands of China and other adversaries.The Trump administration scrapped the so-called AI diffusion rule, which would have placed limits on AI chips sales even to friendly countries. That was a notable victory for Nvidia and its peers, and it triggered a rally in their shares. But the administration is reportedly considering new steps that could link AI chip sales to trade deals with individual countries.More broadly, the rise of sovereign AI exposes chip companies to levels of geopolitical intrigue normally associated with defense contractors. That could produce lots of unpredictability for Nvidia and its peers.For instance, Nvidia's fiscal first-quarter report next week will include a $5.5 billion charge for chips it had designed for the Chinese market that were later banned for sale there by the U.S. government. Analysts are worried about how that will affect the company's outlook for the remainder of the fiscal year, even with overall demand for AI chips still running strong.Regardless, Nvidia's market cap is back above $3 trillion, and now ahead of Apple's. Investors are betting big that this arms dealer can stay above the fray.Write to Dan Gallagher at dan.gallagher@wsj.com",
+    "shortDescription": "By Dan GallagherNvidia is often thought of as the pre-eminent arms dealer for the artificial-intelligence age. Much is riding on the chip maker's not actually being treated like one.Nvidia and rivals including Broadcom, Marvell and Advanced Micro Devices design the key components that supply the ma\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:6c3e57356094b:0",
+    "title": "3 Stocks to Buy From the Prospering Semiconductor Industry",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1747932240000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:LRCX",
+        "logoid": "lam-research",
+        "logourl": "https://s3-symbol-logo.tradingview.com/lam-research.svg"
+      },
+      {
+        "symbol": "NASDAQ:PI",
+        "logoid": "impinj",
+        "logourl": "https://s3-symbol-logo.tradingview.com/impinj.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:6c3e57356094b:0-3-stocks-to-buy-from-the-prospering-semiconductor-industry/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry is benefiting from the growing proliferation of Artificial Intelligence (AI), Generative AI (Gen AI), Internet of Things (IoT), Machine Learning (ML) and industrial revolution 4.0 (which focuses on interconnectivity and automation). These have turned out to be boons for industry players like ",
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            " AVGO, ",
+            {
+              "type": "b",
+              "children": [
+                "Lam Research "
+              ]
+            },
+            "LRCX and ",
+            {
+              "type": "b",
+              "children": [
+                "Impinj"
+              ]
+            },
+            " PI. Increasing demand for AI-supportive chips from hyperscalers is a major growth driver. The growing demand for high-volume consumer electronic devices, including digital media players, smartphones, tablets, efficient packaging, machine vision solutions and robotics, should continue to drive the industry\u2019s growth. Nevertheless, industry players suffer from macroeconomic challenges, end-market volatility, broad-based inventory correction and growing geopolitical tensions. Tariffs on trade partners, including China, are expected to hurt the industry\u2019s prospects."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry Description"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics \u2013 Semiconductors industry comprises companies that provide a wide range of semiconductor technologies. Their offerings include packaging and test services, wafer cleaning, factory automation, face detection and image-recognition capabilities to develop smart and connected products. The industry participants primarily cater to end markets that include consumer electronics, communications, computing, industrial and automotive. The companies are increasing their spending on research and development to stay afloat in an era of technological advancements and changing industry standards. The industry is experiencing solid demand for advanced electronic equipment, which is helping its participants increase their investments in cost-effective process technologies."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "What's Shaping the Future of the Electronics - Semiconductors Industry?"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "i",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "AI Demand Driving Prospects"
+                  ]
+                }
+              ]
+            },
+            ": Industry participants are benefiting from growing demand for advanced manufacturing processes and energy-efficient computing power, both of which are needed to develop AI-supportive chips. AI is gaining popularity thanks to multimodal learning and growing context awareness. The emergence of Gen AI and Agentic AI has further enhanced AI\u2019s capabilities, making it a key driver of efficiency, automation and innovation. Significant improvements in computing hardware (GPUs and TPUs) are allowing the development of more complex AI models. The growing number of high-speed data centers worldwide, which require ultra-fast Internet that 5G promises to deliver, is a tailwind. Increased connectivity and use of technology in consumer electronics through IoT, AI, robotics, AR/VR and others further set the momentum for 5G."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "i",
+                  "children": [
+                    "Smart Devices Aiding Computing Demand"
+                  ]
+                }
+              ]
+            },
+            ": Smart devices need computing and learning capabilities to perform functions like face detection, image recognition and video analytics capabilities. These require high levels of processing power, speed and memory and low power consumption, as well as better graphic processors and solutions, which bode well for the industry. Graphic solutions help increase the speed of rendering images and improve image resolution and color definition."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "i",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Prospects Around Advanced Packaging Robust"
+                  ]
+                }
+              ]
+            },
+            ": The increasing demand for miniaturization, greater functionality, lower power consumption, and improved thermal and electrical performance are driving the demand for semiconductor packaging and test technologies. The growing requirement for advanced packaging is gaining traction in the semiconductor industry, which is a key catalyst for industry participants."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "i",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Complex Process Drives Demand"
+                  ]
+                }
+              ]
+            },
+            ": The requirement for faster, more powerful and energy-efficient semiconductors is expected to increase rapidly with the robust adoption of cloud computing, IoT and AI. Semiconductor manufacturers are primarily looking to maximize manufacturing yields at lower costs, making semiconductor manufacturing processes more complex and driving the demand for solutions offered by industry participants. The rapid adoption of IoT-supported factory automation solutions is another contributing factor."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Zacks Industry Rank Indicates Bullish Prospects"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry is housed within the broader Zacks Computer and Technology sector. It currently carries a Zacks Industry Rank #85, which places it in the top 35% of more than 250 Zacks industries."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The group\u2019s Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bullish near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than two to one."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The industry\u2019s positioning in the top 50% of the Zacks-ranked industries is a result of the positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group\u2019s earnings growth potential. Since Aug. 31, 2024, the industry\u2019s earnings estimates for the current year have moved up 3.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Given the bullish prospects, there are a number of stocks that you can consider for your portfolio. However, before we present the stocks, let us look at the industry\u2019s recent stock-market performance and valuation picture."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry Outperforms S&P 500 & Sector"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Zacks Electronics - Semiconductors industry has outperformed the Zacks S&P 500 composite and surpassed the broader Zacks Computer and Technology sector in the past year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The industry has appreciated 17.7% over this period compared with the Zacks Computer and Technology sector\u2019s return of 9.2% and the S&P 500\u2019s growth of 10.9%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "One-Year Price Performance\u00a0"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Industry's Current Valuation"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "On the basis of the forward 12-month price-to-earnings ratio, which is a commonly used multiple for valuing electronics semiconductor stocks, the industry is currently trading at 28.75X versus the S&P 500 and the sector\u2019s 21.49X and 26.45X, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Over the past five years, the industry has traded as high as 33.35X and as low as 22.81X, with the median being 29.67X, as the charts below show."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Forward 12-Month Price-to-Earnings (P/E) Ratio"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "3 Electronics Semiconductor Stocks to Buy"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Impinj"
+              ]
+            },
+            ": This Zacks Rank #1 (Strong Buy) company is benefiting from its strong position in the endpoint IC market, a pipeline of innovative product offerings and a targeted expansion into enterprise applications such as supply chain and logistics.  You can see the complete list of today\u2019s Zacks #1 Rank stocks here. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The M800 series, built on Impinj\u2019s next-generation Gen2X technology, is gaining strong traction. The solution delivers enhanced performance and greater efficiency. The M800 series significantly expands Impinge\u2019s addressable market, particularly in enterprise applications. Gen2X technology is proving to be a transformative advancement for Impinj, increasing overhead reading solution area coverage by 44%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "PI shares have dropped 19.5% in the year-to-date (YTD) period. The Zacks Consensus Estimate for Impinj\u2019s 2025 earnings has increased 7.5% to $1.68 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Price & Consensus: PI"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "news-image",
+              "params": {
+                "image": {
+                  "id": "zacks:6c3e57356094b-87617c04565f036c63545fc97e861543",
+                  "source-width": 620,
+                  "source-height": 342,
+                  "bg-color": "#e6e6e8"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            ": Strong demand for custom AI accelerators, AI networking solutions, Ethernet switching, optical lasers, thin dies, PCI Express switches and Network Interface Cards from hyperscale customers is driving Broadcom\u2019s top-line growth."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "AVGO\u2019s solutions are suitable for addressing the needs of an increasing AI workload and the growing need for fast networking in data centers. The acquisition of VMware has benefited Infrastructure software solutions. This Zacks Rank #2 (Buy) company\u2019s expanding clientele, which includes the likes of Alphabet and Meta Platforms, is noteworthy."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Broadcom stock has declined 1.3% YTD. The Zacks Consensus Estimate for AVGO\u2019s fiscal 2025 earnings has been steady at $6.62 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Price & Consensus: AVGO"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "news-image",
+              "params": {
+                "image": {
+                  "id": "zacks:6c3e57356094b-3c4c01387a83b4cf7b2cb4a0b9c9d949",
+                  "source-width": 620,
+                  "source-height": 349,
+                  "bg-color": "#e4e3e7"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Lam Research"
+              ]
+            },
+            ": Another Zacks Rank #2 stock, Lam Research is riding on its strength across 3D DRAM and advanced packaging technologies. Growing etch and deposition intensity owing to increasing technology inflections in 3D architectures is a plus. A rebound in the System business, owing to improving memory spending, is a positive. Solid demand related to high-bandwidth memory is a plus for Lam Research."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "LRCX stock has appreciated 14.7% YTD. The Zacks Consensus Estimate for LRCX\u2019s fiscal 2026 earnings has increased 4.2% to $3.96 per share over the past 30 days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Price & Consensus: LRCX",
+                {
+                  "type": "news-image",
+                  "params": {
+                    "image": {
+                      "id": "zacks:6c3e57356094b-d68e74a53f129ec7f4da463233155d02",
+                      "source-width": 620,
+                      "source-height": 345,
+                      "bg-color": "#e5e5e8"
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "The Zacks Electronics - Semiconductors industry is benefiting from the growing proliferation of Artificial Intelligence (AI), Generative AI (Gen AI), Internet of Things (IoT), Machine Learning (ML) and industrial revolution 4.0 (which focuses on interconnectivity and automation). These have turned out to be boons for industry players like Broadcom AVGO, Lam Research LRCX and Impinj PI. Increasing demand for AI-supportive chips from hyperscalers is a major growth driver. The growing demand for high-volume consumer electronic devices, including digital media players, smartphones, tablets, efficient packaging, machine vision solutions and robotics, should continue to drive the industry\u2019s growth. Nevertheless, industry players suffer from macroeconomic challenges, end-market volatility, broad-based inventory correction and growing geopolitical tensions. Tariffs on trade partners, including China, are expected to hurt the industry\u2019s prospects.Industry DescriptionThe Zacks Electronics \u2013 Semiconductors industry comprises companies that provide a wide range of semiconductor technologies. Their offerings include packaging and test services, wafer cleaning, factory automation, face detection and image-recognition capabilities to develop smart and connected products. The industry participants primarily cater to end markets that include consumer electronics, communications, computing, industrial and automotive. The companies are increasing their spending on research and development to stay afloat in an era of technological advancements and changing industry standards. The industry is experiencing solid demand for advanced electronic equipment, which is helping its participants increase their investments in cost-effective process technologies.What's Shaping the Future of the Electronics - Semiconductors Industry?AI Demand Driving Prospects : Industry participants are benefiting from growing demand for advanced manufacturing processes and energy-efficient computing power, both of which are needed to develop AI-supportive chips. AI is gaining popularity thanks to multimodal learning and growing context awareness. The emergence of Gen AI and Agentic AI has further enhanced AI\u2019s capabilities, making it a key driver of efficiency, automation and innovation. Significant improvements in computing hardware (GPUs and TPUs) are allowing the development of more complex AI models. The growing number of high-speed data centers worldwide, which require ultra-fast Internet that 5G promises to deliver, is a tailwind. Increased connectivity and use of technology in consumer electronics through IoT, AI, robotics, AR/VR and others further set the momentum for 5G.Smart Devices Aiding Computing Demand : Smart devices need computing and learning capabilities to perform functions like face detection, image recognition and video analytics capabilities. These require high levels of processing power, speed and memory and low power consumption, as well as better graphic processors and solutions, which bode well for the industry. Graphic solutions help increase the speed of rendering images and improve image resolution and color definition.Prospects Around Advanced Packaging Robust : The increasing demand for miniaturization, greater functionality, lower power consumption, and improved thermal and electrical performance are driving the demand for semiconductor packaging and test technologies. The growing requirement for advanced packaging is gaining traction in the semiconductor industry, which is a key catalyst for industry participants.Complex Process Drives Demand : The requirement for faster, more powerful and energy-efficient semiconductors is expected to increase rapidly with the robust adoption of cloud computing, IoT and AI. Semiconductor manufacturers are primarily looking to maximize manufacturing yields at lower costs, making semiconductor manufacturing processes more complex and driving the demand for solutions offered by industry participants. The rapid adoption of IoT-supported factory automation solutions is another contributing factor.Zacks Industry Rank Indicates Bullish ProspectsThe Zacks Electronics - Semiconductors industry is housed within the broader Zacks Computer and Technology sector. It currently carries a Zacks Industry Rank #85, which places it in the top 35% of more than 250 Zacks industries.The group\u2019s Zacks Industry Rank, which is the average of the Zacks Rank of all the member stocks, indicates bullish near-term prospects. Our research shows that the top 50% of the Zacks-ranked industries outperform the bottom 50% by a factor of more than two to one.The industry\u2019s positioning in the top 50% of the Zacks-ranked industries is a result of the positive earnings outlook for the constituent companies in aggregate. Looking at the aggregate earnings estimate revisions, it appears that analysts are optimistic about this group\u2019s earnings growth potential. Since Aug. 31, 2024, the industry\u2019s earnings estimates for the current year have moved up 3.5%.Given the bullish prospects, there are a number of stocks that you can consider for your portfolio. However, before we present the stocks, let us look at the industry\u2019s recent stock-market performance and valuation picture.Industry Outperforms S&P 500 & SectorThe Zacks Electronics - Semiconductors industry has outperformed the Zacks S&P 500 composite and surpassed the broader Zacks Computer and Technology sector in the past year.The industry has appreciated 17.7% over this period compared with the Zacks Computer and Technology sector\u2019s return of 9.2% and the S&P 500\u2019s growth of 10.9%.One-Year Price Performance\u00a0Industry's Current ValuationOn the basis of the forward 12-month price-to-earnings ratio, which is a commonly used multiple for valuing electronics semiconductor stocks, the industry is currently trading at 28.75X versus the S&P 500 and the sector\u2019s 21.49X and 26.45X, respectively.Over the past five years, the industry has traded as high as 33.35X and as low as 22.81X, with the median being 29.67X, as the charts below show.Forward 12-Month Price-to-Earnings (P/E) Ratio3 Electronics Semiconductor Stocks to BuyImpinj : This Zacks Rank #1 (Strong Buy) company is benefiting from its strong position in the endpoint IC market, a pipeline of innovative product offerings and a targeted expansion into enterprise applications such as supply chain and logistics. You can see the complete list of today\u2019s Zacks #1 Rank stocks here. The M800 series, built on Impinj\u2019s next-generation Gen2X technology, is gaining strong traction. The solution delivers enhanced performance and greater efficiency. The M800 series significantly expands Impinge\u2019s addressable market, particularly in enterprise applications. Gen2X technology is proving to be a transformative advancement for Impinj, increasing overhead reading solution area coverage by 44%.PI shares have dropped 19.5% in the year-to-date (YTD) period. The Zacks Consensus Estimate for Impinj\u2019s 2025 earnings has increased 7.5% to $1.68 per share over the past 30 days.Price & Consensus: PIBroadcom : Strong demand for custom AI accelerators, AI networking solutions, Ethernet switching, optical lasers, thin dies, PCI Express switches and Network Interface Cards from hyperscale customers is driving Broadcom\u2019s top-line growth.AVGO\u2019s solutions are suitable for addressing the needs of an increasing AI workload and the growing need for fast networking in data centers. The acquisition of VMware has benefited Infrastructure software solutions. This Zacks Rank #2 (Buy) company\u2019s expanding clientele, which includes the likes of Alphabet and Meta Platforms, is noteworthy.Broadcom stock has declined 1.3% YTD. The Zacks Consensus Estimate for AVGO\u2019s fiscal 2025 earnings has been steady at $6.62 per share over the past 30 days.Price & Consensus: AVGOLam Research : Another Zacks Rank #2 stock, Lam Research is riding on its strength across 3D DRAM and advanced packaging technologies. Growing etch and deposition intensity owing to increasing technology inflections in 3D architectures is a plus. A rebound in the System business, owing to improving memory spending, is a positive. Solid demand related to high-bandwidth memory is a plus for Lam Research.LRCX stock has appreciated 14.7% YTD. The Zacks Consensus Estimate for LRCX\u2019s fiscal 2026 earnings has increased 4.2% to $3.96 per share over the past 30 days.Price & Consensus: LRCX This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "The Zacks Electronics - Semiconductors industry is benefiting from the growing proliferation of Artificial Intelligence (AI), Generative AI (Gen AI), Internet of Things (IoT), Machine Learning (ML) and industrial revolution 4.0 (which focuses on interconnectivity and automation). These have turned\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "zacks:bf954c610094b:0",
+    "title": "Snowflake Q1 Earnings Beat Estimates, Revenues Up Y/Y, Shares Rise",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1747928640000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NYSE:SNOW",
+        "logoid": "snowflake",
+        "logourl": "https://s3-symbol-logo.tradingview.com/snowflake.svg"
+      },
+      {
+        "symbol": "NYSE:PD",
+        "logoid": "pagerduty",
+        "logourl": "https://s3-symbol-logo.tradingview.com/pagerduty.svg"
+      },
+      {
+        "symbol": "NASDAQ:AVGO",
+        "logoid": "broadcom",
+        "logourl": "https://s3-symbol-logo.tradingview.com/broadcom.svg"
+      },
+      {
+        "symbol": "NASDAQ:GTLB",
+        "logoid": "gitlab",
+        "logourl": "https://s3-symbol-logo.tradingview.com/gitlab.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:bf954c610094b:0-snowflake-q1-earnings-beat-estimates-revenues-up-y-y-shares-rise/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Snowflake"
+              ]
+            },
+            " SNOW reported first-quarter fiscal 2026 non-GAAP earnings of 24 cents per share, beating the Zacks Consensus Estimate by 9.09%. The company reported earnings of 14 cents per share in the year-ago quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Revenues of $1.04 billion beat the consensus mark by 3.74% and rallied 25.7% year over year. Americas, EMEA (Europe, the Middle East and Africa) and APJ (Asia Pacific and Japan) contributed 78%, 16% and 6% to revenues, respectively."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Snowflake shares gained 10.88% in pre-market trading. Its shares have returned 16% against the Zacks Computer & Technology sector\u2019s decline of 2%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Top-Line Details"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Snowflake\u2019s product revenues contributed 95.7% to total revenues. The figure was $996.8 million, up 26.2% year over year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Snowflake Inc. Price, Consensus and EPS Surprise"
+              ]
+            }
+          ]
+        },
+        "  ",
+        {
+          "type": "p",
+          "children": [
+            "Snowflake Inc. price-consensus-eps-surprise-chart | Snowflake Inc. Quote"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Professional Services and other revenues contributed 4.3% to total revenues. The figure was $45.3 million, up 15.7% year over year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In the fiscal first quarter, Snowflake witnessed a net revenue retention rate of 124% for existing customers, down from 126% reported in the previous quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company reported 18.8% year-over-year growth in the number of customers, reaching 11,578 in the reported quarter.\u00a0"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The company now has 606 customers with trailing 12-month product revenues greater than $1 million (up 27% year over year) and 754 Forbes Global 2000 customers (up 4% year over year). In the reported quarter, SNOW added 451 net new customers, representing a 19% increase year over year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In the first quarter of fiscal 2026, the company expanded AI offerings significantly, with more than 5,200 accounts using AI/ML weekly."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Operating Details"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The non-GAAP gross margin contracted 90 basis points (bps) year over year to 72.4%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The product gross margin continued to expand, driven by product improvements, favourable cloud agreement pricing, improving scale and a growing enterprise customer base."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Research & development expenses, as a percentage of revenues, decreased 160 bps on a year-over-year basis to 22.9%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "General & administrative expenses, as a percentage of revenues, were 6.1%, down 80 bps year over year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Sales and marketing expenses, as a percentage of revenues, declined 340 bps on a year-over-year basis to 34.3%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Total operating expenses, as a percentage of revenues, were 63.4% compared with 69.1% reported in the year-ago quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Operating income was $91.7 million in the reported quarter, compared with $36.2 million reported in the year-ago quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Balance Sheet & Cash Flow"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "As of April 30, 2025, Snowflake had cash, cash equivalents and short-term investments of $3.91 billion compared with $4.63 billion as of Jan. 31, 2025."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The remaining performance obligations at the end of the first quarter of fiscal 2026 were $6.7 billion, up 34% year over year. Snowflake expects nearly 50% to be recognized as revenue over the next 12 months."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The adjusted free cash flow was $2.06 billion in the reported quarter compared with the previous quarter\u2019s $4.23 billion."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Guidance"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For the second quarter of fiscal 2026, Snowflake expects product revenues in the range of $1.03-$1.04 billion. The projection range indicates year-over-year growth of 25%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The operating margin is expected to be 8% for the fiscal second quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "(Find the latest EPS estimates and surprises on Zacks Earnings Calendar.)"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Zacks Rank & Stocks to Consider"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Currently, Snowflake has a Zacks Rank #3 (Hold)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Broadcom"
+              ]
+            },
+            " AVGO,",
+            {
+              "type": "b",
+              "children": [
+                " PagerDuty"
+              ]
+            },
+            " PD and ",
+            {
+              "type": "b",
+              "children": [
+                "GitLab"
+              ]
+            },
+            " GTLB are some better-ranked stocks that investors can consider in the broader sector. Each stock presently carries a Zacks Rank #2 (Buy). You can see ",
+            {
+              "type": "b",
+              "children": [
+                "the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Broadcom shares have returned 25.8% year to date. AVGO is scheduled to release second-quarter fiscal 2025 results on June 5."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "PagerDuty shares have lost 6.7% year to date. PD is set to report its first-quarter fiscal 2026 results on May 29."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Gitlab\u2019s shares have lost 7.4% year to date. GTLB is set to release its first-quarter fiscal 2026 results on June 10."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Snowflake SNOW reported first-quarter fiscal 2026 non-GAAP earnings of 24 cents per share, beating the Zacks Consensus Estimate by 9.09%. The company reported earnings of 14 cents per share in the year-ago quarter.Revenues of $1.04 billion beat the consensus mark by 3.74% and rallied 25.7% year over year. Americas, EMEA (Europe, the Middle East and Africa) and APJ (Asia Pacific and Japan) contributed 78%, 16% and 6% to revenues, respectively.Snowflake shares gained 10.88% in pre-market trading. Its shares have returned 16% against the Zacks Computer & Technology sector\u2019s decline of 2%.Top-Line DetailsSnowflake\u2019s product revenues contributed 95.7% to total revenues. The figure was $996.8 million, up 26.2% year over year.Snowflake Inc. Price, Consensus and EPS Surprise Snowflake Inc. price-consensus-eps-surprise-chart | Snowflake Inc. QuoteProfessional Services and other revenues contributed 4.3% to total revenues. The figure was $45.3 million, up 15.7% year over year.In the fiscal first quarter, Snowflake witnessed a net revenue retention rate of 124% for existing customers, down from 126% reported in the previous quarter.The company reported 18.8% year-over-year growth in the number of customers, reaching 11,578 in the reported quarter.\u00a0The company now has 606 customers with trailing 12-month product revenues greater than $1 million (up 27% year over year) and 754 Forbes Global 2000 customers (up 4% year over year). In the reported quarter, SNOW added 451 net new customers, representing a 19% increase year over year.In the first quarter of fiscal 2026, the company expanded AI offerings significantly, with more than 5,200 accounts using AI/ML weekly.Operating DetailsThe non-GAAP gross margin contracted 90 basis points (bps) year over year to 72.4%.The product gross margin continued to expand, driven by product improvements, favourable cloud agreement pricing, improving scale and a growing enterprise customer base.Research & development expenses, as a percentage of revenues, decreased 160 bps on a year-over-year basis to 22.9%.General & administrative expenses, as a percentage of revenues, were 6.1%, down 80 bps year over year.Sales and marketing expenses, as a percentage of revenues, declined 340 bps on a year-over-year basis to 34.3%.Total operating expenses, as a percentage of revenues, were 63.4% compared with 69.1% reported in the year-ago quarter.Operating income was $91.7 million in the reported quarter, compared with $36.2 million reported in the year-ago quarter.Balance Sheet & Cash FlowAs of April 30, 2025, Snowflake had cash, cash equivalents and short-term investments of $3.91 billion compared with $4.63 billion as of Jan. 31, 2025.The remaining performance obligations at the end of the first quarter of fiscal 2026 were $6.7 billion, up 34% year over year. Snowflake expects nearly 50% to be recognized as revenue over the next 12 months.The adjusted free cash flow was $2.06 billion in the reported quarter compared with the previous quarter\u2019s $4.23 billion.GuidanceFor the second quarter of fiscal 2026, Snowflake expects product revenues in the range of $1.03-$1.04 billion. The projection range indicates year-over-year growth of 25%.The operating margin is expected to be 8% for the fiscal second quarter.(Find the latest EPS estimates and surprises on Zacks Earnings Calendar.)Zacks Rank & Stocks to ConsiderCurrently, Snowflake has a Zacks Rank #3 (Hold).Broadcom AVGO, PagerDuty PD and GitLab GTLB are some better-ranked stocks that investors can consider in the broader sector. Each stock presently carries a Zacks Rank #2 (Buy). You can see the complete list of today\u2019s Zacks #1 Rank (Strong Buy) stocks here .Broadcom shares have returned 25.8% year to date. AVGO is scheduled to release second-quarter fiscal 2025 results on June 5.PagerDuty shares have lost 6.7% year to date. PD is set to report its first-quarter fiscal 2026 results on May 29.Gitlab\u2019s shares have lost 7.4% year to date. GTLB is set to release its first-quarter fiscal 2026 results on June 10.This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "Snowflake SNOW reported first-quarter fiscal 2026 non-GAAP earnings of 24 cents per share, beating the Zacks Consensus Estimate by 9.09%. The company reported earnings of 14 cents per share in the year-ago quarter.Revenues of $1.04 billion beat the consensus mark by 3.74% and rallied 25.7% year ove\u2026",
+    "summaryText": null
+  }
+]
