@@ -1,6 +1,0 @@
-[
-    {
-        "summary": "Stock market data. The stock name is: [COMPANY_NAME], code: [TICKER], date: [DATE].",
-        "content": "Stock market data. The stock name is: [COMPANY_NAME], code: [TICKER], date: [DATE]. The data on that day is as follows: [price, turnover, etc...]"
-    }
-]

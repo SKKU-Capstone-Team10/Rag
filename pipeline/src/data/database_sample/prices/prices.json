@@ -1,0 +1,1282 @@
+[
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-09. The data on that day is as follows: Open: 171.9499969482422, High: 200.61000061035156, Low: 171.88999938964844, Close: 198.85000610351562, Adj Close: 198.58958435058594, Volume: 184395900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-10. The data on that day is as follows: Open: 189.07000732421875, High: 194.77999877929688, Low: 183.0, Close: 190.4199981689453, Adj Close: 190.17062377929688, Volume: 121880000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-11. The data on that day is as follows: Open: 186.10000610351562, High: 199.5399932861328, Low: 186.05999755859375, Close: 198.14999389648438, Adj Close: 197.89048767089844, Volume: 87435900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-14. The data on that day is as follows: Open: 211.44000244140625, High: 212.94000244140625, Low: 201.16000366210938, Close: 202.52000427246094, Adj Close: 202.25477600097656, Volume: 101352900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-15. The data on that day is as follows: Open: 201.86000061035156, High: 203.50999450683594, Low: 199.8000030517578, Close: 202.13999938964844, Adj Close: 201.87527465820312, Volume: 51343900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-16. The data on that day is as follows: Open: 198.36000061035156, High: 200.6999969482422, Low: 192.3699951171875, Close: 194.27000427246094, Adj Close: 194.0155792236328, Volume: 59732400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-17. The data on that day is as follows: Open: 197.1999969482422, High: 198.8300018310547, Low: 194.4199981689453, Close: 196.97999572753906, Adj Close: 196.72203063964844, Volume: 51334300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-21. The data on that day is as follows: Open: 193.27000427246094, High: 193.8000030517578, Low: 189.80999755859375, Close: 193.16000366210938, Adj Close: 192.9070281982422, Volume: 46742500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-22. The data on that day is as follows: Open: 196.1199951171875, High: 201.58999633789062, Low: 195.97000122070312, Close: 199.74000549316406, Adj Close: 199.47842407226562, Volume: 52976400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-23. The data on that day is as follows: Open: 206.0, High: 208.0, Low: 202.8000030517578, Close: 204.60000610351562, Adj Close: 204.33206176757812, Volume: 52929200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-24. The data on that day is as follows: Open: 204.88999938964844, High: 208.8300018310547, Low: 202.94000244140625, Close: 208.3699951171875, Adj Close: 208.09710693359375, Volume: 47311000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-25. The data on that day is as follows: Open: 206.3699951171875, High: 209.75, Low: 206.1999969482422, Close: 209.27999877929688, Adj Close: 209.00592041015625, Volume: 38222300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-28. The data on that day is as follows: Open: 210.0, High: 211.5, Low: 207.4600067138672, Close: 210.13999938964844, Adj Close: 209.8647918701172, Volume: 38743100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-29. The data on that day is as follows: Open: 208.69000244140625, High: 212.24000549316406, Low: 208.3699951171875, Close: 211.2100067138672, Adj Close: 210.9333953857422, Volume: 36827600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-04-30. The data on that day is as follows: Open: 209.3000030517578, High: 213.5800018310547, Low: 206.6699981689453, Close: 212.5, Adj Close: 212.22171020507812, Volume: 52286500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-01. The data on that day is as follows: Open: 209.0800018310547, High: 214.55999755859375, Low: 208.89999389648438, Close: 213.32000732421875, Adj Close: 213.04063415527344, Volume: 57365700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-02. The data on that day is as follows: Open: 206.08999633789062, High: 206.99000549316406, Low: 202.16000366210938, Close: 205.35000610351562, Adj Close: 205.08106994628906, Volume: 101010600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-05. The data on that day is as follows: Open: 203.10000610351562, High: 204.10000610351562, Low: 198.2100067138672, Close: 198.88999938964844, Adj Close: 198.62953186035156, Volume: 69018500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-06. The data on that day is as follows: Open: 198.2100067138672, High: 200.64999389648438, Low: 197.02000427246094, Close: 198.50999450683594, Adj Close: 198.25001525878906, Volume: 51216500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-07. The data on that day is as follows: Open: 199.1699981689453, High: 199.44000244140625, Low: 193.25, Close: 196.25, Adj Close: 195.99298095703125, Volume: 68536700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-08. The data on that day is as follows: Open: 197.72000122070312, High: 200.0500030517578, Low: 194.67999267578125, Close: 197.49000549316406, Adj Close: 197.2313690185547, Volume: 50478900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-09. The data on that day is as follows: Open: 199.0, High: 200.5399932861328, Low: 197.5399932861328, Close: 198.52999877929688, Adj Close: 198.27000427246094, Volume: 36453900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-12. The data on that day is as follows: Open: 210.97000122070312, High: 211.27000427246094, Low: 206.75, Close: 210.7899932861328, Adj Close: 210.7899932861328, Volume: 63775800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-13. The data on that day is as follows: Open: 210.42999267578125, High: 213.39999389648438, Low: 209.0, Close: 212.92999267578125, Adj Close: 212.92999267578125, Volume: 51909300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-14. The data on that day is as follows: Open: 212.42999267578125, High: 213.94000244140625, Low: 210.5800018310547, Close: 212.3300018310547, Adj Close: 212.3300018310547, Volume: 49325800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-15. The data on that day is as follows: Open: 210.9499969482422, High: 212.9600067138672, Low: 209.5399932861328, Close: 211.4499969482422, Adj Close: 211.4499969482422, Volume: 45029500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-16. The data on that day is as follows: Open: 212.36000061035156, High: 212.57000732421875, Low: 209.77000427246094, Close: 211.25999450683594, Adj Close: 211.25999450683594, Volume: 54737900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-19. The data on that day is as follows: Open: 207.91000366210938, High: 209.47999572753906, Low: 204.25999450683594, Close: 208.77999877929688, Adj Close: 208.77999877929688, Volume: 46140500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-20. The data on that day is as follows: Open: 207.6699981689453, High: 208.47000122070312, Low: 205.02999877929688, Close: 206.86000061035156, Adj Close: 206.86000061035156, Volume: 42496600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-21. The data on that day is as follows: Open: 205.1699981689453, High: 207.0399932861328, Low: 200.7100067138672, Close: 202.08999633789062, Adj Close: 202.08999633789062, Volume: 59211800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-22. The data on that day is as follows: Open: 200.7100067138672, High: 202.75, Low: 199.6999969482422, Close: 201.36000061035156, Adj Close: 201.36000061035156, Volume: 46742400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: apple, code: AAPL, date: 2025-05-23. The data on that day is as follows: Open: 193.6699981689453, High: 197.6999969482422, Low: 193.4600067138672, Close: 195.27000427246094, Adj Close: 195.27000427246094, Volume: 78432900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-09. The data on that day is as follows: Open: 353.5400085449219, High: 393.2300109863281, Low: 353.1000061035156, Close: 390.489990234375, Adj Close: 389.7744140625, Volume: 50199700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-10. The data on that day is as follows: Open: 382.05999755859375, High: 383.8999938964844, Low: 367.79998779296875, Close: 381.3500061035156, Adj Close: 380.65118408203125, Volume: 38024400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-11. The data on that day is as follows: Open: 380.6400146484375, High: 390.04998779296875, Low: 378.8900146484375, Close: 388.45001220703125, Adj Close: 387.7381896972656, Volume: 23839200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-14. The data on that day is as follows: Open: 393.2200012207031, High: 394.6499938964844, Low: 384.2099914550781, Close: 387.80999755859375, Adj Close: 387.0993347167969, Volume: 19251200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-15. The data on that day is as follows: Open: 388.510009765625, High: 391.8900146484375, Low: 384.1600036621094, Close: 385.7300109863281, Adj Close: 385.0231628417969, Volume: 17199900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-16. The data on that day is as follows: Open: 380.6700134277344, High: 381.6099853515625, Low: 368.0, Close: 371.6099853515625, Adj Close: 370.92901611328125, Volume: 21967800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-17. The data on that day is as follows: Open: 373.75, High: 374.32000732421875, Low: 366.8900146484375, Close: 367.7799987792969, Adj Close: 367.1060485839844, Volume: 20943700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-21. The data on that day is as follows: Open: 362.82000732421875, High: 364.4800109863281, Low: 355.6700134277344, Close: 359.1199951171875, Adj Close: 358.4619140625, Volume: 20807300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-22. The data on that day is as follows: Open: 363.3800048828125, High: 367.7699890136719, Low: 359.8599853515625, Close: 366.82000732421875, Adj Close: 366.1478271484375, Volume: 19485000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-23. The data on that day is as follows: Open: 376.05999755859375, High: 380.3900146484375, Low: 373.0199890136719, Close: 374.3900146484375, Adj Close: 373.7039489746094, Volume: 20545500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-24. The data on that day is as follows: Open: 375.70001220703125, High: 388.45001220703125, Low: 375.19000244140625, Close: 387.29998779296875, Adj Close: 386.59027099609375, Volume: 22232300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-25. The data on that day is as follows: Open: 387.0, High: 392.1600036621094, Low: 384.6000061035156, Close: 391.8500061035156, Adj Close: 391.1319580078125, Volume: 18973200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-28. The data on that day is as follows: Open: 391.9599914550781, High: 392.739990234375, Low: 386.6400146484375, Close: 391.1600036621094, Adj Close: 390.4432067871094, Volume: 16579400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-29. The data on that day is as follows: Open: 391.29998779296875, High: 395.1000061035156, Low: 390.3800048828125, Close: 394.0400085449219, Adj Close: 393.31793212890625, Volume: 14974000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-04-30. The data on that day is as follows: Open: 390.29998779296875, High: 396.6600036621094, Low: 384.44000244140625, Close: 395.260009765625, Adj Close: 394.53570556640625, Volume: 36461100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-01. The data on that day is as follows: Open: 431.1099853515625, High: 436.989990234375, Low: 424.8999938964844, Close: 425.3999938964844, Adj Close: 424.6204528808594, Volume: 58938100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-02. The data on that day is as follows: Open: 431.739990234375, High: 439.44000244140625, Low: 429.989990234375, Close: 435.2799987792969, Adj Close: 434.48236083984375, Volume: 30757400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-05. The data on that day is as follows: Open: 432.8699951171875, High: 439.5, Low: 432.1099853515625, Close: 436.1700134277344, Adj Close: 435.3707275390625, Volume: 20136100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-06. The data on that day is as follows: Open: 432.20001220703125, High: 437.7300109863281, Low: 431.1700134277344, Close: 433.30999755859375, Adj Close: 432.5159606933594, Volume: 15104200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-07. The data on that day is as follows: Open: 433.8399963378906, High: 438.1199951171875, Low: 431.1099853515625, Close: 433.3500061035156, Adj Close: 432.555908203125, Volume: 23295300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-08. The data on that day is as follows: Open: 437.92999267578125, High: 443.6700134277344, Low: 435.6600036621094, Close: 438.1700134277344, Adj Close: 437.3670654296875, Volume: 23491300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-09. The data on that day is as follows: Open: 440.0, High: 440.739990234375, Low: 435.8800048828125, Close: 438.7300109863281, Adj Close: 437.9260559082031, Volume: 15324200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-12. The data on that day is as follows: Open: 445.94000244140625, High: 449.3699951171875, Low: 439.7799987792969, Close: 449.260009765625, Adj Close: 448.4367370605469, Volume: 22821900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-13. The data on that day is as follows: Open: 447.7799987792969, High: 450.6700134277344, Low: 445.3599853515625, Close: 449.1400146484375, Adj Close: 448.3169860839844, Volume: 23618800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-14. The data on that day is as follows: Open: 448.1400146484375, High: 453.8999938964844, Low: 448.1400146484375, Close: 452.94000244140625, Adj Close: 452.1099853515625, Volume: 19902800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-15. The data on that day is as follows: Open: 450.7699890136719, High: 456.19000244140625, Low: 450.42999267578125, Close: 453.1300048828125, Adj Close: 453.1300048828125, Volume: 21992300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-16. The data on that day is as follows: Open: 452.04998779296875, High: 454.3599853515625, Low: 448.7300109863281, Close: 454.2699890136719, Adj Close: 454.2699890136719, Volume: 23849800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-19. The data on that day is as follows: Open: 450.8800048828125, High: 459.5899963378906, Low: 450.79998779296875, Close: 458.8699951171875, Adj Close: 458.8699951171875, Volume: 21336500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-20. The data on that day is as follows: Open: 455.5899963378906, High: 458.3399963378906, Low: 454.32000732421875, Close: 458.1700134277344, Adj Close: 458.1700134277344, Volume: 15441800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-21. The data on that day is as follows: Open: 454.57000732421875, High: 457.7799987792969, Low: 451.80999755859375, Close: 452.57000732421875, Adj Close: 452.57000732421875, Volume: 19216900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-22. The data on that day is as follows: Open: 454.95001220703125, High: 460.25, Low: 453.8999938964844, Close: 454.8599853515625, Adj Close: 454.8599853515625, Volume: 18025600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: microsoft, code: MSFT, date: 2025-05-23. The data on that day is as follows: Open: 449.9800109863281, High: 453.69000244140625, Low: 448.9100036621094, Close: 450.17999267578125, Adj Close: 450.17999267578125, Volume: 16883500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-09. The data on that day is as follows: Open: 224.69000244140625, High: 274.69000244140625, Low: 223.8800048828125, Close: 272.20001220703125, Adj Close: 272.20001220703125, Volume: 219433400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-10. The data on that day is as follows: Open: 260.0, High: 262.489990234375, Low: 239.3300018310547, Close: 252.39999389648438, Adj Close: 252.39999389648438, Volume: 181722600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-11. The data on that day is as follows: Open: 251.83999633789062, High: 257.739990234375, Low: 241.36000061035156, Close: 252.30999755859375, Adj Close: 252.30999755859375, Volume: 128948100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-14. The data on that day is as follows: Open: 258.3599853515625, High: 261.79998779296875, Low: 245.92999267578125, Close: 252.35000610351562, Adj Close: 252.35000610351562, Volume: 100135200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-15. The data on that day is as follows: Open: 249.91000366210938, High: 258.75, Low: 247.5399932861328, Close: 254.11000061035156, Adj Close: 254.11000061035156, Volume: 79594300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-16. The data on that day is as follows: Open: 247.61000061035156, High: 251.97000122070312, Low: 233.88999938964844, Close: 241.5500030517578, Adj Close: 241.5500030517578, Volume: 112378700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-17. The data on that day is as follows: Open: 243.47000122070312, High: 244.33999633789062, Low: 237.67999267578125, Close: 241.3699951171875, Adj Close: 241.3699951171875, Volume: 83404800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-21. The data on that day is as follows: Open: 230.25999450683594, High: 232.2100067138672, Low: 222.7899932861328, Close: 227.5, Adj Close: 227.5, Volume: 97768000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-22. The data on that day is as follows: Open: 230.9600067138672, High: 242.7899932861328, Low: 229.85000610351562, Close: 237.97000122070312, Adj Close: 237.97000122070312, Volume: 120858500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-23. The data on that day is as follows: Open: 254.86000061035156, High: 259.45001220703125, Low: 244.42999267578125, Close: 250.74000549316406, Adj Close: 250.74000549316406, Volume: 150381900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-24. The data on that day is as follows: Open: 250.5, High: 259.5400085449219, Low: 249.1999969482422, Close: 259.510009765625, Adj Close: 259.510009765625, Volume: 94464200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-25. The data on that day is as follows: Open: 261.69000244140625, High: 286.8500061035156, Low: 259.6300048828125, Close: 284.95001220703125, Adj Close: 284.95001220703125, Volume: 167560700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-28. The data on that day is as follows: Open: 288.9800109863281, High: 294.8599853515625, Low: 272.4200134277344, Close: 285.8800048828125, Adj Close: 285.8800048828125, Volume: 151731800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-29. The data on that day is as follows: Open: 285.5, High: 293.32000732421875, Low: 279.4700012207031, Close: 292.0299987792969, Adj Close: 292.0299987792969, Volume: 108906600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-04-30. The data on that day is as follows: Open: 279.8999938964844, High: 284.45001220703125, Low: 270.7799987792969, Close: 282.1600036621094, Adj Close: 282.1600036621094, Volume: 128961100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-01. The data on that day is as follows: Open: 280.010009765625, High: 290.8699951171875, Low: 279.80999755859375, Close: 280.5199890136719, Adj Close: 280.5199890136719, Volume: 99659000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-02. The data on that day is as follows: Open: 284.8999938964844, High: 294.7799987792969, Low: 279.80999755859375, Close: 287.2099914550781, Adj Close: 287.2099914550781, Volume: 114454700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-05. The data on that day is as follows: Open: 284.57000732421875, High: 284.8500061035156, Low: 274.3999938964844, Close: 280.260009765625, Adj Close: 280.260009765625, Volume: 94618900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-06. The data on that day is as follows: Open: 273.1099853515625, High: 277.7300109863281, Low: 271.3500061035156, Close: 275.3500061035156, Adj Close: 275.3500061035156, Volume: 76715800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-07. The data on that day is as follows: Open: 276.8800048828125, High: 277.9200134277344, Low: 271.0, Close: 276.2200012207031, Adj Close: 276.2200012207031, Volume: 71592600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-08. The data on that day is as follows: Open: 279.6300048828125, High: 289.79998779296875, Low: 279.4100036621094, Close: 284.82000732421875, Adj Close: 284.82000732421875, Volume: 97539400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-09. The data on that day is as follows: Open: 290.2099914550781, High: 307.0400085449219, Low: 290.0, Close: 298.260009765625, Adj Close: 298.260009765625, Volume: 132387800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-12. The data on that day is as follows: Open: 321.989990234375, High: 322.2099914550781, Low: 311.5, Close: 318.3800048828125, Adj Close: 318.3800048828125, Volume: 112826700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-13. The data on that day is as follows: Open: 320.0, High: 337.5899963378906, Low: 316.79998779296875, Close: 334.07000732421875, Adj Close: 334.07000732421875, Volume: 136992600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-14. The data on that day is as follows: Open: 342.5, High: 350.0, Low: 337.0, Close: 347.67999267578125, Adj Close: 347.67999267578125, Volume: 136997300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-15. The data on that day is as follows: Open: 340.3399963378906, High: 346.1400146484375, Low: 334.7200012207031, Close: 342.82000732421875, Adj Close: 342.82000732421875, Volume: 97882600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-16. The data on that day is as follows: Open: 346.239990234375, High: 351.6199951171875, Low: 342.3299865722656, Close: 349.9800109863281, Adj Close: 349.9800109863281, Volume: 95895700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-19. The data on that day is as follows: Open: 336.29998779296875, High: 343.0, Low: 333.3699951171875, Close: 342.0899963378906, Adj Close: 342.0899963378906, Volume: 88869900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-20. The data on that day is as follows: Open: 347.8699951171875, High: 354.989990234375, Low: 341.6300048828125, Close: 343.82000732421875, Adj Close: 343.82000732421875, Volume: 131715500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-21. The data on that day is as follows: Open: 344.42999267578125, High: 347.3500061035156, Low: 332.20001220703125, Close: 334.6199951171875, Adj Close: 334.6199951171875, Volume: 102354800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-22. The data on that day is as follows: Open: 331.8999938964844, High: 347.2699890136719, Low: 331.3900146484375, Close: 341.0400085449219, Adj Close: 341.0400085449219, Volume: 97113400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: tesla, code: TSLA, date: 2025-05-23. The data on that day is as follows: Open: 337.9200134277344, High: 343.17999267578125, Low: 333.2099914550781, Close: 339.3399963378906, Adj Close: 339.3399963378906, Volume: 84654800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-09. The data on that day is as follows: Open: 98.88999938964844, High: 115.0999984741211, Low: 97.52999877929688, Close: 114.33000183105469, Adj Close: 114.33000183105469, Volume: 612918300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-10. The data on that day is as follows: Open: 109.37000274658203, High: 110.86000061035156, Low: 99.1500015258789, Close: 107.56999969482422, Adj Close: 107.56999969482422, Volume: 437812400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-11. The data on that day is as follows: Open: 108.5, High: 111.55000305175781, Low: 107.4800033569336, Close: 110.93000030517578, Adj Close: 110.93000030517578, Volume: 313417300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-14. The data on that day is as follows: Open: 114.11000061035156, High: 114.29000091552734, Low: 109.06999969482422, Close: 110.70999908447266, Adj Close: 110.70999908447266, Volume: 264705000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-15. The data on that day is as follows: Open: 110.97000122070312, High: 113.62000274658203, Low: 110.5, Close: 112.19999694824219, Adj Close: 112.19999694824219, Volume: 228966900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-16. The data on that day is as follows: Open: 104.55000305175781, High: 106.79000091552734, Low: 100.44999694824219, Close: 104.48999786376953, Adj Close: 104.48999786376953, Volume: 397016900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-17. The data on that day is as follows: Open: 104.44999694824219, High: 104.47000122070312, Low: 100.05000305175781, Close: 101.48999786376953, Adj Close: 101.48999786376953, Volume: 290833400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-21. The data on that day is as follows: Open: 98.7699966430664, High: 99.44000244140625, Low: 95.04000091552734, Close: 96.91000366210938, Adj Close: 96.91000366210938, Volume: 288501100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-22. The data on that day is as follows: Open: 98.77999877929688, High: 99.80999755859375, Low: 97.27999877929688, Close: 98.88999938964844, Adj Close: 98.88999938964844, Volume: 241004800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-23. The data on that day is as follows: Open: 104.5199966430664, High: 104.80000305175781, Low: 102.0199966430664, Close: 102.70999908447266, Adj Close: 102.70999908447266, Volume: 247526000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-24. The data on that day is as follows: Open: 103.4800033569336, High: 106.54000091552734, Low: 103.11000061035156, Close: 106.43000030517578, Adj Close: 106.43000030517578, Volume: 220815000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-25. The data on that day is as follows: Open: 106.8499984741211, High: 111.91999816894531, Low: 105.7300033569336, Close: 111.01000213623047, Adj Close: 111.01000213623047, Volume: 251064700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-28. The data on that day is as follows: Open: 109.69000244140625, High: 110.37000274658203, Low: 106.0199966430664, Close: 108.7300033569336, Adj Close: 108.7300033569336, Volume: 207708500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-29. The data on that day is as follows: Open: 107.66999816894531, High: 110.19999694824219, Low: 107.44000244140625, Close: 109.0199966430664, Adj Close: 109.0199966430664, Volume: 170444300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-04-30. The data on that day is as follows: Open: 104.47000122070312, High: 108.91999816894531, Low: 104.08000183105469, Close: 108.91999816894531, Adj Close: 108.91999816894531, Volume: 235044600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-01. The data on that day is as follows: Open: 113.08000183105469, High: 114.94000244140625, Low: 111.30000305175781, Close: 111.61000061035156, Adj Close: 111.61000061035156, Volume: 236121500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-02. The data on that day is as follows: Open: 114.18000030517578, High: 115.4000015258789, Low: 113.37000274658203, Close: 114.5, Adj Close: 114.5, Volume: 190194800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-05. The data on that day is as follows: Open: 112.91000366210938, High: 114.66999816894531, Low: 112.66000366210938, Close: 113.81999969482422, Adj Close: 113.81999969482422, Volume: 133163200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-06. The data on that day is as follows: Open: 111.4800033569336, High: 114.73999786376953, Low: 110.81999969482422, Close: 113.54000091552734, Adj Close: 113.54000091552734, Volume: 158525600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-07. The data on that day is as follows: Open: 113.05000305175781, High: 117.68000030517578, Low: 112.27999877929688, Close: 117.05999755859375, Adj Close: 117.05999755859375, Volume: 206758800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-08. The data on that day is as follows: Open: 118.25, High: 118.68000030517578, Low: 115.8499984741211, Close: 117.37000274658203, Adj Close: 117.37000274658203, Volume: 198428100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-09. The data on that day is as follows: Open: 117.3499984741211, High: 118.2300033569336, Low: 115.20999908447266, Close: 116.6500015258789, Adj Close: 116.6500015258789, Volume: 132972200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-12. The data on that day is as follows: Open: 121.97000122070312, High: 123.0, Low: 120.27999877929688, Close: 123.0, Adj Close: 123.0, Volume: 225023300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-13. The data on that day is as follows: Open: 124.9800033569336, High: 131.22000122070312, Low: 124.47000122070312, Close: 129.92999267578125, Adj Close: 129.92999267578125, Volume: 330430100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-14. The data on that day is as follows: Open: 133.1999969482422, High: 135.44000244140625, Low: 131.67999267578125, Close: 135.33999633789062, Adj Close: 135.33999633789062, Volume: 281180800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-15. The data on that day is as follows: Open: 134.2899932861328, High: 136.3000030517578, Low: 132.66000366210938, Close: 134.8300018310547, Adj Close: 134.8300018310547, Volume: 226632600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-16. The data on that day is as follows: Open: 136.22000122070312, High: 136.35000610351562, Low: 133.4600067138672, Close: 135.39999389648438, Adj Close: 135.39999389648438, Volume: 226542500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-19. The data on that day is as follows: Open: 132.38999938964844, High: 135.8699951171875, Low: 132.38999938964844, Close: 135.57000732421875, Adj Close: 135.57000732421875, Volume: 193154600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-20. The data on that day is as follows: Open: 134.2899932861328, High: 134.5800018310547, Low: 132.6199951171875, Close: 134.3800048828125, Adj Close: 134.3800048828125, Volume: 161514200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-21. The data on that day is as follows: Open: 133.05999755859375, High: 137.39999389648438, Low: 130.58999633789062, Close: 131.8000030517578, Adj Close: 131.8000030517578, Volume: 270608700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-22. The data on that day is as follows: Open: 132.22999572753906, High: 134.25, Low: 131.5500030517578, Close: 132.8300018310547, Adj Close: 132.8300018310547, Volume: 187344000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: nvidia, code: NVDA, date: 2025-05-23. The data on that day is as follows: Open: 130.0, High: 132.67999267578125, Low: 129.16000366210938, Close: 131.2899932861328, Adj Close: 131.2899932861328, Volume: 198821300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-09. The data on that day is as follows: Open: 172.1199951171875, High: 192.64999389648438, Low: 169.92999267578125, Close: 191.10000610351562, Adj Close: 191.10000610351562, Volume: 116804300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-10. The data on that day is as follows: Open: 185.44000244140625, High: 186.8699951171875, Low: 175.85000610351562, Close: 181.22000122070312, Adj Close: 181.22000122070312, Volume: 68302000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-11. The data on that day is as follows: Open: 179.92999267578125, High: 185.86000061035156, Low: 178.0, Close: 184.8699951171875, Adj Close: 184.8699951171875, Volume: 50594300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-14. The data on that day is as follows: Open: 186.83999633789062, High: 187.44000244140625, Low: 179.22999572753906, Close: 182.1199951171875, Adj Close: 182.1199951171875, Volume: 48002500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-15. The data on that day is as follows: Open: 181.41000366210938, High: 182.35000610351562, Low: 177.92999267578125, Close: 179.58999633789062, Adj Close: 179.58999633789062, Volume: 43642000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-16. The data on that day is as follows: Open: 176.2899932861328, High: 179.10000610351562, Low: 171.41000366210938, Close: 174.3300018310547, Adj Close: 174.3300018310547, Volume: 51875300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-17. The data on that day is as follows: Open: 176.0, High: 176.2100067138672, Low: 172.0, Close: 172.61000061035156, Adj Close: 172.61000061035156, Volume: 44468400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-21. The data on that day is as follows: Open: 169.60000610351562, High: 169.60000610351562, Low: 165.2899932861328, Close: 167.32000732421875, Adj Close: 167.32000732421875, Volume: 48126100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-22. The data on that day is as follows: Open: 169.85000610351562, High: 176.77999877929688, Low: 169.35000610351562, Close: 173.17999267578125, Adj Close: 173.17999267578125, Volume: 56607200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-23. The data on that day is as follows: Open: 183.4499969482422, High: 187.3800048828125, Low: 180.19000244140625, Close: 180.60000610351562, Adj Close: 180.60000610351562, Volume: 63470100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-24. The data on that day is as follows: Open: 180.9199981689453, High: 186.74000549316406, Low: 180.17999267578125, Close: 186.5399932861328, Adj Close: 186.5399932861328, Volume: 43763200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-25. The data on that day is as follows: Open: 187.6199951171875, High: 189.94000244140625, Low: 185.49000549316406, Close: 188.99000549316406, Adj Close: 188.99000549316406, Volume: 36414300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-28. The data on that day is as follows: Open: 190.11000061035156, High: 190.22000122070312, Low: 184.88999938964844, Close: 187.6999969482422, Adj Close: 187.6999969482422, Volume: 33224700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-29. The data on that day is as follows: Open: 183.99000549316406, High: 188.02000427246094, Low: 183.67999267578125, Close: 187.38999938964844, Adj Close: 187.38999938964844, Volume: 41667300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-04-30. The data on that day is as follows: Open: 182.1699981689453, High: 185.0500030517578, Low: 178.85000610351562, Close: 184.4199981689453, Adj Close: 184.4199981689453, Volume: 55176500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-01. The data on that day is as follows: Open: 190.6300048828125, High: 191.80999755859375, Low: 187.5, Close: 190.1999969482422, Adj Close: 190.1999969482422, Volume: 74266000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-02. The data on that day is as follows: Open: 191.44000244140625, High: 192.8800048828125, Low: 186.39999389648438, Close: 189.97999572753906, Adj Close: 189.97999572753906, Volume: 77903500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-05. The data on that day is as follows: Open: 186.50999450683594, High: 188.17999267578125, Low: 185.52999877929688, Close: 186.35000610351562, Adj Close: 186.35000610351562, Volume: 35217500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-06. The data on that day is as follows: Open: 184.57000732421875, High: 187.92999267578125, Low: 183.85000610351562, Close: 185.00999450683594, Adj Close: 185.00999450683594, Volume: 29314100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-07. The data on that day is as follows: Open: 185.55999755859375, High: 190.99000549316406, Low: 185.00999450683594, Close: 188.7100067138672, Adj Close: 188.7100067138672, Volume: 43948600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-08. The data on that day is as follows: Open: 191.42999267578125, High: 194.3300018310547, Low: 188.82000732421875, Close: 192.0800018310547, Adj Close: 192.0800018310547, Volume: 41043600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-09. The data on that day is as follows: Open: 193.3800048828125, High: 194.69000244140625, Low: 191.16000366210938, Close: 193.05999755859375, Adj Close: 193.05999755859375, Volume: 29663100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-12. The data on that day is as follows: Open: 210.7100067138672, High: 211.66000366210938, Low: 205.75, Close: 208.63999938964844, Adj Close: 208.63999938964844, Volume: 75205000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-13. The data on that day is as follows: Open: 211.0800018310547, High: 214.83999633789062, Low: 210.10000610351562, Close: 211.3699951171875, Adj Close: 211.3699951171875, Volume: 56193700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-14. The data on that day is as follows: Open: 211.4499969482422, High: 211.92999267578125, Low: 208.85000610351562, Close: 210.25, Adj Close: 210.25, Volume: 38492100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-15. The data on that day is as follows: Open: 206.4499969482422, High: 206.8800048828125, Low: 202.6699981689453, Close: 205.1699981689453, Adj Close: 205.1699981689453, Volume: 64347300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-16. The data on that day is as follows: Open: 206.85000610351562, High: 206.85000610351562, Low: 204.3699951171875, Close: 205.58999633789062, Adj Close: 205.58999633789062, Volume: 43318500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-19. The data on that day is as follows: Open: 201.64999389648438, High: 206.6199951171875, Low: 201.25999450683594, Close: 206.16000366210938, Adj Close: 206.16000366210938, Volume: 34314800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-20. The data on that day is as follows: Open: 204.6300048828125, High: 205.58999633789062, Low: 202.64999389648438, Close: 204.07000732421875, Adj Close: 204.07000732421875, Volume: 29470400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-21. The data on that day is as follows: Open: 201.61000061035156, High: 203.4600067138672, Low: 200.05999755859375, Close: 201.1199951171875, Adj Close: 201.1199951171875, Volume: 42460900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-22. The data on that day is as follows: Open: 201.3800048828125, High: 205.75999450683594, Low: 200.16000366210938, Close: 203.10000610351562, Adj Close: 203.10000610351562, Volume: 38938900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: amazon, code: AMZN, date: 2025-05-23. The data on that day is as follows: Open: 198.89999389648438, High: 202.3699951171875, Low: 197.85000610351562, Close: 200.99000549316406, Adj Close: 200.99000549316406, Volume: 33393500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-09. The data on that day is as follows: Open: 144.4199981689453, High: 159.5500030517578, Low: 143.91000366210938, Close: 158.7100067138672, Adj Close: 158.7100067138672, Volume: 70406200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-10. The data on that day is as follows: Open: 156.5399932861328, High: 157.72000122070312, Low: 149.92999267578125, Close: 152.82000732421875, Adj Close: 152.82000732421875, Volume: 48022000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-11. The data on that day is as follows: Open: 152.89999389648438, High: 157.6699981689453, Low: 152.82000732421875, Close: 157.13999938964844, Adj Close: 157.13999938964844, Volume: 33636200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-14. The data on that day is as follows: Open: 160.0, High: 161.72000122070312, Low: 157.55999755859375, Close: 159.07000732421875, Adj Close: 159.07000732421875, Volume: 30333000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-15. The data on that day is as follows: Open: 159.1300048828125, High: 159.64999389648438, Low: 155.2100067138672, Close: 156.30999755859375, Adj Close: 156.30999755859375, Volume: 27551500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-16. The data on that day is as follows: Open: 153.10000610351562, High: 155.88999938964844, Low: 151.50999450683594, Close: 153.3300018310547, Adj Close: 153.3300018310547, Volume: 28187400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-17. The data on that day is as follows: Open: 154.2899932861328, High: 154.67999267578125, Low: 148.5, Close: 151.16000366210938, Adj Close: 151.16000366210938, Volume: 32938500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-21. The data on that day is as follows: Open: 148.8800048828125, High: 148.9499969482422, Low: 146.10000610351562, Close: 147.6699981689453, Adj Close: 147.6699981689453, Volume: 26049100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-22. The data on that day is as follows: Open: 148.88999938964844, High: 152.19000244140625, Low: 148.5399932861328, Close: 151.47000122070312, Adj Close: 151.47000122070312, Volume: 26971800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-23. The data on that day is as follows: Open: 155.61000061035156, High: 157.52999877929688, Low: 153.80999755859375, Close: 155.35000610351562, Adj Close: 155.35000610351562, Volume: 31128800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-24. The data on that day is as follows: Open: 156.14999389648438, High: 159.58999633789062, Low: 155.7899932861328, Close: 159.27999877929688, Adj Close: 159.27999877929688, Volume: 45894000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-25. The data on that day is as follows: Open: 165.07000732421875, High: 166.10000610351562, Low: 161.0399932861328, Close: 161.9600067138672, Adj Close: 161.9600067138672, Volume: 56034000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-28. The data on that day is as follows: Open: 162.42999267578125, High: 163.14999389648438, Low: 158.60000610351562, Close: 160.61000061035156, Adj Close: 160.61000061035156, Volume: 29745800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-29. The data on that day is as follows: Open: 160.32000732421875, High: 160.74000549316406, Low: 157.52000427246094, Close: 160.16000366210938, Adj Close: 160.16000366210938, Volume: 26809000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-04-30. The data on that day is as follows: Open: 157.97999572753906, High: 159.27000427246094, Low: 155.39999389648438, Close: 158.8000030517578, Adj Close: 158.8000030517578, Volume: 34981100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-01. The data on that day is as follows: Open: 160.4499969482422, High: 161.9499969482422, Low: 158.91000366210938, Close: 161.3000030517578, Adj Close: 161.3000030517578, Volume: 30203200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-02. The data on that day is as follows: Open: 163.41000366210938, High: 164.97000122070312, Low: 161.8699951171875, Close: 164.02999877929688, Adj Close: 164.02999877929688, Volume: 25715000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-05. The data on that day is as follows: Open: 163.0, High: 165.38999938964844, Low: 162.72000122070312, Close: 164.2100067138672, Adj Close: 164.2100067138672, Volume: 21341800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-06. The data on that day is as follows: Open: 162.1699981689453, High: 164.8000030517578, Low: 161.19000244140625, Close: 163.22999572753906, Adj Close: 163.22999572753906, Volume: 21277200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-07. The data on that day is as follows: Open: 164.0800018310547, High: 165.0, Low: 147.83999633789062, Close: 151.3800048828125, Adj Close: 151.3800048828125, Volume: 127490100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-08. The data on that day is as follows: Open: 155.0, High: 155.92999267578125, Low: 152.89999389648438, Close: 154.27999877929688, Adj Close: 154.27999877929688, Volume: 57498700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-09. The data on that day is as follows: Open: 154.1699981689453, High: 155.0500030517578, Low: 152.1999969482422, Close: 152.75, Adj Close: 152.75, Volume: 32435300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-12. The data on that day is as follows: Open: 157.49000549316406, High: 159.10000610351562, Low: 156.25, Close: 158.4600067138672, Adj Close: 158.4600067138672, Volume: 44138800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-13. The data on that day is as follows: Open: 158.7899932861328, High: 160.57000732421875, Low: 156.16000366210938, Close: 159.52999877929688, Adj Close: 159.52999877929688, Volume: 42382100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-14. The data on that day is as follows: Open: 159.9600067138672, High: 167.0, Low: 159.61000061035156, Close: 165.3699951171875, Adj Close: 165.3699951171875, Volume: 48755900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-15. The data on that day is as follows: Open: 165.83999633789062, High: 166.2100067138672, Low: 162.3699951171875, Close: 163.9600067138672, Adj Close: 163.9600067138672, Volume: 33146700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-16. The data on that day is as follows: Open: 167.72999572753906, High: 169.35000610351562, Low: 165.6199951171875, Close: 166.19000244140625, Adj Close: 166.19000244140625, Volume: 42846900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-19. The data on that day is as follows: Open: 164.50999450683594, High: 166.63999938964844, Low: 164.22000122070312, Close: 166.5399932861328, Adj Close: 166.5399932861328, Volume: 30426100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-20. The data on that day is as follows: Open: 166.42999267578125, High: 168.5, Low: 162.89999389648438, Close: 163.97999572753906, Adj Close: 163.97999572753906, Volume: 46607700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-21. The data on that day is as follows: Open: 163.69000244140625, High: 173.13999938964844, Low: 163.55999755859375, Close: 168.55999755859375, Adj Close: 168.55999755859375, Volume: 73416000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-22. The data on that day is as follows: Open: 171.85000610351562, High: 176.77000427246094, Low: 170.7100067138672, Close: 170.8699951171875, Adj Close: 170.8699951171875, Volume: 74864400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: google, code: GOOGL, date: 2025-05-23. The data on that day is as follows: Open: 169.05999755859375, High: 169.9600067138672, Low: 167.88999938964844, Close: 168.47000122070312, Adj Close: 168.47000122070312, Volume: 35211400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-09. The data on that day is as follows: Open: 509.2699890136719, High: 587.8900146484375, Low: 502.1099853515625, Close: 585.77001953125, Adj Close: 585.77001953125, Volume: 39216600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-10. The data on that day is as follows: Open: 575.489990234375, High: 581.2999877929688, Low: 535.2999877929688, Close: 546.2899780273438, Adj Close: 546.2899780273438, Volume: 28173500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-11. The data on that day is as follows: Open: 535.510009765625, High: 547.4000244140625, Low: 528.5900268554688, Close: 543.5700073242188, Adj Close: 543.5700073242188, Volume: 17642300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-14. The data on that day is as follows: Open: 556.1699829101562, High: 557.77001953125, Low: 528.280029296875, Close: 531.47998046875, Adj Close: 531.47998046875, Volume: 14130900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-15. The data on that day is as follows: Open: 532.1099853515625, High: 537.9400024414062, Low: 517.5, Close: 521.52001953125, Adj Close: 521.52001953125, Volume: 15558700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-16. The data on that day is as follows: Open: 508.510009765625, High: 513.3699951171875, Low: 495.6300048828125, Close: 502.30999755859375, Adj Close: 502.30999755859375, Volume: 18735100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-17. The data on that day is as follows: Open: 505.25, High: 507.29998779296875, Low: 498.010009765625, Close: 501.4800109863281, Adj Close: 501.4800109863281, Volume: 14593500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-21. The data on that day is as follows: Open: 491.3299865722656, High: 493.5, Low: 479.79998779296875, Close: 484.6600036621094, Adj Close: 484.6600036621094, Volume: 16166000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-22. The data on that day is as follows: Open: 491.8699951171875, High: 506.8800048828125, Low: 486.3599853515625, Close: 500.2799987792969, Adj Close: 500.2799987792969, Volume: 17399400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-23. The data on that day is as follows: Open: 528.530029296875, High: 535.3400268554688, Low: 516.52001953125, Close: 520.27001953125, Adj Close: 520.27001953125, Volume: 18173900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-24. The data on that day is as follows: Open: 518.72998046875, High: 533.9000244140625, Low: 517.5, Close: 533.1500244140625, Adj Close: 533.1500244140625, Volume: 13910000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-25. The data on that day is as follows: Open: 546.7999877929688, High: 549.8599853515625, Low: 536.25, Close: 547.27001953125, Adj Close: 547.27001953125, Volume: 17098900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-28. The data on that day is as follows: Open: 555.6400146484375, High: 558.489990234375, Low: 540.5900268554688, Close: 549.739990234375, Adj Close: 549.739990234375, Volume: 15179000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-29. The data on that day is as follows: Open: 546.0, High: 556.5700073242188, Low: 544.1199951171875, Close: 554.4400024414062, Adj Close: 554.4400024414062, Volume: 11835000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-04-30. The data on that day is as follows: Open: 538.4000244140625, High: 549.0999755859375, Low: 529.5, Close: 549.0, Adj Close: 549.0, Volume: 29244000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-01. The data on that day is as follows: Open: 592.0800170898438, High: 592.9500122070312, Low: 570.5, Close: 572.2100219726562, Adj Close: 572.2100219726562, Volume: 31159000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-02. The data on that day is as follows: Open: 583.4600219726562, High: 604.3400268554688, Low: 578.3300170898438, Close: 597.02001953125, Adj Close: 597.02001953125, Volume: 24739300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-05. The data on that day is as follows: Open: 591.219970703125, High: 603.2100219726562, Low: 588.0499877929688, Close: 599.27001953125, Adj Close: 599.27001953125, Volume: 13887700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-06. The data on that day is as follows: Open: 592.530029296875, High: 596.030029296875, Low: 586.5800170898438, Close: 587.3099975585938, Adj Close: 587.3099975585938, Volume: 10600700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-07. The data on that day is as follows: Open: 590.3599853515625, High: 603.0800170898438, Low: 586.6699829101562, Close: 596.8099975585938, Adj Close: 596.8099975585938, Volume: 13139100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-08. The data on that day is as follows: Open: 606.2899780273438, High: 611.2999877929688, Low: 596.6199951171875, Close: 598.010009765625, Adj Close: 598.010009765625, Volume: 14622800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-09. The data on that day is as follows: Open: 603.719970703125, High: 606.969970703125, Low: 591.7100219726562, Close: 592.489990234375, Adj Close: 592.489990234375, Volume: 10427300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-12. The data on that day is as follows: Open: 630.9199829101562, High: 640.3900146484375, Low: 621.030029296875, Close: 639.4299926757812, Adj Close: 639.4299926757812, Volume: 21965100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-13. The data on that day is as follows: Open: 645.5399780273438, High: 660.9199829101562, Low: 642.8300170898438, Close: 656.030029296875, Adj Close: 656.030029296875, Volume: 18570800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-14. The data on that day is as follows: Open: 661.2100219726562, High: 662.6699829101562, Low: 654.3099975585938, Close: 659.3599853515625, Adj Close: 659.3599853515625, Volume: 12348200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-15. The data on that day is as follows: Open: 654.280029296875, High: 657.3099975585938, Low: 638.5800170898438, Close: 643.8800048828125, Adj Close: 643.8800048828125, Volume: 14341800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-16. The data on that day is as follows: Open: 637.9600219726562, High: 640.4400024414062, Low: 626.1500244140625, Close: 640.3400268554688, Adj Close: 640.3400268554688, Volume: 18519000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-19. The data on that day is as follows: Open: 628.25, High: 643.0, Low: 627.7999877929688, Close: 640.4299926757812, Adj Close: 640.4299926757812, Volume: 9592400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-20. The data on that day is as follows: Open: 636.010009765625, High: 639.3499755859375, Low: 632.260009765625, Close: 637.0999755859375, Adj Close: 637.0999755859375, Volume: 6743500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-21. The data on that day is as follows: Open: 631.7899780273438, High: 646.6099853515625, Low: 630.1699829101562, Close: 635.5, Adj Close: 635.5, Volume: 11464600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-22. The data on that day is as follows: Open: 634.0499877929688, High: 643.25, Low: 630.7100219726562, Close: 636.5700073242188, Adj Close: 636.5700073242188, Volume: 8228400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: meta, code: META, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: meta, code: META, date: 2025-05-23. The data on that day is as follows: Open: 624.0, High: 632.4500122070312, Low: 622.6500244140625, Close: 627.0599975585938, Adj Close: 627.0599975585938, Volume: 8454100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-09. The data on that day is as follows: Open: 855.9299926757812, High: 951.4299926757812, Low: 854.4000244140625, Close: 945.469970703125, Adj Close: 945.469970703125, Volume: 7498000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-10. The data on that day is as follows: Open: 931.9400024414062, High: 941.239990234375, Low: 894.0, Close: 921.1699829101562, Adj Close: 921.1699829101562, Volume: 5129800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-11. The data on that day is as follows: Open: 920.0, High: 944.8599853515625, Low: 906.6799926757812, Close: 918.2899780273438, Adj Close: 918.2899780273438, Volume: 4073600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-14. The data on that day is as follows: Open: 932.7000122070312, High: 948.97998046875, Low: 919.5, Close: 931.280029296875, Adj Close: 931.280029296875, Volume: 4035900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-15. The data on that day is as follows: Open: 950.0, High: 993.4500122070312, Low: 948.0, Close: 976.280029296875, Adj Close: 976.280029296875, Volume: 7712000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-16. The data on that day is as follows: Open: 976.280029296875, High: 981.2100219726562, Low: 949.1699829101562, Close: 961.6300048828125, Adj Close: 961.6300048828125, Volume: 6066100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-17. The data on that day is as follows: Open: 969.0, High: 984.7000122070312, Low: 956.0, Close: 973.030029296875, Adj Close: 973.030029296875, Volume: 8763200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-21. The data on that day is as follows: Open: 984.4000244140625, High: 1019.0, Low: 973.0499877929688, Close: 987.9099731445312, Adj Close: 987.9099731445312, Volume: 9775700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-22. The data on that day is as follows: Open: 1005.2999877929688, High: 1064.969970703125, Low: 1004.52001953125, Close: 1040.3399658203125, Adj Close: 1040.3399658203125, Volume: 9368900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-23. The data on that day is as follows: Open: 1047.219970703125, High: 1061.25, Low: 1032.0, Close: 1049.5899658203125, Adj Close: 1049.5899658203125, Volume: 6471900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-24. The data on that day is as follows: Open: 1048.0, High: 1101.0, Low: 1047.02001953125, Close: 1096.8699951171875, Adj Close: 1096.8699951171875, Volume: 6381900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-25. The data on that day is as follows: Open: 1097.0400390625, High: 1106.800048828125, Low: 1091.0, Close: 1101.530029296875, Adj Close: 1101.530029296875, Volume: 3950000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-28. The data on that day is as follows: Open: 1100.0, High: 1114.0, Low: 1082.6199951171875, Close: 1110.3800048828125, Adj Close: 1110.3800048828125, Volume: 3831100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-29. The data on that day is as follows: Open: 1103.9200439453125, High: 1127.81005859375, Low: 1095.47998046875, Close: 1125.6400146484375, Adj Close: 1125.6400146484375, Volume: 3777300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-04-30. The data on that day is as follows: Open: 1112.6500244140625, High: 1133.199951171875, Low: 1101.1099853515625, Close: 1131.719970703125, Adj Close: 1131.719970703125, Volume: 4266700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-01. The data on that day is as follows: Open: 1122.52001953125, High: 1142.4200439453125, Low: 1111.8299560546875, Close: 1133.469970703125, Adj Close: 1133.469970703125, Volume: 3499500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-02. The data on that day is as follows: Open: 1136.6600341796875, High: 1159.43994140625, Low: 1133.3199462890625, Close: 1156.489990234375, Adj Close: 1156.489990234375, Volume: 3774300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-05. The data on that day is as follows: Open: 1114.800048828125, High: 1144.02001953125, Low: 1107.010009765625, Close: 1134.06005859375, Adj Close: 1134.06005859375, Volume: 5662300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-06. The data on that day is as follows: Open: 1129.4300537109375, High: 1147.6600341796875, Low: 1126.4000244140625, Close: 1137.68994140625, Adj Close: 1137.68994140625, Volume: 3256700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-07. The data on that day is as follows: Open: 1139.1800537109375, High: 1164.0, Low: 1138.0, Close: 1155.4100341796875, Adj Close: 1155.4100341796875, Volume: 4349700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-08. The data on that day is as follows: Open: 1161.6199951171875, High: 1162.2900390625, Low: 1139.199951171875, Close: 1144.4300537109375, Adj Close: 1144.4300537109375, Volume: 3760900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-09. The data on that day is as follows: Open: 1147.0999755859375, High: 1151.0, Low: 1133.219970703125, Close: 1140.219970703125, Adj Close: 1140.219970703125, Volume: 2569600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-12. The data on that day is as follows: Open: 1124.260009765625, High: 1130.0, Low: 1102.9300537109375, Close: 1110.0, Adj Close: 1110.0, Volume: 6479100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-13. The data on that day is as follows: Open: 1114.4599609375, High: 1147.8800048828125, Low: 1106.300048828125, Close: 1138.43994140625, Adj Close: 1138.43994140625, Volume: 3997900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-14. The data on that day is as follows: Open: 1129.5999755859375, High: 1152.9000244140625, Low: 1128.4000244140625, Close: 1150.989990234375, Adj Close: 1150.989990234375, Volume: 3910100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-15. The data on that day is as follows: Open: 1147.739990234375, High: 1187.800048828125, Low: 1147.6500244140625, Close: 1177.97998046875, Adj Close: 1177.97998046875, Volume: 4464000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-16. The data on that day is as follows: Open: 1193.1400146484375, High: 1196.5, Low: 1179.3900146484375, Close: 1191.530029296875, Adj Close: 1191.530029296875, Volume: 4698400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-19. The data on that day is as follows: Open: 1173.5799560546875, High: 1191.6400146484375, Low: 1171.7099609375, Close: 1191.6400146484375, Adj Close: 1191.6400146484375, Volume: 2853400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-20. The data on that day is as follows: Open: 1186.7900390625, High: 1193.0, Low: 1179.02001953125, Close: 1192.02001953125, Adj Close: 1192.02001953125, Volume: 2133100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-21. The data on that day is as follows: Open: 1186.5, High: 1211.219970703125, Low: 1186.5, Close: 1194.6300048828125, Adj Close: 1194.6300048828125, Volume: 2976600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-22. The data on that day is as follows: Open: 1192.4000244140625, High: 1198.75, Low: 1187.2099609375, Close: 1187.969970703125, Adj Close: 1187.969970703125, Volume: 1861600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: netflix, code: NFLX, date: 2025-05-23. The data on that day is as follows: Open: 1184.0, High: 1191.449951171875, Low: 1179.43994140625, Close: 1185.3900146484375, Adj Close: 1185.3900146484375, Volume: 2186500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-09. The data on that day is as follows: Open: 18.06999969482422, High: 21.729999542236328, Low: 17.979999542236328, Close: 21.530000686645508, Adj Close: 21.530000686645508, Volume: 224183500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-10. The data on that day is as follows: Open: 20.68000030517578, High: 20.81999969482422, Low: 19.15999984741211, Close: 19.8799991607666, Adj Close: 19.8799991607666, Volume: 129064900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-11. The data on that day is as follows: Open: 19.25, High: 19.799999237060547, Low: 18.18000030517578, Close: 19.739999771118164, Adj Close: 19.739999771118164, Volume: 128425800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-14. The data on that day is as follows: Open: 20.59000015258789, High: 21.049999237060547, Low: 19.979999542236328, Close: 20.309999465942383, Adj Close: 20.309999465942383, Volume: 101964400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-15. The data on that day is as follows: Open: 20.200000762939453, High: 20.469999313354492, Low: 19.809999465942383, Close: 19.850000381469727, Adj Close: 19.850000381469727, Volume: 64056900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-16. The data on that day is as follows: Open: 19.34000015258789, High: 19.43000030517578, Low: 18.719999313354492, Close: 19.229999542236328, Adj Close: 19.229999542236328, Volume: 89469700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-17. The data on that day is as follows: Open: 18.90999984741211, High: 19.100000381469727, Low: 18.559999465942383, Close: 18.93000030517578, Adj Close: 18.93000030517578, Volume: 85433400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-21. The data on that day is as follows: Open: 18.93000030517578, High: 18.989999771118164, Low: 18.25, Close: 18.84000015258789, Adj Close: 18.84000015258789, Volume: 72409900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-22. The data on that day is as follows: Open: 19.059999465942383, High: 19.739999771118164, Low: 19.040000915527344, Close: 19.510000228881836, Adj Close: 19.510000228881836, Volume: 83365600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-23. The data on that day is as follows: Open: 20.719999313354492, High: 21.030000686645508, Low: 20.309999465942383, Close: 20.59000015258789, Adj Close: 20.59000015258789, Volume: 97188100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-24. The data on that day is as follows: Open: 21.040000915527344, High: 21.549999237060547, Low: 20.8799991607666, Close: 21.489999771118164, Adj Close: 21.489999771118164, Volume: 117086200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-25. The data on that day is as follows: Open: 19.729999542236328, High: 20.18000030517578, Low: 19.34000015258789, Close: 20.049999237060547, Adj Close: 20.049999237060547, Volume: 147711200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-28. The data on that day is as follows: Open: 20.1200008392334, High: 21.079999923706055, Low: 20.049999237060547, Close: 20.510000228881836, Adj Close: 20.510000228881836, Volume: 96624400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-29. The data on that day is as follows: Open: 20.309999465942383, High: 20.850000381469727, Low: 20.219999313354492, Close: 20.34000015258789, Adj Close: 20.34000015258789, Volume: 70031900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-04-30. The data on that day is as follows: Open: 19.709999084472656, High: 20.18000030517578, Low: 19.549999237060547, Close: 20.100000381469727, Adj Close: 20.100000381469727, Volume: 68297300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-01. The data on that day is as follows: Open: 20.219999313354492, High: 20.649999618530273, Low: 19.940000534057617, Close: 19.979999542236328, Adj Close: 19.979999542236328, Volume: 72607500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-02. The data on that day is as follows: Open: 20.260000228881836, High: 20.780000686645508, Low: 20.209999084472656, Close: 20.6200008392334, Adj Close: 20.6200008392334, Volume: 63298500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-05. The data on that day is as follows: Open: 20.389999389648438, High: 20.579999923706055, Low: 20.239999771118164, Close: 20.270000457763672, Adj Close: 20.270000457763672, Volume: 44237000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-06. The data on that day is as follows: Open: 19.920000076293945, High: 20.1200008392334, Low: 19.770000457763672, Close: 19.940000534057617, Adj Close: 19.940000534057617, Volume: 51330800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-07. The data on that day is as follows: Open: 19.969999313354492, High: 20.3700008392334, Low: 19.81999969482422, Close: 20.309999465942383, Adj Close: 20.309999465942383, Volume: 61002600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-08. The data on that day is as follows: Open: 21.010000228881836, High: 21.239999771118164, Low: 20.639999389648438, Close: 21.0, Adj Close: 21.0, Volume: 71651700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-09. The data on that day is as follows: Open: 21.200000762939453, High: 21.450000762939453, Low: 20.829999923706055, Close: 21.420000076293945, Adj Close: 21.420000076293945, Volume: 51768600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-12. The data on that day is as follows: Open: 22.18000030517578, High: 22.670000076293945, Low: 21.8799991607666, Close: 22.18000030517578, Adj Close: 22.18000030517578, Volume: 94578700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-13. The data on that day is as follows: Open: 22.360000610351562, High: 22.8799991607666, Low: 22.299999237060547, Close: 22.559999465942383, Adj Close: 22.559999465942383, Volume: 76850400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-14. The data on that day is as follows: Open: 22.350000381469727, High: 22.459999084472656, Low: 21.459999084472656, Close: 21.520000457763672, Adj Close: 21.520000457763672, Volume: 91584800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-15. The data on that day is as follows: Open: 21.229999542236328, High: 21.6299991607666, Low: 21.190000534057617, Close: 21.549999237060547, Adj Close: 21.549999237060547, Volume: 66705500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-16. The data on that day is as follows: Open: 21.530000686645508, High: 21.760000228881836, Low: 21.350000381469727, Close: 21.65999984741211, Adj Close: 21.65999984741211, Volume: 55795100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-19. The data on that day is as follows: Open: 21.18000030517578, High: 21.559999465942383, Low: 21.049999237060547, Close: 21.3799991607666, Adj Close: 21.3799991607666, Volume: 64279100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-20. The data on that day is as follows: Open: 21.329999923706055, High: 21.40999984741211, Low: 21.1200008392334, Close: 21.270000457763672, Adj Close: 21.270000457763672, Volume: 48497400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-21. The data on that day is as follows: Open: 21.190000534057617, High: 21.6299991607666, Low: 20.59000015258789, Close: 20.690000534057617, Adj Close: 20.690000534057617, Volume: 62904700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-22. The data on that day is as follows: Open: 20.729999542236328, High: 20.899999618530273, Low: 20.510000228881836, Close: 20.549999237060547, Adj Close: 20.549999237060547, Volume: 56077500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: intel, code: INTC, date: 2025-05-23. The data on that day is as follows: Open: 20.15999984741211, High: 20.270000457763672, Low: 19.940000534057617, Close: 20.049999237060547, Adj Close: 20.049999237060547, Volume: 68206100."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-09.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-09. The data on that day is as follows: Open: 79.22000122070312, High: 97.91000366210938, Low: 78.87000274658203, Close: 96.83999633789062, Adj Close: 96.83999633789062, Volume: 97827400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-10.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-10. The data on that day is as follows: Open: 91.0, High: 92.94999694824219, Low: 85.05999755859375, Close: 88.69999694824219, Adj Close: 88.69999694824219, Volume: 65210600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-11.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-11. The data on that day is as follows: Open: 90.51000213623047, High: 94.76000213623047, Low: 90.5, Close: 93.4000015258789, Adj Close: 93.4000015258789, Volume: 57892600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-14.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-14. The data on that day is as follows: Open: 97.11000061035156, High: 97.37000274658203, Low: 93.44999694824219, Close: 94.5, Adj Close: 94.5, Volume: 36003000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-15.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-15. The data on that day is as follows: Open: 94.66000366210938, High: 96.8499984741211, Low: 94.62000274658203, Close: 95.29000091552734, Adj Close: 95.29000091552734, Volume: 28116500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-16.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-16. The data on that day is as follows: Open: 87.61000061035156, High: 90.47000122070312, Low: 85.30000305175781, Close: 88.29000091552734, Adj Close: 88.29000091552734, Volume: 62109000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-17.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-17. The data on that day is as follows: Open: 88.83999633789062, High: 89.02999877929688, Low: 86.5199966430664, Close: 87.5, Adj Close: 87.5, Volume: 34693400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-21.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-21. The data on that day is as follows: Open: 86.0199966430664, High: 86.13999938964844, Low: 83.75, Close: 85.55999755859375, Adj Close: 85.55999755859375, Volume: 33855400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-22.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-22. The data on that day is as follows: Open: 86.12000274658203, High: 87.16999816894531, Low: 85.16999816894531, Close: 86.26000213623047, Adj Close: 86.26000213623047, Volume: 35236700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-23.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-23. The data on that day is as follows: Open: 91.87999725341797, High: 93.73999786376953, Low: 90.12000274658203, Close: 90.38999938964844, Adj Close: 90.38999938964844, Volume: 41102600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-24.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-24. The data on that day is as follows: Open: 91.58999633789062, High: 94.75, Low: 90.37000274658203, Close: 94.47000122070312, Adj Close: 94.47000122070312, Volume: 33681900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-25.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-25. The data on that day is as follows: Open: 93.27999877929688, High: 97.0999984741211, Low: 92.8499984741211, Close: 96.6500015258789, Adj Close: 96.6500015258789, Volume: 28575300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-28.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-28. The data on that day is as follows: Open: 95.58000183105469, High: 97.48999786376953, Low: 94.2699966430664, Close: 96.38999938964844, Adj Close: 96.38999938964844, Volume: 30456700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-29.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-29. The data on that day is as follows: Open: 95.76000213623047, High: 97.18000030517578, Low: 95.33000183105469, Close: 96.05999755859375, Adj Close: 96.05999755859375, Volume: 20700600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-30.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-04-30. The data on that day is as follows: Open: 92.80999755859375, High: 97.55000305175781, Low: 91.87000274658203, Close: 97.3499984741211, Adj Close: 97.3499984741211, Volume: 29730700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-01.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-01. The data on that day is as follows: Open: 99.2699966430664, High: 100.0999984741211, Low: 96.44999694824219, Close: 96.6500015258789, Adj Close: 96.6500015258789, Volume: 29591500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-02.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-02. The data on that day is as follows: Open: 98.4000015258789, High: 99.87999725341797, Low: 98.30000305175781, Close: 98.80000305175781, Adj Close: 98.80000305175781, Volume: 29957900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-05.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-05. The data on that day is as follows: Open: 99.0, High: 102.05000305175781, Low: 98.76000213623047, Close: 100.58999633789062, Adj Close: 100.58999633789062, Volume: 41268900."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-06.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-06. The data on that day is as follows: Open: 98.41000366210938, High: 100.06999969482422, Low: 97.44000244140625, Close: 98.62000274658203, Adj Close: 98.62000274658203, Volume: 54264300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-07.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-07. The data on that day is as follows: Open: 100.75, High: 103.41999816894531, Low: 96.87999725341797, Close: 100.36000061035156, Adj Close: 100.36000061035156, Volume: 86474400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-08.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-08. The data on that day is as follows: Open: 101.91999816894531, High: 105.44000244140625, Low: 101.55999755859375, Close: 101.69999694824219, Adj Close: 101.69999694824219, Volume: 54231400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-09.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-09. The data on that day is as follows: Open: 102.58999633789062, High: 103.54000091552734, Low: 101.5999984741211, Close: 102.83999633789062, Adj Close: 102.83999633789062, Volume: 31704300."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-12.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-12. The data on that day is as follows: Open: 110.41999816894531, High: 110.66999816894531, Low: 106.9800033569336, Close: 108.12000274658203, Adj Close: 108.12000274658203, Volume: 50543400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-13.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-13. The data on that day is as follows: Open: 109.5999984741211, High: 113.12999725341797, Low: 109.0, Close: 112.45999908447266, Adj Close: 112.45999908447266, Volume: 55659500."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-14.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-14. The data on that day is as follows: Open: 119.83000183105469, High: 122.5199966430664, Low: 116.58999633789062, Close: 117.72000122070312, Adj Close: 117.72000122070312, Volume: 86743700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-15.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-15. The data on that day is as follows: Open: 117.0199966430664, High: 117.5, Low: 114.01000213623047, Close: 114.98999786376953, Adj Close: 114.98999786376953, Volume: 43843200."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-16.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-16. The data on that day is as follows: Open: 118.06999969482422, High: 118.23999786376953, Low: 116.01000213623047, Close: 117.16999816894531, Adj Close: 117.16999816894531, Volume: 43419700."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-19.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-19. The data on that day is as follows: Open: 115.0199966430664, High: 115.52999877929688, Low: 114.05999755859375, Close: 114.73999786376953, Adj Close: 114.73999786376953, Volume: 37737400."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-20.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-20. The data on that day is as follows: Open: 114.3499984741211, High: 114.51000213623047, Low: 112.08000183105469, Close: 113.51000213623047, Adj Close: 113.51000213623047, Volume: 29030800."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-21.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-21. The data on that day is as follows: Open: 113.8499984741211, High: 116.0999984741211, Low: 111.08999633789062, Close: 112.05999755859375, Adj Close: 112.05999755859375, Volume: 43594600."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-22.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-22. The data on that day is as follows: Open: 111.9000015258789, High: 112.63999938964844, Low: 110.61000061035156, Close: 110.70999908447266, Adj Close: 110.70999908447266, Volume: 29252000."
+  },
+  {
+    "summary": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-23.",
+    "content": "Stock market data. The stock name is: amd, code: AMD, date: 2025-05-23. The data on that day is as follows: Open: 108.08999633789062, High: 111.0199966430664, Low: 107.66999816894531, Close: 110.30999755859375, Adj Close: 110.30999755859375, Volume: 30867300."
+  }
+]
