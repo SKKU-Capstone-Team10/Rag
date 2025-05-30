@@ -14,20 +14,25 @@ template_title = (
     "Title:"
 )
 
-template_ticker = (
-    "Determine whether the following question is related to stocks, and extract the stock ticker symbol from the question.\n"
-    "Input: {question}\n\n"
-    "Rules:\n"
-    "1. If the question contains a 1–5 character uppercase English ticker pattern (A–Z), output that ticker only.\n"
-    "2. If it includes financial keywords like “stock price”, “earnings”, or “dividend” but no ticker pattern, output `False` only.\n"
-    "3. If multiple tickers appear, output the one most relevant to the question’s intent.\n"
-    "4. Output exactly one token—either the ticker (e.g., `AAPL`) or `False` with no additional text or whitespace.\n\n"
-    "Output:"
+template_events = (
+    "Your task is to generate a list of pairs of [timestamp] and [event] "
+    "from given csv file following the [Rules].\n"
+    "csv file: {csv}\n\n"
+
+    "[Rules]:\n"
+    "0. Generate every contents in English.\n"
+    "1. [timestamp] must be UTC time format like 2025-05-23 12:22:22\n"
+    "2. The columns published is UNIX time and **not directly related** with the [timestamp] to be generated.\n"
+    "3. [event] must be short than 5 words.\n\n"
+
+    "Output **only** the Python literal list of tuples (no additional text or notes).\n"
+    "Example:\n"
+    "[('2025-05-24 06:15:00', 'iPhone tariff threat'), ('2025-05-24 06:40:00', 'Cook calls governor'), ('2025-05-24 11:00:00', 'Ive joins OpenAI'), ('2025-05-24 17:00:00', 'Production unfeasible'), ('2025-05-24 21:30:00', 'Worst BigTech performer'), ('2025-05-25 16:00:00', 'OpenAI buys Ive startup'), ('2025-05-25 16:00:00', 'Trump tariff threat')]"
 )
 
 prompt = ChatPromptTemplate.from_template(template)
 prompt_title = ChatPromptTemplate.from_template(template_title)
-prompt_ticker = ChatPromptTemplate.from_template(template_ticker)
+prompt_events = ChatPromptTemplate.from_template(template_events)
 
 # LLM
 model = ChatOpenAI(model='gpt-4o-mini', temperature=0, api_key=settings.OPENAI_API_KEY)
@@ -48,9 +53,9 @@ chain_title = (
     | StrOutputParser()
 )
 
-chain_ticker = (
-    {'question': RunnablePassthrough()}
-    | prompt_ticker
+chain_events = (
+    {'csv': RunnablePassthrough()}
+    | prompt_events
     | model
     | StrOutputParser()
 )

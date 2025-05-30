@@ -1,12 +1,14 @@
 import os
 from pathlib import Path
-from fastapi import APIRouter
 
-import asyncio
+import ast
+import pandas as pd
+
+from fastapi import APIRouter
 
 from schemas.query import QueryRequest, QueryResponse
 
-from model.gpt import chain, chain_title, chain_ticker
+from model.gpt import chain_title, chain_events
 from data.run import MyProcessor
 
 router = APIRouter(prefix="/rag", tags=['RAG'])
@@ -55,3 +57,18 @@ async def reply(req: QueryRequest):
         refs=refs_splitted,
     )
     return res
+
+
+@router.get('/event/{ticker}')
+def generate_event(ticker: str):
+    ticker = ticker.upper()
+
+    csv_path = os.path.join(BASE_DIR, "data/news/")
+    csv_file = pd.read_csv(os.path.join(csv_path, f"{ticker}.csv"))
+
+    event = chain_events.invoke(
+        {'csv': csv_file}
+    )
+
+    event_parsed = ast.literal_eval(event)
+    return event_parsed
