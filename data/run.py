@@ -99,8 +99,24 @@ class MyProcessor(nn.Module):
         vectordb = self._load_vector_db(db, symbol)
 
         # 검색
-        hits = vectordb.similarity_search_with_score(query, k=topk)
-        docs = [d.page_content for d, _ in hits]
+        # hits = vectordb.similarity_search_with_score(query, k=topk)
+        # docs = [d.page_content for d, _ in hits]
+
+        # 검색 (약간 더 많이 뽑아서 중복 제거 후 topk 개만 취함)
+        raw_k = topk * 3
+        hits = vectordb.similarity_search_with_score(query, k=raw_k)
+
+        # 중복 제거
+        seen = set()
+        unique_docs = []
+        for doc, _ in hits:
+            text = doc.page_content
+            if text not in seen:
+                seen.add(text)
+                unique_docs.append(text)
+            if len(unique_docs) >= topk:
+                break
+        docs = unique_docs
         knowledge = self.concat_docs(docs)
 
         # method 3 = 문서만
@@ -119,8 +135,7 @@ class MyProcessor(nn.Module):
             max_tokens=512,
         )
         answer = comp.choices[0].message.content
-        return answer, knowledge
-
+        return answer, docs
 
 # ────────────────────────────────────────────
 # 3) CLI 엔트리
