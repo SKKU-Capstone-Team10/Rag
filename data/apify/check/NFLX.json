@@ -1,0 +1,679 @@
+[
+  {
+    "id": "zacks:b0e15118c094b:0",
+    "title": "These 3 Companies Crushed Earnings Season",
+    "provider": "zacks",
+    "sourceLogoId": "zacks",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/zacks--theme-light.svg",
+    "published": 1748013300000,
+    "source": "Zacks",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NYSE:ETN",
+        "logoid": "eaton",
+        "logourl": "https://s3-symbol-logo.tradingview.com/eaton.svg"
+      },
+      {
+        "symbol": "NYSE:CNC",
+        "logoid": "centene",
+        "logourl": "https://s3-symbol-logo.tradingview.com/centene.svg"
+      },
+      {
+        "symbol": "NASDAQ:NFLX",
+        "logoid": "netflix",
+        "logourl": "https://s3-symbol-logo.tradingview.com/netflix.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/zacks:b0e15118c094b:0-these-3-companies-crushed-earnings-season/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "The 2025 Q1 earnings season is slowly winding down, with the majority of S&P 500 companies already delivering their results. The period has overall been positive, though commentary surrounding upcoming periods has largely dictated post-earnings moves amid elevated uncertainty stemming from tariff talks."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Still, several companies \u2013 Netflix NFLX, Eaton ETN, and Centene CNC \u2013 knocked it out of the park, posting robust results that had shareholders pleased. Let\u2019s take a closer look at each release for those interested in near-term momentum."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Netflix Shares Surge"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Consistently strong results have led to NFLX\u2019s surge over the past year, with the reaffirmation of FY25 guidance in its latest print going a long way in alleviating investors amid the uncertain environment. Up 90% over the past year, the stock has been a massive bright spot, with its run seemingly being ignored by many amid other trends like the AI frenzy."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Continued subscriber growth has been the real highlight from Netflix, with the company reporting a negative subscriber growth rate just once over its last 12 quarters. The ad-supported tiers were a big surprise to consumers initially given Netflix\u2019s popularity for being ad-free, but the success of the implementation is notable."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "A big crackdown on password sharing, though initially met with blowback among subscribers, has also unlocked many obvious benefits as the company looks to capture revenue from viewers who were potentially watching without an individual subscription."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "As shown below, Netflix\u2019s sales growth has remained rock-solid, posting double-digit percentage YoY growth in six consecutive periods."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Eaton Breaks Records"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Eaton\u2019s results were fantastic, with the company posting record Q1 adjusted EPS of $2.72 (up 13% YoY), record Q1 sales of $6.4 billion (up 7% YoY), and record segment margins of 23.9% (80 bp increase YoY). Further, organic sales growth totaled 9%, above the high end of previous guidance. ETN topped off the results by raising its organic revenue growth guidance for its current fiscal year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Backlog growth within its Electrical segment improved 6% year-over-year, whereas its Aerospace backlog also enjoyed a 16% surge from the year-ago period. The company\u2019s top line has shown solid, consistent growth, as shown below."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "In addition to consistent sales growth, the company has shown a nice commitment to increasingly rewarding shareholders, sporting a 7% five-year annualized dividend growth rate. As shown in the annual chart below, ETN\u2019s dividend growth has remained strong not just over the last five years, but over the last decade overall."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Please note that the final value in the chart below is tracked on a trailing twelve-month basis, as the company\u2019s current fiscal year hasn\u2019t ended yet."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                {
+                  "type": "b",
+                  "children": [
+                    "Centene Raises Outlook"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Adjusted EPS of $2.90 and sales of $46.6 billion from Centene blew away our consensus estimates, with earnings up a strong 28% year-over-year. Higher than expected membership growth led the company to up its 2025 premium and service revenues guidance by $6.0 billion, which already improved by a strong 17% YoY throughout the quarter."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "As shown below, Centene\u2019s sales have remained strong over recent periods, with the most recent period reflecting a notable acceleration. The company also maintained its current year EPS guidance, providing investors with a nice sense of stability in an anxious setting."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Analysts adjusted their current year sales expectations accordingly following the release and guidance upgrade, with Centene now expected to post $179.6 billion in revenues in its current fiscal year. The stock also sports a favorable Zacks Rank #2 (Buy)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "b",
+              "children": [
+                "Bottom Line"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The 2025 Q1 earnings season is slowly grinding down, with the majority of S&P 500 companies already delivering their results. The period has been positive so far, with all three companies above \u2013 Netflix NFLX, Eaton ETN, and Centene CNC \u2013 posting robust results and either reaffirming or raising their guidance."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This article originally published on Zacks Investment Research (zacks.com)."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Zacks Investment Research"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "The 2025 Q1 earnings season is slowly winding down, with the majority of S&P 500 companies already delivering their results. The period has overall been positive, though commentary surrounding upcoming periods has largely dictated post-earnings moves amid elevated uncertainty stemming from tariff talks.Still, several companies \u2013 Netflix NFLX, Eaton ETN, and Centene CNC \u2013 knocked it out of the park, posting robust results that had shareholders pleased. Let\u2019s take a closer look at each release for those interested in near-term momentum.Netflix Shares SurgeConsistently strong results have led to NFLX\u2019s surge over the past year, with the reaffirmation of FY25 guidance in its latest print going a long way in alleviating investors amid the uncertain environment. Up 90% over the past year, the stock has been a massive bright spot, with its run seemingly being ignored by many amid other trends like the AI frenzy.Continued subscriber growth has been the real highlight from Netflix, with the company reporting a negative subscriber growth rate just once over its last 12 quarters. The ad-supported tiers were a big surprise to consumers initially given Netflix\u2019s popularity for being ad-free, but the success of the implementation is notable.A big crackdown on password sharing, though initially met with blowback among subscribers, has also unlocked many obvious benefits as the company looks to capture revenue from viewers who were potentially watching without an individual subscription.As shown below, Netflix\u2019s sales growth has remained rock-solid, posting double-digit percentage YoY growth in six consecutive periods.Eaton Breaks RecordsEaton\u2019s results were fantastic, with the company posting record Q1 adjusted EPS of $2.72 (up 13% YoY), record Q1 sales of $6.4 billion (up 7% YoY), and record segment margins of 23.9% (80 bp increase YoY). Further, organic sales growth totaled 9%, above the high end of previous guidance. ETN topped off the results by raising its organic revenue growth guidance for its current fiscal year.Backlog growth within its Electrical segment improved 6% year-over-year, whereas its Aerospace backlog also enjoyed a 16% surge from the year-ago period. The company\u2019s top line has shown solid, consistent growth, as shown below.In addition to consistent sales growth, the company has shown a nice commitment to increasingly rewarding shareholders, sporting a 7% five-year annualized dividend growth rate. As shown in the annual chart below, ETN\u2019s dividend growth has remained strong not just over the last five years, but over the last decade overall.Please note that the final value in the chart below is tracked on a trailing twelve-month basis, as the company\u2019s current fiscal year hasn\u2019t ended yet.Centene Raises OutlookAdjusted EPS of $2.90 and sales of $46.6 billion from Centene blew away our consensus estimates, with earnings up a strong 28% year-over-year. Higher than expected membership growth led the company to up its 2025 premium and service revenues guidance by $6.0 billion, which already improved by a strong 17% YoY throughout the quarter.As shown below, Centene\u2019s sales have remained strong over recent periods, with the most recent period reflecting a notable acceleration. The company also maintained its current year EPS guidance, providing investors with a nice sense of stability in an anxious setting.Analysts adjusted their current year sales expectations accordingly following the release and guidance upgrade, with Centene now expected to post $179.6 billion in revenues in its current fiscal year. The stock also sports a favorable Zacks Rank #2 (Buy).Bottom LineThe 2025 Q1 earnings season is slowly grinding down, with the majority of S&P 500 companies already delivering their results. The period has been positive so far, with all three companies above \u2013 Netflix NFLX, Eaton ETN, and Centene CNC \u2013 posting robust results and either reaffirming or raising their guidance.This article originally published on Zacks Investment Research (zacks.com).Zacks Investment Research",
+    "shortDescription": "The 2025 Q1 earnings season is slowly winding down, with the majority of S&P 500 companies already delivering their results. The period has overall been positive, though commentary surrounding upcoming periods has largely dictated post-earnings moves amid elevated uncertainty stemming from tariff t\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tag:reuters.com,2025:newsml_L8N3RU0ON:0",
+    "title": "ProSieben boards advise against takeover bid from Berlusconis' MFE",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1747909089000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "XETR:PSM",
+        "logoid": "prosiebensat-1-na-o-n",
+        "logourl": "https://s3-symbol-logo.tradingview.com/prosiebensat-1-na-o-n.svg"
+      },
+      {
+        "symbol": "MIL:MFEA",
+        "logoid": "mfe-a",
+        "logourl": "https://s3-symbol-logo.tradingview.com/mfe-a.svg"
+      },
+      {
+        "symbol": "NASDAQ:NFLX",
+        "logoid": "netflix",
+        "logourl": "https://s3-symbol-logo.tradingview.com/netflix.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L8N3RU0ON:0-prosieben-boards-advise-against-takeover-bid-from-berlusconis-mfe/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "    The boards of ProSiebenSat.1 ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "XETR:PSM",
+                "text": "XETR:PSM"
+              }
+            },
+            " have advised against an \"inadequate\" takeover bid from MFE-MediaForEurope ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "MIL:MFEA",
+                "text": "MIL:MFEA"
+              }
+            },
+            ", the TV broadcaster controlled by Italy's Berlusconi family, the German broadcaster said on Thursday"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "MFE, which has commercial TV operations in Italy and Spain, made an offer for ProSieben in March as part of a push to create a pan-European broadcaster - a strategy resisted by ProSieben, which is striving to remain independent."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "        \"Both governing bodies have concluded that the offer is inadequate from a financial perspective,\" ProSiebenSat.1 said in a statement, adding that it \"does not reflect the expected future development of the value of the company\"."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Milan-listed MFE, which holds a 30.14% stake in ProSieben declined to comment."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Earlier this month, Czech investment firm PPF, which holds a 15% stake in ProSiben, launched a bid to lift its stake in the German broadcaster up to 29.99%, a move welcomed by ProSiebenSat."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "MFE made a cash-and-share bid at the minimum level allowed by German takeover rules, offering 4.48 euros in cash and 0.4 MFE A shares per ProSiebenSat.1 share."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "That is below the current share price of 7.09 euros and PPF's offer of 7 euros per share. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Having already crossed a 30% threshold which normally triggers a mandatory 100% takeover offer under German law, MFE will have the option to buy additional shares in the market after the end of its buyout bid."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "However, a source close to the matter told Reuters last week that it is also weighing whether to raise its bid in response to the counter-proposal by PPF."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "MFE is looking to build a European ad-funded TV platform to resist competition from the likes of U.S. Netflix ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NFLX",
+                "text": "NASDAQ:NFLX"
+              }
+            },
+            " and is pushing for an accelerated sale of ProSiebenSat.1's online investments in order to reduce its debt.    "
+          ]
+        }
+      ]
+    },
+    "descriptionText": "The boards of ProSiebenSat.1 XETR:PSM have advised against an \"inadequate\" takeover bid from MFE-MediaForEurope MIL:MFEA , the TV broadcaster controlled by Italy's Berlusconi family, the German broadcaster said on ThursdayMFE, which has commercial TV operations in Italy and Spain, made an offer for ProSieben in March as part of a push to create a pan-European broadcaster - a strategy resisted by ProSieben, which is striving to remain independent. \"Both governing bodies have concluded that the offer is inadequate from a financial perspective,\" ProSiebenSat.1 said in a statement, adding that it \"does not reflect the expected future development of the value of the company\".Milan-listed MFE, which holds a 30.14% stake in ProSieben declined to comment.Earlier this month, Czech investment firm PPF, which holds a 15% stake in ProSiben, launched a bid to lift its stake in the German broadcaster up to 29.99%, a move welcomed by ProSiebenSat.MFE made a cash-and-share bid at the minimum level allowed by German takeover rules, offering 4.48 euros in cash and 0.4 MFE A shares per ProSiebenSat.1 share.That is below the current share price of 7.09 euros and PPF's offer of 7 euros per share. Having already crossed a 30% threshold which normally triggers a mandatory 100% takeover offer under German law, MFE will have the option to buy additional shares in the market after the end of its buyout bid.However, a source close to the matter told Reuters last week that it is also weighing whether to raise its bid in response to the counter-proposal by PPF.MFE is looking to build a European ad-funded TV platform to resist competition from the likes of U.S. Netflix NASDAQ:NFLX and is pushing for an accelerated sale of ProSiebenSat.1's online investments in order to reduce its debt.",
+    "shortDescription": "The boards of ProSiebenSat.1 XETR:PSM have advised against an \"inadequate\" takeover bid from MFE-MediaForEurope MIL:MFEA, the TV broadcaster controlled by Italy's Berlusconi family, the German broadcaster said on ThursdayMFE, which has commercial TV operations in Italy and Spain, made an offer for\u2026",
+    "summary": {
+      "type": "root",
+      "children": [
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "*",
+              "children": [
+                "ProSieben says MFE offer not adequate"
+              ]
+            },
+            {
+              "type": "*",
+              "children": [
+                "MFE looking to build Europan TV champion"
+              ]
+            },
+            {
+              "type": "*",
+              "children": [
+                "Czech investment firm PPF moved to increase stake"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "summaryText": "- ProSieben says MFE offer not adequate - MFE looking to build Europan TV champion - Czech investment firm PPF moved to increase stake"
+  },
+  {
+    "id": "gurufocus:06aa4f229094b:0",
+    "title": "Netflix (NFLX) Adds Sesame Street After Trump Cuts PBS Funding",
+    "provider": "gurufocus",
+    "sourceLogoId": "gurufocus",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/gurufocus--theme-light.svg",
+    "published": 1747844121000,
+    "source": "GuruFocus",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NFLX",
+        "logoid": "netflix",
+        "logourl": "https://s3-symbol-logo.tradingview.com/netflix.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/gurufocus:06aa4f229094b:0-netflix-nflx-adds-sesame-street-after-trump-cuts-pbs-funding/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Netflix (NFLX, Financials) will begin streaming ",
+            {
+              "type": "i",
+              "children": [
+                "Sesame Street"
+              ]
+            },
+            " after Warner Bros Discovery declined to renew its deal and U.S. President Donald Trump signed an executive order cutting funding to the Public Broadcasting Service and National Public Radio."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The agreement gives Netflix global rights to a new season and 90 hours of archived episodes. The show will also remain available on PBS, which will receive new episodes the same day they debut on Netflix. The Corporation for Public Broadcasting confirmed it is terminating a federal program that previously funded children's content like ",
+            {
+              "type": "i",
+              "children": [
+                "Sesame Street"
+              ]
+            },
+            "."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The platform shift comes as Netflix increases its investment in children's programming, which accounts for about 15% of its total viewership. The company also announced new ",
+            {
+              "type": "i",
+              "children": [
+                "Peppa Pig"
+              ]
+            },
+            " episodes and a related mobile game featuring puzzles and coloring."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            {
+              "type": "i",
+              "children": [
+                "Sesame Street"
+              ]
+            },
+            ", which first aired in 1969, was created with input from child psychologists and Muppet designer Jim Henson to promote early learning. It has long tackled public policy themes, from childhood obesity to arts education, and has featured public figures like Michelle Obama promoting healthy habits."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The deal gives ",
+            {
+              "type": "i",
+              "children": [
+                "Sesame Street"
+              ]
+            },
+            " access to Netflix's 300 million global subscribers, expanding its reach beyond U.S. public television at a time of shifting media budgets and policy pressure."
+          ]
+        },
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "*",
+              "children": [
+                "See Netflix insider trades."
+              ]
+            },
+            {
+              "type": "*",
+              "children": [
+                "Explore Netflix's Peter Lynch chart."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Netflix (NFLX, Financials) will begin streaming Sesame Street after Warner Bros Discovery declined to renew its deal and U.S. President Donald Trump signed an executive order cutting funding to the Public Broadcasting Service and National Public Radio.The agreement gives Netflix global rights to a new season and 90 hours of archived episodes. The show will also remain available on PBS, which will receive new episodes the same day they debut on Netflix. The Corporation for Public Broadcasting confirmed it is terminating a federal program that previously funded children's content like Sesame Street .The platform shift comes as Netflix increases its investment in children's programming, which accounts for about 15% of its total viewership. The company also announced new Peppa Pig episodes and a related mobile game featuring puzzles and coloring.Sesame Street , which first aired in 1969, was created with input from child psychologists and Muppet designer Jim Henson to promote early learning. It has long tackled public policy themes, from childhood obesity to arts education, and has featured public figures like Michelle Obama promoting healthy habits.The deal gives Sesame Street access to Netflix's 300 million global subscribers, expanding its reach beyond U.S. public television at a time of shifting media budgets and policy pressure.- See Netflix insider trades. - Explore Netflix's Peter Lynch chart.",
+    "shortDescription": "Netflix (NFLX, Financials) will begin streaming Sesame Street after Warner Bros Discovery declined to renew its deal and U.S. President Donald Trump signed an executive order cutting funding to the Public Broadcasting Service and National Public Radio.The agreement gives Netflix global rights to a\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tag:reuters.com,2025:newsml_L4N3RS1LP:0",
+    "title": "Epic Games' Fortnite returns to Apple App Store in US after nearly 5 years",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1747781346000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "HKEX:700",
+        "logoid": "tencent",
+        "logourl": "https://s3-symbol-logo.tradingview.com/tencent.svg"
+      },
+      {
+        "symbol": "NYSE:SPOT",
+        "logoid": "spotify-technology",
+        "logourl": "https://s3-symbol-logo.tradingview.com/spotify-technology.svg"
+      },
+      {
+        "symbol": "NASDAQ:NFLX",
+        "logoid": "netflix",
+        "logourl": "https://s3-symbol-logo.tradingview.com/netflix.svg"
+      },
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L4N3RS1LP:0-epic-games-fortnite-returns-to-apple-app-store-in-us-after-nearly-5-years/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "    Epic Games' wildly popular multiplayer shooter game \"Fortnite\" is available again on Apple's ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:AAPL",
+                "text": "NASDAQ:AAPL"
+              }
+            },
+            " App Store in the U.S. from Tuesday, capping a ban of nearly five years and marking a major win for the video game company. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Epic Games, a U.S.-based studio backed by China's Tencent ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "HKEX:700",
+                "text": "HKEX:700"
+              }
+            },
+            ", has been locked in a legal battle with Apple since 2020. Epic Games alleged the iPhone maker's practice of charging a commission of up to 30% on in-app payments violated U.S. antitrust rules."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Fortnite's return to Apple's iOS systems in the U.S. follows an April 30 ruling by a federal judge saying that Apple violated a U.S. court order that required the company to allow greater competition for app downloads and payment methods in its App Store. The ruling also said that Apple had failed to comply with the judge's prior injunction order and would be referred to federal prosecutors for a criminal contempt investigation."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apple did not immediately respond to a Reuters request for comment on Fortnite's return to its App Store. \"We back fam,\" Epic Games CEO Tim Sweeney posted on social media platform X."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Launched in 2017, Fortnite became an instant hit, drawing millions of players around the world thanks to its last-player-standing, \"battle royale\" format. At the time of the ban, Epic had 116 million users just on Apple's platform."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"For Epic Games this was a hard fought win that carried a very steep price and may be too late to boost its Fortnite game that is now past its prime,\" said Gil Luria, analyst at D.A. Davidson. \"For Apple this is another crack in the armor that the services business relies on \u2014 the funneling of payments through Apple in order to charge developers for every transaction.\""
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Michael Ashley Schulman, chief investment officer at Running Point Capital Advisors, said this opened the door for subscription apps like Spotify ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NYSE:SPOT",
+                "text": "NYSE:SPOT"
+              }
+            },
+            " and Netflix ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NFLX",
+                "text": "NASDAQ:NFLX"
+              }
+            },
+            " to claw back margin and for independent studios to monetize without having to pay Apple an extra commission, potentially reshaping iOS economics over the next 12-18 months."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            " Apple and Alphabet's Google ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:GOOG",
+                "text": "NASDAQ:GOOG"
+              }
+            },
+            " had banned Fortnite from their stores in 2020 over a tussle about in-app payment guidelines. The game had already returned to Google's Android devices worldwide and iPhones in the EU last year."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The game title was also available on the Epic Games Store and AltStore in the European Union, Fortnite said on X on Tuesday. "
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Epic Games' wildly popular multiplayer shooter game \"Fortnite\" is available again on Apple's NASDAQ:AAPL App Store in the U.S. from Tuesday, capping a ban of nearly five years and marking a major win for the video game company. Epic Games, a U.S.-based studio backed by China's Tencent HKEX:700 , has been locked in a legal battle with Apple since 2020. Epic Games alleged the iPhone maker's practice of charging a commission of up to 30% on in-app payments violated U.S. antitrust rules.Fortnite's return to Apple's iOS systems in the U.S. follows an April 30 ruling by a federal judge saying that Apple violated a U.S. court order that required the company to allow greater competition for app downloads and payment methods in its App Store. The ruling also said that Apple had failed to comply with the judge's prior injunction order and would be referred to federal prosecutors for a criminal contempt investigation.Apple did not immediately respond to a Reuters request for comment on Fortnite's return to its App Store. \"We back fam,\" Epic Games CEO Tim Sweeney posted on social media platform X.Launched in 2017, Fortnite became an instant hit, drawing millions of players around the world thanks to its last-player-standing, \"battle royale\" format. At the time of the ban, Epic had 116 million users just on Apple's platform.\"For Epic Games this was a hard fought win that carried a very steep price and may be too late to boost its Fortnite game that is now past its prime,\" said Gil Luria, analyst at D.A. Davidson. \"For Apple this is another crack in the armor that the services business relies on \u2014 the funneling of payments through Apple in order to charge developers for every transaction.\"Michael Ashley Schulman, chief investment officer at Running Point Capital Advisors, said this opened the door for subscription apps like Spotify NYSE:SPOT and Netflix NASDAQ:NFLX to claw back margin and for independent studios to monetize without having to pay Apple an extra commission, potentially reshaping iOS economics over the next 12-18 months. Apple and Alphabet's Google NASDAQ:GOOG had banned Fortnite from their stores in 2020 over a tussle about in-app payment guidelines. The game had already returned to Google's Android devices worldwide and iPhones in the EU last year.The game title was also available on the Epic Games Store and AltStore in the European Union, Fortnite said on X on Tuesday.",
+    "shortDescription": "Epic Games' wildly popular multiplayer shooter game \"Fortnite\" is available again on Apple's NASDAQ:AAPL App Store in the U.S. from Tuesday, capping a ban of nearly five years and marking a major win for the video game company. Epic Games, a U.S.-based studio backed by China's Tencent HKEX:700, has\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "gurufocus:be355e55a094b:0",
+    "title": "Streaming's Share Jumps as Cable, Broadcast Decline",
+    "provider": "gurufocus",
+    "sourceLogoId": "gurufocus",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/gurufocus--theme-light.svg",
+    "published": 1747773478000,
+    "source": "GuruFocus",
+    "urgency": 2,
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NFLX",
+        "logoid": "netflix",
+        "logourl": "https://s3-symbol-logo.tradingview.com/netflix.svg"
+      },
+      {
+        "symbol": "NYSE:DIS",
+        "logoid": "walt-disney",
+        "logourl": "https://s3-symbol-logo.tradingview.com/walt-disney.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/gurufocus:be355e55a094b:0-streaming-s-share-jumps-as-cable-broadcast-decline/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "Nielsen's Gauge report shows streaming dominating U.S. TV viewing at 44.3%, marking the first time on record that digital platforms hold a plurality of audience share."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Streaming surged 15% year-over-year to account for 44.3% of total TV time in April, while cable slipped 16% to 24.5% and broadcast declined 7% to 20.8%, according to Nielsen data. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "YouTube led all services with a 12.4% share, followed by Netflix ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NFLX",
+                "text": "NASDAQ:NFLX"
+              }
+            },
+            " at 7.5% and Disney ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NYSE:DIS",
+                "text": "NYSE:DIS"
+              }
+            },
+            " at 5%. Grey's Anatomy topped streaming titles with 3.9 billion minutes watched across Hulu and Netflix, underscoring the strength of legacy content on digital platforms."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "On the traditional side, the Men's NCAA Basketball Championship drew April's largest broadcast audience with 18.3 million viewers on CBS, while ESPN's NFL Draft coverage averaged 6.4 million viewers to rank as the month's most-watched cable telecast. These figures highlight cable and broadcast's continuedbut shrinkingrole as sports and live events anchors."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Why It Matters: As viewers migrate to streaming, advertisers and content owners must reallocate budgets toward digital channels and refine measurement strategies to capture real audience reach."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investors will watch Q2 ad-revenue trends and May's Nielsen Gauge for signs that streaming's momentum will translate into sustained monetization gains."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investors will also track how rising OTT engagement shapes network earnings at upcoming quarterly reports."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Nielsen's Gauge report shows streaming dominating U.S. TV viewing at 44.3%, marking the first time on record that digital platforms hold a plurality of audience share.Streaming surged 15% year-over-year to account for 44.3% of total TV time in April, while cable slipped 16% to 24.5% and broadcast declined 7% to 20.8%, according to Nielsen data. YouTube led all services with a 12.4% share, followed by Netflix NASDAQ:NFLX at 7.5% and Disney NYSE:DIS at 5%. Grey's Anatomy topped streaming titles with 3.9 billion minutes watched across Hulu and Netflix, underscoring the strength of legacy content on digital platforms.On the traditional side, the Men's NCAA Basketball Championship drew April's largest broadcast audience with 18.3 million viewers on CBS, while ESPN's NFL Draft coverage averaged 6.4 million viewers to rank as the month's most-watched cable telecast. These figures highlight cable and broadcast's continuedbut shrinkingrole as sports and live events anchors.Why It Matters: As viewers migrate to streaming, advertisers and content owners must reallocate budgets toward digital channels and refine measurement strategies to capture real audience reach.Investors will watch Q2 ad-revenue trends and May's Nielsen Gauge for signs that streaming's momentum will translate into sustained monetization gains.Investors will also track how rising OTT engagement shapes network earnings at upcoming quarterly reports.",
+    "shortDescription": "Nielsen's Gauge report shows streaming dominating U.S. TV viewing at 44.3%, marking the first time on record that digital platforms hold a plurality of audience share.Streaming surged 15% year-over-year to account for 44.3% of total TV time in April, while cable slipped 16% to 24.5% and broadcast d\u2026",
+    "summaryText": null
+  }
+]

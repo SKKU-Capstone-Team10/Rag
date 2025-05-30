@@ -1,0 +1,591 @@
+[
+  {
+    "id": "urn:newsml:mtnewswires.com:20250525:G2507652:0",
+    "title": "Swedish Consortium, Nvidia Unveil Plan to Construct AI Infrastructure in Sweden",
+    "provider": "mt-newswires",
+    "sourceLogoId": "mtnewswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/mtnewswires--theme-light.svg",
+    "published": 1748166698000,
+    "source": "MT Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "LSE:AZN",
+        "logoid": "astrazeneca",
+        "logourl": "https://s3-symbol-logo.tradingview.com/astrazeneca.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "OMXSTO:ERIC_A",
+        "logoid": "ericsson",
+        "logourl": "https://s3-symbol-logo.tradingview.com/ericsson.svg"
+      },
+      {
+        "symbol": "OMXSTO:SEB_A",
+        "logoid": "skandinaviska-enskilda-banken-ser-a",
+        "logourl": "https://s3-symbol-logo.tradingview.com/skandinaviska-enskilda-banken-ser-a.svg"
+      },
+      {
+        "symbol": "OMXSTO:SAAB_B",
+        "logoid": "saab-ab-ser-b",
+        "logourl": "https://s3-symbol-logo.tradingview.com/saab-ab-ser-b.svg"
+      },
+      {
+        "symbol": "HAM:ERCB",
+        "logoid": "ericsson",
+        "logourl": "https://s3-symbol-logo.tradingview.com/ericsson.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/mtnewswires.com:20250525:G2507652:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "A consortium, which includes AstraZeneca ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "LSE:AZN",
+                "text": "LSE:AZN"
+              }
+            },
+            " and Saab (SAAB-B.ST), unveiled its plans to construct Swedish AI infrastructure with Nvidia ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NVDA",
+                "text": "NASDAQ:NVDA"
+              }
+            },
+            ". "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The project will see the consortium creating a supercomputer using Nvidia's NVIDIA DGX SuperPODs and Grace Blackwell GB300 systems, according to a May 24 release. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The infrastructure will be used for drug discoveries, boosting productivity, and the development of AI models, defense capabilities, and products. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Other consortium members are Ericsson (ERIC-B.ST, ERIC-A.ST), Skandinaviska Enskilda Banken (SEB-A.ST, SEB-C.ST), and Wallenberg Investments."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "A consortium, which includes AstraZeneca LSE:AZN and Saab (SAAB-B.ST), unveiled its plans to construct Swedish AI infrastructure with Nvidia NASDAQ:NVDA . The project will see the consortium creating a supercomputer using Nvidia's NVIDIA DGX SuperPODs and Grace Blackwell GB300 systems, according to a May 24 release. The infrastructure will be used for drug discoveries, boosting productivity, and the development of AI models, defense capabilities, and products. Other consortium members are Ericsson (ERIC-B.ST, ERIC-A.ST), Skandinaviska Enskilda Banken (SEB-A.ST, SEB-C.ST), and Wallenberg Investments.",
+    "shortDescription": "A consortium, which includes AstraZeneca LSE:AZN and Saab (SAAB-B.ST), unveiled its plans to construct Swedish AI infrastructure with Nvidia NASDAQ:NVDA. The project will see the consortium creating a supercomputer using Nvidia's NVIDIA DGX SuperPODs and Grace Blackwell GB300 systems, according to\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "DJN_DN20250525000348:0",
+    "title": "Tech Stocks Had a Crazy Few Days. Another Big Week Is Ahead. \u2014 Barrons.com",
+    "provider": "dow-jones",
+    "sourceLogoId": "dow-jones-newswires",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/dow-jones-newswires--theme-light.svg",
+    "published": 1748156400000,
+    "source": "Dow Jones Newswires",
+    "urgency": 2,
+    "permission": "provider",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:GOOG",
+        "logoid": "alphabet",
+        "logourl": "https://s3-symbol-logo.tradingview.com/alphabet.svg"
+      },
+      {
+        "symbol": "NASDAQ:AAPL",
+        "logoid": "apple",
+        "logourl": "https://s3-symbol-logo.tradingview.com/apple.svg"
+      },
+      {
+        "symbol": "NASDAQ:MSFT",
+        "logoid": "microsoft",
+        "logourl": "https://s3-symbol-logo.tradingview.com/microsoft.svg"
+      },
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "NYSE:CRM",
+        "logoid": "salesforce",
+        "logourl": "https://s3-symbol-logo.tradingview.com/salesforce.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/DJN_DN20250525000348:0/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "By Angela Palumbo"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Moody's, rising treasury yields, major announcements from some of the largest tech companies, and trade updates from President Donald Trump."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The S&P 500 ended the week down 2.6% while the tech-heavy Nasdaq Composite dropped 2.5%."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "For tech investors, the highlight came from announcements by Microsoft at its Build conference and Alphabet at its Google I/O event. Microsoft investors were mostly focused on the company highlighting its artificial intelligence agents, while Google shareholders celebrated the introduction of AI Mode into search to compete with gen-AI chatbots."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Wall Street has also been closely watching Apple stock, which dropped 7.6% this week. Shares fell 2.3% on May 21 after ChatGPT-parent OpenAI said that it was buying a start-up owned by Jony Ive, Apple's former chief design officer, for $6.4 billion. OpenAI CEO Sam Altman said that the acquisition was based on the mission of figuring out how to create a family of devices that would allow people to use AI \"to create all sorts of wonderful things.\" For Apple investors, that brings new concerns about competition, though"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Apple stock then declined 3% on Friday after Trump threatened to impose a 25% tariff on iPhones sold in the U.S. unless the devices are made in the states."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The coming week will bring earnings back to the forefront. Wall Street is anticipating first-quarter financial results and commentary from AI darling Nvidia on Wednesday. Investors will want updates on how chip demand is doing in an uncertain economic environment, and they'll want to hear how trade and regulatory decisions may be impacting the company."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Personal computer companies HP Inc. and Dell Technologies will also be reporting their latest financial results on Wednesday and Thursday, respectively. Electronic products are currently exempt from the Trump administration's so-called reciprocal tariffs, but that's not expected to last."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Software company Salesforce will report earnings on Wednesday. Software results have generally been strong this latest earnings season, with executive teams providing better-than-expected outlooks, as enterprises continue to spend on AI initiatives. Salesforce investors will also be looking for updates on the M&A front, following a report on Friday that Salesforce and Informatica were back in talks regarding a possible acquisition."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Write to Angela Palumbo at angela.palumbo@dowjones.com"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "This content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "By Angela PalumboThe long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days.Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Moody's, rising treasury yields, major announcements from some of the largest tech companies, and trade updates from President Donald Trump.The S&P 500 ended the week down 2.6% while the tech-heavy Nasdaq Composite dropped 2.5%.For tech investors, the highlight came from announcements by Microsoft at its Build conference and Alphabet at its Google I/O event. Microsoft investors were mostly focused on the company highlighting its artificial intelligence agents, while Google shareholders celebrated the introduction of AI Mode into search to compete with gen-AI chatbots.Wall Street has also been closely watching Apple stock, which dropped 7.6% this week. Shares fell 2.3% on May 21 after ChatGPT-parent OpenAI said that it was buying a start-up owned by Jony Ive, Apple's former chief design officer, for $6.4 billion. OpenAI CEO Sam Altman said that the acquisition was based on the mission of figuring out how to create a family of devices that would allow people to use AI \"to create all sorts of wonderful things.\" For Apple investors, that brings new concerns about competition, thoughApple stock then declined 3% on Friday after Trump threatened to impose a 25% tariff on iPhones sold in the U.S. unless the devices are made in the states.The coming week will bring earnings back to the forefront. Wall Street is anticipating first-quarter financial results and commentary from AI darling Nvidia on Wednesday. Investors will want updates on how chip demand is doing in an uncertain economic environment, and they'll want to hear how trade and regulatory decisions may be impacting the company.Personal computer companies HP Inc. and Dell Technologies will also be reporting their latest financial results on Wednesday and Thursday, respectively. Electronic products are currently exempt from the Trump administration's so-called reciprocal tariffs, but that's not expected to last.Software company Salesforce will report earnings on Wednesday. Software results have generally been strong this latest earnings season, with executive teams providing better-than-expected outlooks, as enterprises continue to spend on AI initiatives. Salesforce investors will also be looking for updates on the M&A front, following a report on Friday that Salesforce and Informatica were back in talks regarding a possible acquisition.Write to Angela Palumbo at angela.palumbo@dowjones.comThis content was created by Barron's, which is operated by Dow Jones & Co. Barron's is published independently from Dow Jones Newswires and The Wall Street Journal.",
+    "shortDescription": "By Angela PalumboThe long weekend is a welcome reprieve for tech investors as they get ready for what's sure to be another busy few days.Wall Street is coming off a volatile week of trading. As earnings results kept rolling in, investors also reacted to the U.S. losing its top credit rating from Mo\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tag:reuters.com,2025:newsml_L1N3RU045:0",
+    "title": "Nvidia to launch cheaper Blackwell AI chip for China after US export curbs, sources say",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1748088000000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "TWSE:2330",
+        "logoid": "taiwan-semiconductor",
+        "logourl": "https://s3-symbol-logo.tradingview.com/taiwan-semiconductor.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L1N3RU045:0-nvidia-to-launch-cheaper-blackwell-ai-chip-for-china-after-us-export-curbs-sources-say/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "    Nvidia ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NVDA",
+                "text": "NASDAQ:NVDA"
+              }
+            },
+            " will launch a new artificial intelligence chipset for China at a significantly lower price than its recently restricted H20 model and plans to start mass production as early as June, sources familiar with the matter said."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The GPU or graphics processing unit will be part of Nvidia's latest generation Blackwell-architecture AI processors and is expected to be priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, according to two of the sources."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The lower price reflects its weaker specifications and simpler manufacturing requirements."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "It will be based on Nvidia's RTX Pro 6000D, a server-class graphics processor and will use conventional GDDR7 memory instead of more advanced high bandwidth memory, the two sources said."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "They added it would not use Taiwan Semiconductor Manufacturing Co's ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "TWSE:2330",
+                "text": "TWSE:2330"
+              }
+            },
+            " advanced Chip-on-Wafer-on-Substrate (CoWoS) packaging technology."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The new chip's price, specifications and production timing have not previously been reported. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "        The three sources Reuters spoke to for this article declined to be identified as they were not authorised to speak to media."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "        An Nvidia spokesperson said the company was still evaluating its \"limited\" options. \"Until we settle on a new product design and receive approval from the U.S. government, we are effectively foreclosed from China's $50 billion data center market.\" "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "TSMC declined to comment."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "MARKET SHARE PLUNGE "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "China remains a huge market for Nvidia, accounting for 13% of its sales in the past financial year. It's the third time that Nvidia has had to tailor a GPU for the world's second-largest economy after restrictions from U.S. authorities who are keen to stymie Chinese technological development."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "After the U.S. effectively banned the H20 in April, Nvidia initially considered developing a downgraded version of the H20 for China, sources have said, but that plan didn't work out."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia CEO Jensen Huang said last week the company's older Hopper architecture - which the H20 uses - can no longer accommodate further modifications under current U.S. export restrictions."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Reuters was unable to determine the product's final name."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Chinese brokerage GF Securities said in a note published on Tuesday that the new GPU would likely be called the 6000D or the B40, though it did not disclose pricing or cite sources for the information."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "According to two of the sources, Nvidia is also developing another Blackwell-architecture chip for China that is set to begin production as early as September. Reuters was not immediately able to confirm specifications of that variant."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia's market share in China has plummeted from 95% before 2022, when U.S. export curbs that impacted its products began, to 50% currently, Huang told reporters in Taipei this week. Its main competitor is Huawei (HWT.UL) which produces the Ascend 910B chip."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Huang also warned that if U.S. export curbs continue, more Chinese customers will buy Huawei's chips."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The H20 ban forced Nvidia to write off $5.5 billion in inventory and Huang told the Stratechery podcast on Monday that the company also had to walk away from $15 billion in sales."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The latest export restrictions introduced new limits on GPU memory bandwidth - a crucial metric measuring data transmission speeds between the main processor and memory chips. This capability is particularly important for AI workloads that require extensive data processing."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Investment bank Jefferies estimates that the new regulations cap memory bandwidth at 1.7-1.8 terabytes per second. That compares with the 4 terabytes per second that the H20 is capable of."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "GF Securities forecast the new GPU will achieve approximately 1.7 terabytes per second using GDDR7 memory technology, just within the export control limits."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Nvidia NASDAQ:NVDA will launch a new artificial intelligence chipset for China at a significantly lower price than its recently restricted H20 model and plans to start mass production as early as June, sources familiar with the matter said.The GPU or graphics processing unit will be part of Nvidia's latest generation Blackwell-architecture AI processors and is expected to be priced between $6,500 and $8,000, well below the $10,000-$12,000 the H20 sold for, according to two of the sources.The lower price reflects its weaker specifications and simpler manufacturing requirements.It will be based on Nvidia's RTX Pro 6000D, a server-class graphics processor and will use conventional GDDR7 memory instead of more advanced high bandwidth memory, the two sources said.They added it would not use Taiwan Semiconductor Manufacturing Co's TWSE:2330 advanced Chip-on-Wafer-on-Substrate (CoWoS) packaging technology.The new chip's price, specifications and production timing have not previously been reported. The three sources Reuters spoke to for this article declined to be identified as they were not authorised to speak to media. An Nvidia spokesperson said the company was still evaluating its \"limited\" options. \"Until we settle on a new product design and receive approval from the U.S. government, we are effectively foreclosed from China's $50 billion data center market.\" TSMC declined to comment.MARKET SHARE PLUNGE China remains a huge market for Nvidia, accounting for 13% of its sales in the past financial year. It's the third time that Nvidia has had to tailor a GPU for the world's second-largest economy after restrictions from U.S. authorities who are keen to stymie Chinese technological development.After the U.S. effectively banned the H20 in April, Nvidia initially considered developing a downgraded version of the H20 for China, sources have said, but that plan didn't work out.Nvidia CEO Jensen Huang said last week the company's older Hopper architecture - which the H20 uses - can no longer accommodate further modifications under current U.S. export restrictions.Reuters was unable to determine the product's final name.Chinese brokerage GF Securities said in a note published on Tuesday that the new GPU would likely be called the 6000D or the B40, though it did not disclose pricing or cite sources for the information.According to two of the sources, Nvidia is also developing another Blackwell-architecture chip for China that is set to begin production as early as September. Reuters was not immediately able to confirm specifications of that variant.Nvidia's market share in China has plummeted from 95% before 2022, when U.S. export curbs that impacted its products began, to 50% currently, Huang told reporters in Taipei this week. Its main competitor is Huawei (HWT.UL) which produces the Ascend 910B chip.Huang also warned that if U.S. export curbs continue, more Chinese customers will buy Huawei's chips.The H20 ban forced Nvidia to write off $5.5 billion in inventory and Huang told the Stratechery podcast on Monday that the company also had to walk away from $15 billion in sales.The latest export restrictions introduced new limits on GPU memory bandwidth - a crucial metric measuring data transmission speeds between the main processor and memory chips. This capability is particularly important for AI workloads that require extensive data processing.Investment bank Jefferies estimates that the new regulations cap memory bandwidth at 1.7-1.8 terabytes per second. That compares with the 4 terabytes per second that the H20 is capable of.GF Securities forecast the new GPU will achieve approximately 1.7 terabytes per second using GDDR7 memory technology, just within the export control limits.",
+    "shortDescription": "Nvidia NASDAQ:NVDA will launch a new artificial intelligence chipset for China at a significantly lower price than its recently restricted H20 model and plans to start mass production as early as June, sources familiar with the matter said.The GPU or graphics processing unit will be part of Nvidia'\u2026",
+    "summary": {
+      "type": "root",
+      "children": [
+        {
+          "type": "list",
+          "children": [
+            {
+              "type": "*",
+              "children": [
+                "New GPU with Blackwell architecture to cost $6,500-$8,000, sources say"
+              ]
+            },
+            {
+              "type": "*",
+              "children": [
+                "Previous H20 model for China cost $10,000-$12,000"
+              ]
+            },
+            {
+              "type": "*",
+              "children": [
+                "It will use conventional memory and not need TSMC's advanced packaging, sources say"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "summaryText": "- New GPU with Blackwell architecture to cost $6,500-$8,000, sources say - Previous H20 model for China cost $10,000-$12,000 - It will use conventional memory and not need TSMC's advanced packaging, sources say"
+  },
+  {
+    "id": "tag:reuters.com,2025:newsml_L5N3RW01A:0",
+    "title": "Nvidia CEO calls Trump re-industrialisation policies 'visionary'",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1748085487000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      },
+      {
+        "symbol": "OMXSTO:ERIC_A",
+        "logoid": "ericsson",
+        "logourl": "https://s3-symbol-logo.tradingview.com/ericsson.svg"
+      },
+      {
+        "symbol": "LSE:AZN",
+        "logoid": "astrazeneca",
+        "logourl": "https://s3-symbol-logo.tradingview.com/astrazeneca.svg"
+      },
+      {
+        "symbol": "NEO:YNVD",
+        "logoid": "purpose-best-ideas-fd-etf-shs",
+        "logourl": "https://s3-symbol-logo.tradingview.com/purpose-best-ideas-fd-etf-shs.svg"
+      },
+      {
+        "symbol": "OMXSTO:SAAB_B",
+        "logoid": "saab-ab-ser-b",
+        "logourl": "https://s3-symbol-logo.tradingview.com/saab-ab-ser-b.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L5N3RW01A:0-nvidia-ceo-calls-trump-re-industrialisation-policies-visionary/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "    Nvidia ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "NASDAQ:NVDA",
+                "text": "NASDAQ:NVDA"
+              }
+            },
+            " CEO Jensen Huang on Saturday praised U.S. President Donald Trump's efforts to boost U.S. technology as the leading chipmaker announced a partnership with a group of Swedish businesses to develop AI infrastructure in Sweden."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia will provide its latest generation AI data centre platform to a group of Swedish companies, including telecoms gear maker Ericsson ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "OMXSTO:ERIC_A",
+                "text": "OMXSTO:ERIC_A"
+              }
+            },
+            " and drug developer AstraZeneca ",
+            {
+              "type": "symbol",
+              "params": {
+                "symbol": "LSE:AZN",
+                "text": "LSE:AZN"
+              }
+            },
+            ". "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Nvidia has announced a number of similar partnerships in recent weeks in Saudi Arabia and the UAE after the Trump administration rescinded a rule put in place by previous President Joe Biden that would have restricted exports of AI chips. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Huang, who had earlier called controls \"a failure,\" said President Donald Trump wanted U.S. firms to \"win\"."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"American technology companies were very successful in China four years ago, we have lost about 50% of the market share and competitors have grown,\" he said on Saturday in Norrkoping, where he was due to receive an honorary doctorate from Linkoping University.      "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "     \"The President would like American technology to win with Nvidia and American companies to sell chips all over the world and to generate revenues, tax revenues, invest and build in the United States,\" he said.     "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "The Trump administration has introduced sweeping tariffs saying they would stimulate growth, bring home manufacturing jobs and raise tax revenues. "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Many businesses and economists, though, have warned tariffs could have the opposite effect and lead to a recession in the United States and a global downturn by pushing up costs, upending supply chains and hurting consumer and business confidence."
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "Huang said many policies related to re-industrialisation were \"very visionary\". "
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "\"Manufacturing in the United States, securing our supply chain, having real resilience, redundancy and diversity in our manufacturing supply chain - all of that is excellent,\" he said."
+          ]
+        }
+      ]
+    },
+    "descriptionText": "Nvidia NASDAQ:NVDA CEO Jensen Huang on Saturday praised U.S. President Donald Trump's efforts to boost U.S. technology as the leading chipmaker announced a partnership with a group of Swedish businesses to develop AI infrastructure in Sweden.Nvidia will provide its latest generation AI data centre platform to a group of Swedish companies, including telecoms gear maker Ericsson OMXSTO:ERIC_A and drug developer AstraZeneca LSE:AZN . Nvidia has announced a number of similar partnerships in recent weeks in Saudi Arabia and the UAE after the Trump administration rescinded a rule put in place by previous President Joe Biden that would have restricted exports of AI chips. Huang, who had earlier called controls \"a failure,\" said President Donald Trump wanted U.S. firms to \"win\".\"American technology companies were very successful in China four years ago, we have lost about 50% of the market share and competitors have grown,\" he said on Saturday in Norrkoping, where he was due to receive an honorary doctorate from Linkoping University. \"The President would like American technology to win with Nvidia and American companies to sell chips all over the world and to generate revenues, tax revenues, invest and build in the United States,\" he said. The Trump administration has introduced sweeping tariffs saying they would stimulate growth, bring home manufacturing jobs and raise tax revenues. Many businesses and economists, though, have warned tariffs could have the opposite effect and lead to a recession in the United States and a global downturn by pushing up costs, upending supply chains and hurting consumer and business confidence.Huang said many policies related to re-industrialisation were \"very visionary\". \"Manufacturing in the United States, securing our supply chain, having real resilience, redundancy and diversity in our manufacturing supply chain - all of that is excellent,\" he said.",
+    "shortDescription": "Nvidia NASDAQ:NVDA CEO Jensen Huang on Saturday praised U.S. President Donald Trump's efforts to boost U.S. technology as the leading chipmaker announced a partnership with a group of Swedish businesses to develop AI infrastructure in Sweden.Nvidia will provide its latest generation AI data centre\u2026",
+    "summaryText": null
+  },
+  {
+    "id": "tag:reuters.com,2025:newsml_L3N3RW00C:0",
+    "title": "Nvidia and Wallenberg businesses starting AI venture in Sweden- Bloomberg News",
+    "provider": "reuters",
+    "sourceLogoId": "reuters",
+    "sourceLogoUrl": "https://s3.tradingview.com/news/logo/reuters--theme-light.svg",
+    "published": 1748077277000,
+    "source": "Reuters",
+    "urgency": 2,
+    "permission": "preview",
+    "relatedSymbols": [
+      {
+        "symbol": "NASDAQ:NVDA",
+        "logoid": "nvidia",
+        "logourl": "https://s3-symbol-logo.tradingview.com/nvidia.svg"
+      }
+    ],
+    "storyPath": "https://www.tradingview.com/news/reuters.com,2025:newsml_L3N3RW00C:0-nvidia-and-wallenberg-businesses-starting-ai-venture-in-sweden-bloomberg-news/",
+    "astDescription": {
+      "type": "root",
+      "children": [
+        {
+          "type": "p",
+          "children": [
+            "-- Source link: https://tinyurl.com/3sz3sk65"
+          ]
+        },
+        {
+          "type": "p",
+          "children": [
+            "-- Note: Reuters has not verified this story and does not vouch for its accuracy"
+          ]
+        }
+      ]
+    },
+    "descriptionText": "-- Source link: https://tinyurl.com/3sz3sk65-- Note: Reuters has not verified this story and does not vouch for its accuracy",
+    "shortDescription": "-- Source link: https://tinyurl.com/3sz3sk65-- Note: Reuters has not verified this story and does not vouch for its accuracy",
+    "summaryText": null
+  }
+]
