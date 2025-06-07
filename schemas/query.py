@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 from pydantic import BaseModel
 
 
@@ -8,6 +8,6 @@ class QueryRequest(BaseModel):
     is_first_chat: bool
 
 class QueryResponse(BaseModel):
-    title: str
+    title: Optional[str] = None
     reply: str
     refs: List
