@@ -25,12 +25,13 @@ pip install -r requirements.txt
 ### ⚙️ Environment Variables
 
 Create a file named .env in the project root and add the following:
-
+<code><pre>
 OPENAI_API_KEY=[Your OpenAI API Key Here]
 APIFY_API_KEY=[Your Apify API Key Here]
+</code></pre>
 
-Get your API keys from:
-	• https://platform.openai.com/api-keys
+Get your API keys from:<br>
+	• https://platform.openai.com/api-keys<br>
 	• https://console.apify.com/settings/integrations
 
 ---
@@ -68,23 +69,24 @@ uvicorn main:app --port 8001
 
 🔹 Top-Level Files
 
-File	Purpose
-main.py	FastAPI entry point and route definitions
-requirements.txt	Python dependencies
-.env	Environment variables file
+| File                   | Purpose                                                                 |
+|------------------------|-------------------------------------------------------------------------|
+| `main.py`              | **Main entry point** – FastAPI app controller and page router           |
+| `requirements.txt`     | Python dependency list (pip)                                            |
+| `.env`                 | You must create it.                                                     |
 
 
 ---
 
 🔸 Modules & Subdirectories
 
-Folder	Purpose
-api/	FastAPI endpoints
-core/	Environment loading and configuration
-data/	News and financial data, embedding scripts
-model/	Trained models and projection layers
-schemas/	Request/response schema (Pydantic)
-train_model/	Triplet-based embedding training with LoRA
+| Folder              | Purpose                                                                 |
+|---------------------|-------------------------------------------------------------------------|
+| `api/`              | API routers, End Points are defined here                                |
+| `core/`             | Loading `.env`                                                          |
+| `data/`             | Stock News / Retrieval Model                                            |
+| `model/`            | Porjection Layer                                                        |
+| `schemas/`          | Req & Res data field definitions                                        |
 
 
 ---
