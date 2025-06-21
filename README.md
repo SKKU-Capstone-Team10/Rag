@@ -1,63 +1,101 @@
 <div align="center">
   <h1>🚀 Capstone RAG AI Server</h1>
-  <p>Streamlit‑powered AI chatbot &amp; data‑viz web application</p>
+  <p>Streamlit-powered AI chatbot & data-visualization web application</p>
 </div>
 
-<br><hr><br>
+---
 
-<h2>🛠️ Setup</h2>
+## Setup
 
-<pre><code># 1 – Create &amp; activate virtual env
-Python version 3.12.7
-python3 -m venv [name]
-source [name]/bin/activate
+### 1. Clone Repository & Set Up Environment
 
-# 2 – Install dependencies
+```bash
+git clone https://github.com/SKKU-Capstone-Team10/Rag.git
+cd Rag
+
+# Python version: 3.12.7
+python3 -m venv rag
+source rag/bin/activate
+
 pip install -r requirements.txt
-</code></pre>
 
-<br><hr><br>
 
-<h2>⚙️ Environment Variable</h2>
-Create a environment vairable named <code>.env</code><br>
-Fill the content like below<br>
-Get your API keys on below URLs.<br>
-<a href=https://platform.openai.com/api-keys>OpenAI API Key</a><br>
-<a href=https://console.apify.com/settings/integrations>APIFY API Key</a>
-<pre><code>
-  OPENAI_API_KEY=[Your OpenAI API Key Here]
-  APIFY_API_KEY=[Your APIFY API Key Here]
-</code></pre>
+⸻
 
-<h2>⚡ Run</h2>
+⚙️ Environment Variables
 
-<pre><code>uvicorn main:app --port 8001</code></pre>
+Create a file named .env in the project root and add the following keys:
 
-<br><hr><br>
-## 📁 Project Structure
+Obtain API keys from:
+	•	OpenAI API Key
+	•	Apify API Key
 
-### 🔹 Top-Level Files
+OPENAI_API_KEY=[Your OpenAI API Key Here]
+APIFY_API_KEY=[Your Apify API Key Here]
 
-| File                   | Purpose                                                                 |
-|------------------------|-------------------------------------------------------------------------|
-| `main.py`              | **Main entry point** – FastAPI app controller and page router           |
-| `requirements.txt`     | Python dependency list (pip)                                            |
-| `.env`                 | You must create it.                                                     |
 
----
+⸻
 
-### 🔸 Modules & Subdirectories
+Usage
 
-| Folder              | Purpose                                                                 |
-|---------------------|-------------------------------------------------------------------------|
-| `api/`              | API routers, End Points are defined here                                |
-| `core/`             | Loading `.env`                                                          |
-| `data/`             | Stock News / Retrieval Model                                            |
-| `model/`            | Porjection Layer                                                        |
-| `schemas/`          | Req & Res data field definitions                                        |
+1. Process Embeddings
 
----
+Generate dense vector embeddings for retrieval:
+
+cd data/
+python process_embedding.py
+
+
+⸻
+
+2. Train Embedding Model
+
+Train a Bi-Encoder model using triplet loss and apply LoRA fine-tuning:
+
+cd ../train_model/
+python train.py
+
+	•	The trained model and LoRA adapter will be saved in the ../model/ directory.
+
+⸻
+
+3. Run FastAPI Server
+
+Launch the API server:
+
+cd ..
+uvicorn main:app --port 8001
+
+
+⸻
+
+📁 Project Structure
+
+Top-Level Files
+
+File	Purpose
+main.py	FastAPI entry point and route definitions
+requirements.txt	List of required Python packages
+.env	Environment variable configuration file
+
+
+⸻
+
+🔸 Modules & Subdirectories
+
+Folder	Purpose
+api/	FastAPI endpoint definitions
+core/	Environment variable loading and global configuration
+data/	News and financial dataset handling, embedding generation scripts
+model/	Trained model weights and projection layer storage
+schemas/	Request/response schema definitions using Pydantic
+train_model/	Triplet-based embedding model training and LoRA fine-tuning logic
+
+
+⸻
+
 
 <div align="center">
-  <i>Capstone Team 10 · Sungkyunkwan University</i>
+  <i>Capstone Team 10 · Sungkyunkwan University</i>
 </div>
+```
