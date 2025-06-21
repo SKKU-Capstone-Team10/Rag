@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Capstone Backend</h1>
+  <h1>🚀 Capstone RAG AI Server</h1>
   <p>Streamlit‑powered AI chatbot &amp; data‑viz web application</p>
 </div>
 
