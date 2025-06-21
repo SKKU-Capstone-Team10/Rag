@@ -1,5 +1,3 @@
-맞아?
-
 <div align="center">
   <h1>🚀 Capstone RAG AI Server</h1>
   <p>Streamlit-powered AI chatbot & data-visualization web application</p>
@@ -22,7 +20,7 @@ source rag/bin/activate
 pip install -r requirements.txt
 ```
 
-⸻
+---
 
 ⚙️ Environment Variables
 
@@ -35,7 +33,7 @@ Get your API keys from:
 	•	https://platform.openai.com/api-keys
 	•	https://console.apify.com/settings/integrations
 
-⸻
+---
 
 📦 Usage
 
@@ -45,7 +43,7 @@ cd data/
 python process_embedding.py
 ```
 
-⸻
+---
 
 📌 2. Train Embedding Model
 ```bash
@@ -55,7 +53,7 @@ python train.py
 
 	•	Trained model and LoRA adapter are saved in ../model/.
 
-⸻
+---
 
 📌 3. Run FastAPI Server
 ```bash
@@ -64,7 +62,7 @@ uvicorn main:app --port 8001
 ```
 
 
-⸻
+---
 
 📁 Project Structure
 
@@ -76,7 +74,7 @@ requirements.txt	Python dependencies
 .env	Environment variables file
 
 
-⸻
+---
 
 🔸 Modules & Subdirectories
 
@@ -89,7 +87,7 @@ schemas/	Request/response schema (Pydantic)
 train_model/	Triplet-based embedding training with LoRA
 
 
-⸻
+---
 
 
 <div align="center">
