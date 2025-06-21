@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ---
 
-⚙️ Environment Variables
+### ⚙️ Environment Variables
 
 Create a file named .env in the project root and add the following:
 
@@ -30,12 +30,12 @@ OPENAI_API_KEY=[Your OpenAI API Key Here]
 APIFY_API_KEY=[Your Apify API Key Here]
 
 Get your API keys from:
-	•	https://platform.openai.com/api-keys
-	•	https://console.apify.com/settings/integrations
+	• https://platform.openai.com/api-keys
+	• https://console.apify.com/settings/integrations
 
 ---
 
-📦 Usage
+### 📦 Usage
 
 📌 1. Process Embeddings
 ```bash
@@ -51,7 +51,7 @@ cd ../train_model/
 python train.py
 ```
 
-	•	Trained model and LoRA adapter are saved in ../model/.
+	• Trained model and LoRA adapter are saved in ../model/.
 
 ---
 
@@ -64,7 +64,7 @@ uvicorn main:app --port 8001
 
 ---
 
-📁 Project Structure
+### 📁 Project Structure
 
 🔹 Top-Level Files
 
