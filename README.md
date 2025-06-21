@@ -1,3 +1,5 @@
+맞아?
+
 <div align="center">
   <h1>🚀 Capstone RAG AI Server</h1>
   <p>Streamlit-powered AI chatbot & data-visualization web application</p>
@@ -5,7 +7,7 @@
 
 ---
 
-## Setup
+## 🛠️ Setup
 
 ### 1. Clone Repository & Set Up Environment
 
@@ -18,65 +20,60 @@ python3 -m venv rag
 source rag/bin/activate
 
 pip install -r requirements.txt
-
+```
 
 ⸻
 
 ⚙️ Environment Variables
 
-Create a file named .env in the project root and add the following keys:
-
-Obtain API keys from:
-	•	OpenAI API Key
-	•	Apify API Key
+Create a file named .env in the project root and add the following:
 
 OPENAI_API_KEY=[Your OpenAI API Key Here]
 APIFY_API_KEY=[Your Apify API Key Here]
 
+Get your API keys from:
+	•	https://platform.openai.com/api-keys
+	•	https://console.apify.com/settings/integrations
 
 ⸻
 
-Usage
+📦 Usage
 
-1. Process Embeddings
-
-Generate dense vector embeddings for retrieval:
-
+📌 1. Process Embeddings
+```bash
 cd data/
 python process_embedding.py
-
+```
 
 ⸻
 
-2. Train Embedding Model
-
-Train a Bi-Encoder model using triplet loss and apply LoRA fine-tuning:
-
+📌 2. Train Embedding Model
+```bash
 cd ../train_model/
 python train.py
+```
 
-	•	The trained model and LoRA adapter will be saved in the ../model/ directory.
+	•	Trained model and LoRA adapter are saved in ../model/.
 
 ⸻
 
-3. Run FastAPI Server
-
-Launch the API server:
-
+📌 3. Run FastAPI Server
+```bash
 cd ..
 uvicorn main:app --port 8001
+```
 
 
 ⸻
 
 📁 Project Structure
 
-Top-Level Files
+🔹 Top-Level Files
 
 File	Purpose
 main.py	FastAPI entry point and route definitions
-requirements.txt	List of required Python packages
-.env	Environment variable configuration file
+requirements.txt	Python dependencies
+.env	Environment variables file
 
 
 ⸻
@@ -84,12 +81,12 @@ requirements.txt	List of required Python packages
 🔸 Modules & Subdirectories
 
 Folder	Purpose
-api/	FastAPI endpoint definitions
-core/	Environment variable loading and global configuration
-data/	News and financial dataset handling, embedding generation scripts
-model/	Trained model weights and projection layer storage
-schemas/	Request/response schema definitions using Pydantic
-train_model/	Triplet-based embedding model training and LoRA fine-tuning logic
+api/	FastAPI endpoints
+core/	Environment loading and configuration
+data/	News and financial data, embedding scripts
+model/	Trained models and projection layers
+schemas/	Request/response schema (Pydantic)
+train_model/	Triplet-based embedding training with LoRA
 
 
 ⸻
@@ -98,4 +95,6 @@ train_model/	Triplet-based embedding model training and LoRA fine-tuning logic
 <div align="center">
   <i>Capstone Team 10 · Sungkyunkwan University</i>
 </div>
-```
+
+
+
