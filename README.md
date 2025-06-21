@@ -22,8 +22,8 @@ pip install -r requirements.txt
 Create a environment vairable named <code>.env</code><br>
 Fill the content like below<br>
 Get your API keys on below URLs.<br>
-<a href=https://platform.openai.com/api-keys target="_blank">OpenAI API Key</a><br>
-<a href=https://console.apify.com/settings/integrations target="_blank">APIFY API Key</a>
+<a href=https://platform.openai.com/api-keys target=_blank>OpenAI API Key</a><br>
+<a href=https://console.apify.com/settings/integrations target=_blank>APIFY API Key</a>
 <pre><code>
   OPENAI_API_KEY=[Your OpenAI API Key Here]
   APIFY_API_KEY=[Your APIFY API Key Here]
